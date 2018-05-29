@@ -1,15 +1,13 @@
 ---
-title: "Povestea codrului"
+title: Povestea codrului
 date: '2018-01-02 16:35:12'
-slug: 'dobitoace-n-codru'
 image: /images/toys-2962776_640.jpg
-path: '2018-01-02-dobitoace-n-codru.md'
-year: '2018'
-month: '01'
-day: '02'
-author: 59b473454e63ea7e4713a3d0
 description: >-
-    Fie-ți milă oricât de tare te poate durea la un moment dat.Nimeni nu vrea să-ți facă rău suflet drag, ci dorește doar să se asigure că e mai bun decât tine. Nimeni nu vrea să te împingă de pe stâncă 
+  Fie-ți milă oricât de tare te poate durea la un moment dat.Nimeni nu vrea
+  să-ți facă rău suflet drag, ci dorește doar să se asigure că e mai bun decât
+  tine. Nimeni nu vrea să te împingă de pe stâncă 
+author: 59b473454e63ea7e4713a3d0
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Fie-ți milă oricât de tare te poate durea la un moment dat.<br>
 Nimeni nu vrea să-ți facă rău suflet drag, ci dorește doar să se asigure că e mai bun decât tine. Nimeni nu vrea să te împingă de pe stâncă atunci când ești la greu, ci doar să-ți ia locul. Stânca era doar în zonă, trecea pe acolo. Acum, ia și ascultă ceva frumos înainte de culcare!</p>
