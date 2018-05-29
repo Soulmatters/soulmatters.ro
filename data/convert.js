@@ -9,6 +9,8 @@ for(let item of users.users){
 `---
 name: "${item.name}"
 slug: '${item.slug}'
+email: '${item.email}'
+website: '${item.website}'
 id: '${item.id}'
 image: ${item.profile_image}
 ---
