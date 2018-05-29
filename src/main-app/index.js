@@ -63,12 +63,12 @@ class MainApp extends PolymerElement {
         duration: 400,
       })
 
-  //  if(page !== ''){
-  //    this.shadowRoot.querySelector('.top-bar').style.background = "#212121"
-  //  }else{
-  //   this.shadowRoot.querySelector('.top-bar').style.background = "rgba(0,0,0,0.2)"
+   if(page !== ''){
+     this.shadowRoot.querySelector('.top-bar').style.background = "#212121"
+   }else{
+    this.shadowRoot.querySelector('.top-bar').style.background = "rgba(0,0,0,0.2)"
      
-  //  }
+   }
       
     
       

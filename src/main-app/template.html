@@ -107,7 +107,14 @@ footer a{
     pattern="/autor/:name" 
     data="{{autorData}}">
   </app-route>
-
+<div class="top-bar" >
+  <a href="/"> <img src="/images/DDD-1.png" alt="Soulmatters.ro Logo"> </a>
+  <div class="spacer"></div>
+<iron-selector selected="[[page]]" class="menu" attr-for-selected="nume">
+  <a href="/" nume="home">Acasă</a>
+  <a href="/termeni-si-conditii" nume="home">Termeni</a>
+</iron-selector>
+</div>
 
     <iron-pages selected="{{page}}"  id="pages"
       attr-for-selected="name" 
