@@ -7,6 +7,7 @@ const fs = require('fs')
 const fm = require('front-matter')
 const folder = './src/_posts'
 const users = './src/_users'
+const pages = './src/_pages'
 const posts = []
 const resize = require('./resize');
 
@@ -19,6 +20,9 @@ function readDirectory(){
   fs.readdir(users, (err, files) => {   
     readFiles(files, 'users', users)
  });
+ fs.readdir(pages, (err, files) => {   
+  readFiles(files, 'pages', pages)
+});
 }
 
 function readFiles(files, name, folder){

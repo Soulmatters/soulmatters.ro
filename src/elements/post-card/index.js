@@ -3,6 +3,8 @@ import template from './template.html';
 import style from './style.styl';
 import anime from 'animejs';
 import '../autor-card';
+import '@polymer/paper-styles/paper-styles.js';
+
 class PostCard extends PolymerElement {
     static get template()  {
          return html([`${template} <style>${style} </style>`])

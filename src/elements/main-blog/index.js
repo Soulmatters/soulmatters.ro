@@ -8,6 +8,8 @@ import { APP_ACTION } from '../../app-store/lib/reducer';
 import style from './theme.styl'
 import { SharedStyles } from './../../shared-styles'
 import '../user-box';
+import moment from 'moment';
+import 'moment/locale/ro.js';
 export class  MainBlog extends AppStore(PolymerElement) {
     static get properties() {
         return {
@@ -40,6 +42,11 @@ export class  MainBlog extends AppStore(PolymerElement) {
     ready() {
         super.ready();
        
+    }
+    date(date){
+        moment.locale('ro');
+
+        return moment(date).format("Do MMMM, YYYY")
     }
 
 }

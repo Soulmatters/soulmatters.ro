@@ -1,19 +1,21 @@
    
    <style>
-      a.iron-selected{
-        color:#009688;
+     .top-bar a.iron-selected{
+        color:#fff;
 
       }
-      a:hover{
+      .top-bar a:hover{
         color:#00796B; 
       }
-      a{
+      .top-bar a{
         font-size: 17px;
         font-weight: bold;
         text-transform: uppercase;
-        color:#212121;
+        color:rgba(255, 255, 255, 0.7);
+        text-shadow: 0 2px 4px #212121;
         text-decoration: none;
         margin:0 20px;
+        font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
       }
       .top-bar{
         height: 60px;
@@ -23,6 +25,15 @@
       }
       .spacer{
         flex:1;
+      }
+      .top-bar{
+        z-index: 120;
+        position: relative;
+      }
+      .top-bar img{
+        width: 50px;
+        height:  50px;
+        padding: 5px
       }
       .top-bar .menu{
         display: flex;
@@ -42,8 +53,28 @@
       }
 footer{
   width: 100%;
-  height: 200px;
+  background: #212121;
+  padding: 20px;
+  box-sizing: border-box;
 }
+footer  .wrapper {
+  color:#fff;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  max-width: 800px;
+  width: 100%;
+  margin:0 auto;
+  font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 14px;
+  box-sizing: border-box;
+
+}
+footer a{
+  color:#fff;
+  text-decoration: none;
+}
+
  /* Adding this class starts the animation, removing it cuts it short */
  .animated {
   animation-duration: 1s;
@@ -68,7 +99,7 @@ footer{
     </app-route>
     <app-route 
     route="{{route}}" 
-    pattern="/blog/:year/:month/:day/:slug" 
+    pattern="/:year/:month/:day/:slug" 
     data="{{blogData}}">
   </app-route>
   <app-route 
@@ -76,21 +107,22 @@ footer{
     pattern="/autor/:name" 
     data="{{autorData}}">
   </app-route>
-<div class="top-bar">
-  <div class="spacer"></div>
-<iron-selector selected="[[page]]" class="menu" attr-for-selected="nume">
-  <a href="/" nume="home">Home</a>
-</iron-selector>
-</div>
+
 
     <iron-pages selected="{{page}}"  id="pages"
       attr-for-selected="name" 
       selected-attribute="visible" 
       role="main">
       <main-home  class="page" name="home"></main-home>
+      <main-termeni-si-conditii  class="page" name="termeni-si-conditii"></main-termeni-si-conditii>
       <main-blog  class="page" name="blog" slug="[[blogData.slug]]" year="[[blogData.year]]" month="[[blogData.month]]" day="[[blogData.day]]"></main-blog>
       <main-autor class="page"  name="autor" autor="[[autorData.name]]"></main-autor>
 
     </iron-pages>
 
-    <footer></footer>
+    <footer>
+      <div class="wrapper">
+      <div>Soulmatters © 2018</div>
+      <div> <a href="/termeni-si-conditii">Termeni și condiții</a> </div>
+    </div>
+    </footer>

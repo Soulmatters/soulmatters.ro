@@ -2,7 +2,7 @@ import { PolymerElement, html } from '@polymer/polymer';
 import axios from 'axios';
 import template from './template.html';
 import style from './style.styl';
-class AutorCard extends PolymerElement {
+class MainTermeniSiConditii extends PolymerElement {
     static get template()  {
          return html([`${template} <style>${style} </style>`])
 }
@@ -15,21 +15,16 @@ class AutorCard extends PolymerElement {
          type: String,
          observer: '_idChanged'
         },
-        author: {
+        page: {
             type: Object,
             value: () => {}
         }
     }}
-    _idChanged(uid){
-        axios('/data/users.json').then(data => {
-            const author = data.data.filter(item => item.attributes.id === uid)
-            this.author = author[0].attributes;
-            this.dispatch({
-                type: APP_ACTION.UPDATE_STATE,
-                state: 'loaded'
-              });
-        })
-
+    ready(){
+        super.ready()
+        const page = require('../../_pages/termeni-și-condiții.md')
+        this.page = page
+        console.log(this.page)
     }
 }
-window.customElements.define('autor-card', AutorCard);
+window.customElements.define('main-termeni-si-conditii', MainTermeniSiConditii);
