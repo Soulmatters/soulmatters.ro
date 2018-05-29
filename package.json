@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "yarn clean:dist && webpack && yarn copystatic:dist",
+    "build": "node blog.js && yarn clean:dist && webpack && yarn copystatic:dist",
     "dev": "webpack-dev-server --hot --inline",
     "copystatic": "cp -R node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js src/vendor",
     "copystatic:dist": "cp -R src/vendor dist/vendor && cp src/index.html dist && cp src/_redirects dist && cp -R src/data dist && cp -R src/images dist && cp -R src/admin dist",
@@ -36,7 +36,6 @@
     "to-string-loader": "1.1.5"
   },
   "devDependencies": {
-    "advanced-image-loader": "^1.0.0",
     "babel-loader": "^7.1.4",
     "babel-minify-webpack-plugin": "0.3.1",
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
@@ -45,7 +44,6 @@
     "file-loader": "^1.1.11",
     "front-matter": "2.3.0",
     "html-loader": "^0.5.5",
-    "image-webpack-loader": "^4.2.0",
     "imagemagick": "0.1.3",
     "jimp": "^0.2.28",
     "markdown-json": "1.3.0",
@@ -54,8 +52,6 @@
     "polymer-webpack-loader": "^2.0.2",
     "postcss-html-loader": "^1.0.0",
     "raw-loader": "0.5.1",
-    "responsive-loader": "^1.1.0",
-    "responsive-loader-sharp": "^0.8.0",
     "text-loader": "0.0.1",
     "uglifyjs-webpack-plugin": "1.2.4",
     "webpack": "3.5.5",

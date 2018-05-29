@@ -23,15 +23,7 @@ function readFiles(files){
    
     fs.readFile(folder + '/' +file, 'utf8', function(err, data){
       if (err) throw err  
-      var content = fm(data)
-      resize({
-        src: './src/images/meteorit.jpg',
-        dest: './src/assets/large/images/meteorit.jpg',
-        width: 2000,
-         progressive: true,
-         strip: true,
-         quality: 0.8
-      });    
+      var content = fm(data)     
          
         fs.readFile('./src/assets/place'+ content.attributes.image, (err,data) => {         
           if(err){
