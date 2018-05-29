@@ -7,6 +7,7 @@ path: '2014-12-23-intre-fericire-si-deznadejde.md'
 year: '2014'
 month: '12'
 day: '23'
+author: 59b473454e63ea7e4713a3cd
 description: >-
     Ne chinuim să ne turnăm în tipare strâmte făcute de și pentru alții. Societatea spune că trebuie să avem o slujbă, familie și copii. Neapărat în ordinea aceasta. Ce se întâmplă când lucrurile nu stau 
 ---

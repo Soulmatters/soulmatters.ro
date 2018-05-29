@@ -7,6 +7,7 @@ path: '2015-09-03-procrastinare--maine-.md'
 year: '2015'
 month: '09'
 day: '03'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Când ești într-o lume în care nici nu știi ce-ți dorești, poate ai anumite întrebări. „Să continui să mă zbat și să văd ce se întâmplă sau să las totul în plata Domnului și fie ce o fi?” E mai ușor s
 ---

@@ -7,6 +7,7 @@ path: '2015-02-26-o-realizare-intima-de-a-fi---.md'
 year: '2015'
 month: '02'
 day: '26'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Realizez că nu am realizat nimic şi mă pierd în gânduri, mă pierd în vise.Dar şi visul meu e o realizare, o realizare a minţii mele.Şi astfel realizez că  orice gând, orice cuvânt , orice faptă , ce
 ---

@@ -7,6 +7,7 @@ path: '2014-12-10-inspiratia-dintr-un-timp-pierdut.md'
 year: '2014'
 month: '12'
 day: '10'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Inspirația o poți găsi în orice, în fumul de țigară, în fulgii de nea de pe fereastră, în mirosul de cafea, dar și în acele ore pe care tu le crezi pierdute.De câte ori am stat cu căștile în urechi a
 ---

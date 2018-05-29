@@ -7,6 +7,7 @@ path: '2017-12-07-albinuta-si-gandacelul-de-balegar.md'
 year: '2017'
 month: '12'
 day: '07'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Ea este o albinuță și zilnic se duce sa extragă polen de prin floricele. Speră că într-o zi cineva o va vedea și pe ea și o va aprecia pentru tot ce face.Până una alta, aceasta tot încearcă să înțep
 ---

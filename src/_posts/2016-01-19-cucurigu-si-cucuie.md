@@ -7,6 +7,7 @@ path: '2016-01-19-cucurigu-si-cucuie.md'
 year: '2016'
 month: '01'
 day: '19'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Sunt mulți în jurul tău și veghează ceasul întunecat dar și cel insorit, sărind de pe un gard pe altul. Se mai lovesc și unii de alții dar nici nu-i interesează pe unde zboară. Nu le pasă dacă se înd
 ---

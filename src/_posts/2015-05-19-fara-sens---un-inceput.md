@@ -7,6 +7,7 @@ path: '2015-05-19-fara-sens---un-inceput.md'
 year: '2015'
 month: '05'
 day: '19'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Prin împlinirea dorințelor putem defini fericirea? Fericirea are un rol. Acela de a se descoperi în fiecare dintre cei care o cer. Până acum nu și-a descoperit rolul.Are sens să trăim? Nu. Are sens s
 ---

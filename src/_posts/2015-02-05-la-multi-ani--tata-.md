@@ -7,6 +7,7 @@ path: '2015-02-05-la-multi-ani--tata-.md'
 year: '2015'
 month: '02'
 day: '05'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Astăzi e ziua tatălui meu și m-am gândit că cel mai frumos cadou ar fi să îi scriu o mulțumire. Îi mulțumesc pentru că m-a educat și mi-a oferit tot ce mi-am dorit. Eu nu am fost fiica ideală, am făcu
 ---

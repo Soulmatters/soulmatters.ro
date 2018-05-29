@@ -7,6 +7,7 @@ path: '2015-01-15-dorintele-oamenilor.md'
 year: '2015'
 month: '01'
 day: '15'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Poate n-au început de niciunde, poate nu se vor sfârși nici undeva și nici cândva. Vor exista mereu. Mai puțin noi, oamenii de acum. Omul are dorința de a fi iubit, sănătos, prosper și toate cele. Che
 ---

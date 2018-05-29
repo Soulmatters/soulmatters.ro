@@ -7,6 +7,7 @@ path: '2016-01-10-bietul-sufletel-.md'
 year: '2016'
 month: '01'
 day: '10'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Poate pentru că a trăit prea mult în iluzia ideii că ar fi de de folos cuiva... Bietul suflețel cu firea lui naivă! El a crezut că poate aduce bucurie pe chipurile celorlalți și iar s-a înșelat…Pe o
 ---

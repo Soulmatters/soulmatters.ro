@@ -7,6 +7,7 @@ path: '2014-07-22-atasamentul.md'
 year: '2014'
 month: '07'
 day: '22'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Atunci când nu ni se răspunde la nevoia noastră de atașament, ne întristăm, ne simțim neiubiți, respinși, NESIGURI. Atunci când pierdem pe cineva de care eram atașați, lumea noastră se prăbușește. Est
 ---

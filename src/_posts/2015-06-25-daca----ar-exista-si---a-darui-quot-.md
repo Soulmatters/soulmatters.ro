@@ -7,6 +7,7 @@ path: '2015-06-25-daca----ar-exista-si---a-darui-quot-.md'
 year: '2015'
 month: '06'
 day: '25'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Dar poate totuși există?Dacă și cu parcă...Dacă oamenii s-ar ajuta mai mult între ei, inclusiv în această nișă în care activez și eu, lucrurile ar sta altfel.Nu vă sfiiți să împărțiți ceea ce știți
 ---

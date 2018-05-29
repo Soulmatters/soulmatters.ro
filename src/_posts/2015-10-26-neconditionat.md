@@ -7,6 +7,7 @@ path: '2015-10-26-neconditionat.md'
 year: '2015'
 month: '10'
 day: '26'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Mai toată lumea vorbește de D-zeu, iubire, trimite mesaje motivaționale cu sau mai puțină relevanță. Și nu gratis. Nu cu intenția de a le fi auzit mesajul ci de a fi observată imaginea lor.Oameni bun
 ---

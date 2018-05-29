@@ -7,6 +7,7 @@ path: '2015-01-06-rutina-noastra-cea-de-toate-zilele.md'
 year: '2015'
 month: '01'
 day: '06'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Rutina noastră zilnică e un ritual pe care îl respectăm, fără a ne gândi că poate am vrea să schimbăm ceva. Ne trezim și ne ducem la muncă, la școală sau poate stăm acasă. Indiferent de ce include rut
 ---

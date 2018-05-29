@@ -7,6 +7,7 @@ path: '2015-02-12-retele-de-socializare.md'
 year: '2015'
 month: '02'
 day: '12'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Întodeauna vor fi atâtea lucruri de povestit despre ceea ce avem mai important - pe noi înșine. Căutăm să fim ascultați de străini când apropiații noștri n-au timp de noi, ne irosim viețile în rețele 
 ---

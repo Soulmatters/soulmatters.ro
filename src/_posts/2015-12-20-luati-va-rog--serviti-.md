@@ -7,6 +7,7 @@ path: '2015-12-20-luati-va-rog--serviti-.md'
 year: '2015'
 month: '12'
 day: '20'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Sărbătorile vin, trec, altele vor urma și alți ani se vor scurge. Totul într-un ciclu infinit stabilit de către om, însă efemer pentru fiecare dintre noi.Pomi de iarnă, globuri frumos decorate, becul
 ---

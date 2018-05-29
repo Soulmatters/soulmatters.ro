@@ -6,6 +6,7 @@ const im = require('imagemagick');
 const fs = require('fs')
 const fm = require('front-matter')
 const folder = './src/_posts'
+const users = './src/_users'
 const posts = []
 const resize = require('./resize');
 
@@ -13,18 +14,21 @@ const resize = require('./resize');
 readDirectory()
 function readDirectory(){
   fs.readdir(folder, (err, files) => {   
-     readFiles(files)
+     readFiles(files, 'posts', folder)
   });
+  fs.readdir(users, (err, files) => {   
+    readFiles(files, 'users', users)
+ });
 }
 
-function readFiles(files){
+function readFiles(files, name, folder){
   let dataArticles = []
   files.forEach(file => {
    
     fs.readFile(folder + '/' +file, 'utf8', function(err, data){
       if (err) throw err  
       var content = fm(data)     
-         
+      if(name === 'posts'){     
         fs.readFile('./src/assets/place'+ content.attributes.image, (err,data) => {         
           if(err){
             resize({
@@ -61,8 +65,9 @@ function readFiles(files){
               });    
             }
           }); 
+      }
             dataArticles.push(content)
-            writeBlog(dataArticles, './src/data/posts.json')
+            writeBlog(dataArticles, `./src/data/${name}.json`)
         });
       });
 }

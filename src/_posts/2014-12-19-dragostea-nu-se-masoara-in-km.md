@@ -7,6 +7,7 @@ path: '2014-12-19-dragostea-nu-se-masoara-in-km.md'
 year: '2014'
 month: '12'
 day: '19'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Dragostea nu are rațiune, nu se măsoară în km și chiar dacă îți promiți ție să nu mai ai o relație la distanță, ajungi să găsești pe cineva de care îți place la o mie de km de tine. Știi acel moment, 
 ---

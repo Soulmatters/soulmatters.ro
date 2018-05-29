@@ -7,6 +7,7 @@ path: '2016-11-15--de-ce-sa-spun---multumesc--.md'
 year: '2016'
 month: '11'
 day: '15'
+author: 59b473454e63ea7e4713a3cc
 description: >-
        Cap.2 Petrişor se trezi dis-de-dimineaţă, pentru că era nerăbdător să vorbească cu bunica.  Ştia că bunica nu vorbeşte cu el până nu-şi termină treburile prin casă   „Toate la timpul lor” era vorb
 ---

@@ -7,6 +7,7 @@ path: '2015-02-25-uneori-mai-mor.md'
 year: '2015'
 month: '02'
 day: '25'
+author: 59b473454e63ea7e4713a3cd
 description: >-
     Câteodată sunt o altfel de persoană, una în care nu mă recunosc. Fără motiv, devin un eu trist, obosit, lipsit de forță. Poate să existe și un motiv, dar e atât de pal, de șters, că nici măcar eu nu m
 ---

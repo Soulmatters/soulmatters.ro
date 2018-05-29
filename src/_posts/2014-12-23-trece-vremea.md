@@ -7,6 +7,7 @@ path: '2014-12-23-trece-vremea.md'
 year: '2014'
 month: '12'
 day: '23'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Vremea tuturor trece. Chiar și ea însăși trece spre alte timpuri. Cu toate acestea, oamenii așteaptă. Așteaptă să vină tot ce își doresc și să plece ceea ce nu le place. Oricum ar fi, toate trec - tot
 ---

@@ -7,6 +7,7 @@ path: '2015-01-28-dragostea-nu-se-masoara-n-km-ii.md'
 year: '2015'
 month: '01'
 day: '28'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Și zilele treceau. Zile de lacrimi și versuri. O săptămână, două, un mesaj te iubesc și apoi din nou așteptare. Îl sunam zi de zi, îi scriam zi de zi. Niciun răspuns. Nu știam unde am greșit, nu știam
 ---

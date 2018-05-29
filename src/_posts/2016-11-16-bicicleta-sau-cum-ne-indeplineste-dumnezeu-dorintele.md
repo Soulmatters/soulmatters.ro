@@ -7,6 +7,7 @@ path: '2016-11-16-bicicleta-sau-cum-ne-indeplineste-dumnezeu-dorintele.md'
 year: '2016'
 month: '11'
 day: '16'
+author: 59b473454e63ea7e4713a3cc
 description: >-
     Cap. 3    Bunica se uită prin geamul de la bucătărie afară, în grădină. Cerul era senin, păsările ciripeau, florile aveau culorile frumoase ale primăverii şi fluturii pluteau veseli deasupa lor, feri
 ---

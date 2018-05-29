@@ -7,6 +7,7 @@ path: '2015-01-13-inspiratie-si-teama.md'
 year: '2015'
 month: '01'
 day: '13'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Inspirația unui om obișnuit - mult mai vastă decât îți poți imagina, prea ascunsă pentru a o percepe, mult prea temătoare în fața lumii.Câți oameni n-au în tolba inimii inspirație de dăruit? Câtor oa
 ---

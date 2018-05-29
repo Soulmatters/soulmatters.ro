@@ -7,6 +7,7 @@ path: '2014-07-22-de-dragul-altuia.md'
 year: '2014'
 month: '07'
 day: '22'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Nu puțini dintre noi am suportat la un moment dat, de dragul altcuiva anumite chestiuni/situații aflate clar în dezacord cu ceea ce ne doream noi. Posibilele cauze?A face ceva de dragul altcuiva este
 ---

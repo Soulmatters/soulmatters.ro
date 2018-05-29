@@ -7,6 +7,7 @@ path: '2015-02-07-liniste--tacere.md'
 year: '2015'
 month: '02'
 day: '07'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Liniștea, tăcerea pot spune mult mai multe decât cuvintele. Tăcerea poate însemna ignoranță sau poate frica de a spune ce simțim. Liniștea poate consola mult mai bine decât și o mie de cuvinte. La fel
 ---

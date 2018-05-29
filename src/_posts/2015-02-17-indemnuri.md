@@ -7,6 +7,7 @@ path: '2015-02-17-indemnuri.md'
 year: '2015'
 month: '02'
 day: '17'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Când oamenii sunt cei pentru care te întristezi, fie că le plângi de milă pentru problemele lor fie că ei au fost cei care te-au rănit, nu uita un lucru! Viața însăși valorează atât timp cât noi o fac
 ---

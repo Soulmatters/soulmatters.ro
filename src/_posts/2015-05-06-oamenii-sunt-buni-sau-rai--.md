@@ -7,6 +7,7 @@ path: '2015-05-06-oamenii-sunt-buni-sau-rai--.md'
 year: '2015'
 month: '05'
 day: '06'
+author: 59b473454e63ea7e4713a3cd
 description: >-
     Eu trec prin viață având uneori convingerea, sfărâmată de mici excepții, că oamenii sunt răi, individualiști. Mama pleacă de la premiza că toți sunt buni.Veți spune că adevărul nu se află în niciuna 
 ---

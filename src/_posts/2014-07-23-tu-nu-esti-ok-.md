@@ -7,6 +7,7 @@ path: '2014-07-23-tu-nu-esti-ok-.md'
 year: '2014'
 month: '07'
 day: '23'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Cea mai mare greșeală pe care mulți dintre noi am comis-o, a fost să spunem altuia aflat în perioade mai grele, în situații problematice aceste cuvinte  „tu nu ești ok” „tu ai o problemă” „vezi că gre
 ---

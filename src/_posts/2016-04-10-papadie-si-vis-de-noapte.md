@@ -7,6 +7,7 @@ path: '2016-04-10-papadie-si-vis-de-noapte.md'
 year: '2016'
 month: '04'
 day: '10'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Cum ai lăsat totul să te întindă pe iarba verde? Stai pe pământul moale, cu ochii ațintiți spre cer și-n mână cu o păpădie? Cu gura molfăind rumeguș și cu unghiile despicate din carne?  Cum?Suflă în 
 ---

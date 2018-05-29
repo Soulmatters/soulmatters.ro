@@ -7,6 +7,7 @@ path: '2015-04-01-saracie-spirituala.md'
 year: '2015'
 month: '04'
 day: '01'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Prea mulți se plâng că nu au bani, prea mulți se plâng că sunt săraci. Dar e sărăcia o scuză pentru a fi un om rău? Sărăcia se măsoară în lucruri materiale, și nimănui nu îi pasă ce fel de om ești. Și
 ---

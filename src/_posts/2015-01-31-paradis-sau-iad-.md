@@ -7,6 +7,7 @@ path: '2015-01-31-paradis-sau-iad-.md'
 year: '2015'
 month: '01'
 day: '31'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Paradis sau iad? Singur în paradis sau împreună în iad? Ce ați alege?Când așteptarea în sfârșit se preface în nopți petrecute împreună, când distanța nu mai e un obstacol, atunci trăiești un vis. Dar
 ---

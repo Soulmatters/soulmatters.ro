@@ -7,6 +7,7 @@ path: '2015-01-20-asa-este-ea---.md'
 year: '2015'
 month: '01'
 day: '20'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Este rară, fragilă, efemeră și totuși nu îndeajuns de prețuită... așa-i ea, încrederea.Vei vrea să poți prinde rădăcini undeva, cândva și să astepți încrezător că lumea ta va rodi.Îți schimbi locul 
 ---

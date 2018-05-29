@@ -7,6 +7,7 @@ path: '2014-10-16-altu-i-de-vina-.md'
 year: '2014'
 month: '10'
 day: '16'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Atunci când unii oameni dau vina pe alții pentru nefericirea lor sau când noi înșine i-am acuzat pe ceilalți pentru problemele noastre, n-am făcut decât să mai amânăm un pic îmbunătățirea anumitor asp
 ---

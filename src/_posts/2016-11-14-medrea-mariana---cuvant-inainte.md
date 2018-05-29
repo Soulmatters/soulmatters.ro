@@ -7,6 +7,7 @@ path: '2016-11-14-medrea-mariana---cuvant-inainte.md'
 year: '2016'
 month: '11'
 day: '14'
+author: 59b473454e63ea7e4713a3cc
 description: >-
     Cuvânt înainteToţi ne iubim copiii şi nepoţii şi dorim să le oferim o lume mai  bună şi mai frumoasă.Dar, dacă ne uităm în jurul nostru, percepţia este că nu trăim încă în lumea pe care o visăm pent
 ---

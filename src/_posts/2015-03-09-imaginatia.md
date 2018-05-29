@@ -7,6 +7,7 @@ path: '2015-03-09-imaginatia.md'
 year: '2015'
 month: '03'
 day: '09'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Ajuns la capăt de linie, desigur un drum imaginar, constați cu uimire faptul că un alt drum se deschide... la fel de imaginar, dar destul de real, de viu pentru tine. Capete de linie vom mai întâlni, 
 ---

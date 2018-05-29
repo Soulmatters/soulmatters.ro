@@ -7,6 +7,7 @@ path: '2015-07-03-pulberi-de-stele-si-butoiase.md'
 year: '2015'
 month: '07'
 day: '03'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Când taci și faci și aduni... oricum, tot acolo ajungi.Ești în fața lor dar cu fața ta spre zid.Când ești în fața plutonului de execuție și aștepți să încasezi lovitura finală provenită de la cea ma
 ---

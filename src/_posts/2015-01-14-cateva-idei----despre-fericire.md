@@ -7,6 +7,7 @@ path: '2015-01-14-cateva-idei----despre-fericire.md'
 year: '2015'
 month: '01'
 day: '14'
+author: 59b473454e63ea7e4713a3cd
 description: >-
     Sunt fericită în compania persoanei iubite. Aș fi cea mai fericită femeie din lume, dacă aș avea un copil. Fericirea e o stare ce apare atunci când ai făcut un lucru bine. Pentru mine, fericirea e com
 ---

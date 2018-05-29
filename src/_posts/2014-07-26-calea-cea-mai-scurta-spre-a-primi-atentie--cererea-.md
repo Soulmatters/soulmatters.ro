@@ -7,6 +7,7 @@ path: '2014-07-26-calea-cea-mai-scurta-spre-a-primi-atentie--cererea-.md'
 year: '2014'
 month: '07'
 day: '26'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     În acest articol am realizat o clasificare succintă a anumitor cereri exprimate indirect de unii oameni. Multe cereri devin perceptibibile prin diverse cuvinte, atitudini, comportamente și trădează pr
 ---

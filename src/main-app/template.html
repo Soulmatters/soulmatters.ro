@@ -71,21 +71,25 @@ footer{
     pattern="/blog/:year/:month/:day/:slug" 
     data="{{blogData}}">
   </app-route>
+  <app-route 
+    route="{{route}}" 
+    pattern="/autor/:name" 
+    data="{{autorData}}">
+  </app-route>
 <div class="top-bar">
   <div class="spacer"></div>
 <iron-selector selected="[[page]]" class="menu" attr-for-selected="nume">
   <a href="/" nume="home">Home</a>
-  <a href="/about" nume="about">About</a>
 </iron-selector>
 </div>
 
-    <iron-pages selected="[[page]]"  id="pages"
+    <iron-pages selected="{{page}}"  id="pages"
       attr-for-selected="name" 
       selected-attribute="visible" 
       role="main">
       <main-home  class="page" name="home"></main-home>
-      <section  class="page" name="about">hello about</section>
       <main-blog  class="page" name="blog" slug="[[blogData.slug]]" year="[[blogData.year]]" month="[[blogData.month]]" day="[[blogData.day]]"></main-blog>
+      <main-autor class="page"  name="autor" autor="[[autorData.name]]"></main-autor>
 
     </iron-pages>
 

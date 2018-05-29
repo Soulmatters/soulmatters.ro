@@ -7,6 +7,7 @@ path: '2014-10-12-apropiati-straini-si-straini-apropiati.md'
 year: '2014'
 month: '10'
 day: '12'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Probabil că mulți dintre noi am simțit într-un anumit moment al vieții, cum persoanele apropiate, s-au înstrăinat de noi. Este un mare paradox pe care încerc de mult timp să-l înțeleg și în acest arti
 ---

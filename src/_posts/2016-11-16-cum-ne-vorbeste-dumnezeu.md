@@ -7,6 +7,7 @@ path: '2016-11-16-cum-ne-vorbeste-dumnezeu.md'
 year: '2016'
 month: '11'
 day: '16'
+author: 59b473454e63ea7e4713a3cc
 description: >-
     Cap.4   Trecuseră mai multe zile de când bunica înţelesese că ceva îl frământa pe băiat.  Într-o zi, coşuleţul de lucru apăru în mâinile lui Petrişor. Bunica lăsă deoparte treaba în bucătărie şi se i
 ---

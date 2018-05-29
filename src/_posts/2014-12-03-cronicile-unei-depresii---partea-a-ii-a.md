@@ -7,6 +7,7 @@ path: '2014-12-03-cronicile-unei-depresii---partea-a-ii-a.md'
 year: '2014'
 month: '12'
 day: '03'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Depresia e o stare a minții tale. O stare în care te simți fără chef, simți de parcă ai fi doar un corp fără viață. Dar ești sănătos, poate doar cu foarte mici probleme de sănătate, dar zilele nu îți 
 ---

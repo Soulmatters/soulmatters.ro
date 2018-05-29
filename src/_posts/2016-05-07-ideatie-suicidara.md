@@ -7,6 +7,7 @@ path: '2016-05-07-ideatie-suicidara.md'
 year: '2016'
 month: '05'
 day: '07'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Ideație suicidară - moment de deschidere. Autor  oricine. Sfătuitor  oricare.„Au fost momente dure în viața mea. Au fost clipe în care îmi era rușine de mine pentru ce sunt. De la un om echilibrat aj
 ---

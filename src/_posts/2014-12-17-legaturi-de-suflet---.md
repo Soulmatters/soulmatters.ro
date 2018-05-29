@@ -7,6 +7,7 @@ path: '2014-12-17-legaturi-de-suflet---.md'
 year: '2014'
 month: '12'
 day: '17'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Vremea trece odată cu oamenii. Relațiile dintre ei la fel. Prieteniile dispar și unele noi se formează.Viața ne schimbă pe toți. Oameni ce ți-au fost prieteni te lasă deoparte doar pentru că nu te in
 ---

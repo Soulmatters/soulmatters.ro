@@ -7,6 +7,7 @@ path: '2015-05-20-luminita-din-tunel-si-parc-de-distractie.md'
 year: '2015'
 month: '05'
 day: '20'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Beculețe amețitoare peste tot. Aici însă, e doar o fâșie de lumină. A ta. Mai este și o intrare într-un tunel.Cu o lanternă poți orienta lumina cum vrei tu. Bine că o ai și pe asta.Acum, când ții la
 ---

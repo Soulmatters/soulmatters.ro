@@ -7,6 +7,7 @@ path: '2014-07-23-tenebrele-emotivitatii--cauze-si-efecte-.md'
 year: '2014'
 month: '07'
 day: '23'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Emotivitatea a avut și continuă să aibă un impact negativ asupra multor persoane. Aceasta se traduce prin lipsa încrederii în propria persoană, teama de evaluările negative ale celorlalți și teama de 
 ---

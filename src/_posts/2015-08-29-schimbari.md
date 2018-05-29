@@ -7,6 +7,7 @@ path: '2015-08-29-schimbari.md'
 year: '2015'
 month: '08'
 day: '29'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Când nu ai ce-ți dorești și felul tău de a fi se schimbă. Când ai, la fel. La unii în bine la alții în rău. Multora când le e bine, sunt răi cu cei care au fost buni cu ei și când sunt la ananghie, de
 ---

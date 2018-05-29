@@ -7,6 +7,7 @@ path: '2014-07-23-razbunare.md'
 year: '2014'
 month: '07'
 day: '23'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Când cei din jurul tău te-au dezamăgit, atunci când te simți trădat, nedreptățit, respins, atunci când tot ce ai oferit a ajuns mărgăritar pentru purcei, ce gând te-ncearcă?Probabil că unul de răzbun
 ---

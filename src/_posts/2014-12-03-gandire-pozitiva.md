@@ -7,6 +7,7 @@ path: '2014-12-03-gandire-pozitiva.md'
 year: '2014'
 month: '12'
 day: '03'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Să adoptăm o gândire pozitivă vizavi de orice situație preponderent sau totalmente negativă, nu? Este ca atunci când ai ascunde mizeria sub preș, ai folosi deodorant fără a te spăla înainte sau ai pre
 ---

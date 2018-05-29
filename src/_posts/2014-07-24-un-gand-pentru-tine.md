@@ -7,6 +7,7 @@ path: '2014-07-24-un-gand-pentru-tine.md'
 year: '2014'
 month: '07'
 day: '24'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Sunt etape de viață care din păcate, se derulează foarte rapid (când eram mici voiam să fim mari și acum vrem să oprim în loc anii).Trecem de la copilărie la adolescență apoi la maturitate cu tot cee
 ---

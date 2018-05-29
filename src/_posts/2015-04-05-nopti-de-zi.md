@@ -7,6 +7,7 @@ path: '2015-04-05-nopti-de-zi.md'
 year: '2015'
 month: '04'
 day: '05'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Zilele trec. Nopțile îți sunt alături, aștepând cu tine pentru ca alte zile să apară. Privești înainte și în toate direcțiile. Vezi ceva în zare sau crezi că orizontul te-a observat primul ? Auzi șoap
 ---

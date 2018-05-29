@@ -7,6 +7,7 @@ path: '2014-07-24-atac-panica.md'
 year: '2014'
 month: '07'
 day: '24'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Atacul de panică - este un „prieten” foarte apropiat. Îți este alături în orice moment al vieții tale. Mereu îți captează atenția prin felul lui de a fi. N-ai cum să-l ignori și nu mai ai nici curajul
 ---

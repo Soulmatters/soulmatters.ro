@@ -7,6 +7,7 @@ path: '2016-06-20-abisul-propriei-mele-fiinte.md'
 year: '2016'
 month: '06'
 day: '20'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Gândurile îmi sunt strangulate. Vin, pleacă dar nu se materializează, doar se pierd într-un abis creat de mine. Sunt o ființă a regretelor și lacrimilor care și-a găsit sălaș în propria umbră, uitând 
 ---

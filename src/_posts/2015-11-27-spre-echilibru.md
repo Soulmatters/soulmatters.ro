@@ -7,6 +7,7 @@ path: '2015-11-27-spre-echilibru.md'
 year: '2015'
 month: '11'
 day: '27'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Auzi vorbe și simți priviri care, după ce te-ai întors cu spatele de la ele, parcă îți crestează umbra. Bucată cu bucată. Aparent, ei sunt amabili, săritori.Observi fapte și le cauți un sens. Te adân
 ---

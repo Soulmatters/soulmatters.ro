@@ -7,6 +7,7 @@ path: '2015-04-03-libertatea-de-a-iubi.md'
 year: '2015'
 month: '04'
 day: '03'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Într-o lume ideală poate ne-am fi iubit și acum. Dar într-o lume care nu e făcută pentru îndrăgostiți, iubirea noastră nu devine decât o povară. Ne îndrăgostim de persoanele nepotrivite și iubim în tă
 ---

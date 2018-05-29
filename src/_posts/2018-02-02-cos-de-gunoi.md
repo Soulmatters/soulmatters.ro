@@ -7,6 +7,7 @@ path: '2018-02-02-cos-de-gunoi.md'
 year: '2018'
 month: '02'
 day: '02'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Aruncă tot ce nu-ți mai trebuie în coșul de gunoi! Am toate atributele posibile ce îmi permit să fiu ca el. Să fiu atunci când aleg!Sunt coșul de gunoi, în care tu îți arunci toate cele. Nu prea te i
 ---

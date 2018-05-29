@@ -7,6 +7,7 @@ path: '2015-03-12-fericire-n-visuri-scrise.md'
 year: '2015'
 month: '03'
 day: '12'
+author: 59b473454e63ea7e4713a3cd
 description: >-
     Eu sunt fericită cu adevărat când scriu. Nu spun că nu există și alte momente de fericire. Există. Dar abia acum am realizat că scrisul mă face atât de fericită. Asta după ce o perioadă am renunțat. C
 ---

@@ -7,6 +7,7 @@ path: '2015-02-07-cuvintele.md'
 year: '2015'
 month: '02'
 day: '07'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Cuvintele au fost la început. Cuvintele spuse de noi ne reprezintă. Acestea ne modelează comportamentul, starea și viața.Cuvintele ne aduc fericire dar și tristețe, revoluții dar și pace. În ele regă
 ---

@@ -7,6 +7,7 @@ path: '2015-06-08-suferinta-de-a-te-bucura--bucuria-in-carne-si-oase-.md'
 year: '2015'
 month: '06'
 day: '08'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Bucuriile sunt ceva atât de frumos. Sunt spontane, intense, de scurtă durată... Nimic nu durează. Fie că vorbim despre rău sau bine.De multe ori, în spatele bucuriei sunt atâtea lucruri pe care nu p
 ---

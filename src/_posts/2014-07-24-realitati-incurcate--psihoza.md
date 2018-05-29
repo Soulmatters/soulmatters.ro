@@ -7,6 +7,7 @@ path: '2014-07-24-realitati-incurcate--psihoza.md'
 year: '2014'
 month: '07'
 day: '24'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     O tulburare ce ține de sfera psihicului... Mă refer la ceva anume care „îți încurcă realitățile”.Am să vorbesc despre ce au simțit, perceput... cei ce s-au întors înapoi la normalitate, după un lung 
 ---

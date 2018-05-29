@@ -7,6 +7,7 @@ path: '2015-06-12-pentru-binele-altora-dar-totusi----cara-ti-doar-crucea-ta-.md'
 year: '2015'
 month: '06'
 day: '12'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Viața ți se schimbă de la zi la zi dar mai presus de toate de la secundă la secundă. Acum ești. După aceea, nu se știe.Pentru unii, viața nu s-a schimbat deloc multă vreme.Anii s-au scurs în același
 ---

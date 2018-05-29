@@ -7,6 +7,7 @@ path: '2016-08-31-cine-esti-tu.md'
 year: '2016'
 month: '08'
 day: '31'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Cine ești tu? Ai un nume? Locuiești undeva? Scrie undeva mai multe despre tine?Pune-ți amintirile în cutii, adună insectele uscate de prin cotloane. Rupe firul de mort de la plantele primite. Rupe po
 ---

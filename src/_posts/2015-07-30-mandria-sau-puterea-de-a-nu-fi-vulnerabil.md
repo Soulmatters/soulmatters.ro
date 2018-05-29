@@ -7,6 +7,7 @@ path: '2015-07-30-mandria-sau-puterea-de-a-nu-fi-vulnerabil.md'
 year: '2015'
 month: '07'
 day: '30'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Mândria de care dai dovadă te ajută cumva.Dacă ești la pâmânt și nu vrei ca oamenii să știe prea în detaliu ceva de tine, nu te plânge, ai mândrie!Mai bine taci, îi eviți, nu-i cauți. Dacă totuși n-
 ---

@@ -7,6 +7,7 @@ path: '2015-03-06-adio-dragoste.md'
 year: '2015'
 month: '03'
 day: '06'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Îți voi spune azi adio și vom deveni străini. De parcă timpul în care ne iubeam, nu mai contează. Acum totul se preface în uitare.Căci ne-am trădat, căci ne-am rănit. Ne-am făcut promisiuni pe care n
 ---

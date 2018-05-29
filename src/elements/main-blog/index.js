@@ -7,6 +7,7 @@ import { AppStore } from '../../app-store';
 import { APP_ACTION } from '../../app-store/lib/reducer';
 import style from './theme.styl'
 import { SharedStyles } from './../../shared-styles'
+import '../user-box';
 export class  MainBlog extends AppStore(PolymerElement) {
     static get properties() {
         return {
@@ -29,14 +30,12 @@ export class  MainBlog extends AppStore(PolymerElement) {
         return  html([`<style>${style}</style>${template}`]);
     }
     _getArticle(post){
-        console.log(`${this.year}-${this.month}-${this.day}-${post}.md`)
         const data = require(`../../_posts/${this.year}-${this.month}-${this.day}-${post}.md`);
         this.article = data
         this.dispatch({
             type: APP_ACTION.UPDATE_STATE,
             state: 'loaded'
           });
-          console.log(this.article)
     }
     ready() {
         super.ready();

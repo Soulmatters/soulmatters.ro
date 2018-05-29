@@ -7,6 +7,7 @@ path: '2016-01-09-de-ce-oamenii-buni--sufera-.md'
 year: '2016'
 month: '01'
 day: '09'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Într-un moment al vieții noastre poate ne-am întrebat  „Ce anume este rău în a fi bun și de ce oamenii buni, suferă?” În general, oamenii buni oferă mult  bani, timp și multe altele, în mod necondițio
 ---

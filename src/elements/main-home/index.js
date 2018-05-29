@@ -18,14 +18,12 @@ export class  MainHome extends AppStore(PolymerElement) {
 
    
     _AppStoreChanged(state){
-        console.log(state)
     }
    static get template()  {
         return html([`${template}`]);
     }
     observe(){
         const myImgs = this.shadowRoot.querySelectorAll('.item');
-        console.log(myImgs)
         const config = {
             rootMargin: '50px 20px 75px 30px',
             threshold: [0, 0.25, 0.75, 1]
@@ -34,7 +32,6 @@ export class  MainHome extends AppStore(PolymerElement) {
 const observer = new IntersectionObserver(entries => {
     entries.forEach(entry => {
       if (entry.intersectionRatio > 0) {
-        console.log( entry.target.querySelector('a').querySelector('iron-image'));
         entry.target.style.display ='block'
         entry.target.querySelector('a').querySelector('iron-image').preventLoad = false
         anime({
@@ -47,7 +44,6 @@ const observer = new IntersectionObserver(entries => {
           });
         observer.unobserve(entry.target);
       } else {
-        console.log('out of view');
       }
     });
   }, config);

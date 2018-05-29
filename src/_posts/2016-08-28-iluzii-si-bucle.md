@@ -7,6 +7,7 @@ path: '2016-08-28-iluzii-si-bucle.md'
 year: '2016'
 month: '08'
 day: '28'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Eu îți scriu… nu știu exact cum să încep, dar am să mă descurc cumva.Obrazul se lungește, se îngroașă și se amestecă în tot. Indiferent de amestec. Că-i de-un singur fel sau asortat.Vrei să-mi arăți
 ---

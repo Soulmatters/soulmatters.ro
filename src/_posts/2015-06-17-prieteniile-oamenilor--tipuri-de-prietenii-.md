@@ -7,6 +7,7 @@ path: '2015-06-17-prieteniile-oamenilor--tipuri-de-prietenii-.md'
 year: '2015'
 month: '06'
 day: '17'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Prieteni buni, prieteni de timp liber, prieteni de job, prieteni de ocazie. Mai pot adauga și un alt tip de relație numit  cunoștințe prietenoase, oameni de treabă etc.Prieteni buniSunt acei prieten
 ---

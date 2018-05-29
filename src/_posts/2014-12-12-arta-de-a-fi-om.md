@@ -7,6 +7,7 @@ path: '2014-12-12-arta-de-a-fi-om.md'
 year: '2014'
 month: '12'
 day: '12'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Arta, o regăsim în poezii, tablouri, biserici, castele, filme. Dar toate acestea sunt create de oameni.Iar oamenii au uitat de cea mai importantă artă  arta de a fi OM.De ar avea existența noastră u
 ---

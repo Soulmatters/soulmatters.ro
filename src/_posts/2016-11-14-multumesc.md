@@ -7,6 +7,7 @@ path: '2016-11-14-multumesc.md'
 year: '2016'
 month: '11'
 day: '14'
+author: 59b473454e63ea7e4713a3cc
 description: >-
        Cap 1. Cum arată Dumnezeu?Petrişor, Petrişor! strigă bunica cu glasul ei blând şi plin de dragoste, hai că s-a făcut târziu şi e ora de culcare. După colţul casei apăru un moţ cârlionţat, doi oc
 ---

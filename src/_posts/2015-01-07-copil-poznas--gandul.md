@@ -7,6 +7,7 @@ path: '2015-01-07-copil-poznas--gandul.md'
 year: '2015'
 month: '01'
 day: '07'
+author: 59b473454e63ea7e4713a3cd
 description: >-
     Păgânii știau ce să ceară ca să le fie bine  Lună, lună nouă, Taie pâinea-n două, Ție jumătate, Mie sănătate și gânduri curate! Cred că toți am auzit/ rostit această incantație în copilărie, cu toate 
 ---

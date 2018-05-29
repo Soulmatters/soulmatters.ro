@@ -7,6 +7,7 @@ path: '2015-04-14-fin-observator-al-comportamentului-uman.md'
 year: '2015'
 month: '04'
 day: '14'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Din dorința de a încerca să deslușesc anumite chestiuni referitoare la mine și ceilalți, am ales să devin „un fin observator al comportamentului uman”(psiholog). Din nevoia de a ști mai bine ce gândes
 ---

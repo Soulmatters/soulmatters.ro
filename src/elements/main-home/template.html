@@ -78,18 +78,5 @@
     <div class="logo"><img src="/images/DDD-1.png" alt=""></div>
     <h1>Soulmatters - Pentru noi!</h1>
 </div>
-<div class="wrapper">
-<template is="dom-repeat" items="{{data}}" on-dom-change="observe">
-<div class="item">
-        <a href="/blog/[[item.attributes.year]]/[[item.attributes.month]]/[[item.attributes.day]]/[[item.attributes.slug]]">
-            <iron-image  prevent-load src="/assets/card[[item.attributes.image]]" preload  placeholder="/assets/place[[item.attributes.image]]" sizing="cover" fade   alt="">
-            </iron-image>
-        </a>
-   <div class="meta">
-    <a href="/blog/[[item.attributes.year]]/[[item.attributes.month]]/[[item.attributes.day]]/[[item.attributes.slug]]"><h3>[[item.attributes.title]]</h3></a>
-<p>[[item.attributes.description]]...</p>
-</div>
-</div>
-</template>
-</div>
+<post-card post="{{data}}"></post-card>
 </div>

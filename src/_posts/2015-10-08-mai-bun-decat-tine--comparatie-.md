@@ -7,6 +7,7 @@ path: '2015-10-08-mai-bun-decat-tine--comparatie-.md'
 year: '2015'
 month: '10'
 day: '08'
+author: 59b473454e63ea7e4713a3d0
 description: >-
      Indiferent de domeniul în care au vrut să progreseze - arte, muzică, scrieri, meșteșugărit sau măturat scări, oamenii s-au comparat unii cu alții. Așa cred că-și pot ști nivelul la care sunt în domen
 ---

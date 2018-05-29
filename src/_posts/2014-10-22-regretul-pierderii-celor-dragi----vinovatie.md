@@ -7,6 +7,7 @@ path: '2014-10-22-regretul-pierderii-celor-dragi----vinovatie.md'
 year: '2014'
 month: '10'
 day: '22'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Puține au fost momentele în care noi oamenii am apreciat cu adevărat tot ceea ce aveam - prezența celor dragi, anumite situații de viață favorabile nouă și multe altele.De ce omul apreciază atât de p
 ---

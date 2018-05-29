@@ -7,6 +7,7 @@ path: '2014-07-23-dupa-o-iubire---.md'
 year: '2014'
 month: '07'
 day: '23'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     În acest moment, în aceste timpuri, nimeni nu știe exact ce anume face ca o relație de cuplu să funcționeze. Să funcționeze „fără intreruperi”.Ca în multe aspecte ale vieții omului, în iubire și în s
 ---

@@ -7,6 +7,7 @@ path: '2014-11-27-sinucidere--post-suicid.md'
 year: '2014'
 month: '11'
 day: '27'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Sinucidere, tabloul post-suicid  Popa nu face slujbă, societatea condamnă, statul cere dări (taxe cimitir și altele), pompele funebre, ,,pompează"  prețul pentru serviciile lor, cheltuieli cu priveghi
 ---

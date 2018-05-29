@@ -7,6 +7,7 @@ path: '2016-04-27-destramarea-fiintei.md'
 year: '2016'
 month: '04'
 day: '27'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Și totuși exist... într-o lume care nu e a mea, într-o lume străină mie.Sunt om, ființă vie, rațională și cu un suflet. Sunt eu, nu sunt o copie, dar nu mă accept pe mine căci am fost învățată că e g
 ---

@@ -7,6 +7,7 @@ path: '2014-10-10-de-la-credinte-la-boala-mintala-.md'
 year: '2014'
 month: '10'
 day: '10'
+author: 59b473454e63ea7e4713a3d0
 description: >-
      În articolul de față, vreau să discutăm despre diferitele credințe, curente spirituale ce pot reprezenta pentru mulți oameni, un teren fertil pe care boala mintală poate „prinde” rădăcini.Sunt multe
 ---

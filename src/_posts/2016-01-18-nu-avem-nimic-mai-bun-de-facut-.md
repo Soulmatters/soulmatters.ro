@@ -7,6 +7,7 @@ path: '2016-01-18-nu-avem-nimic-mai-bun-de-facut-.md'
 year: '2016'
 month: '01'
 day: '18'
+author: 59b475d04e63ea7e4713a4c2
 description: >-
     Nu avem nimic mai bun de făcut!Nu, nu sunt alte probleme la ora actuală! O fi ca în 18 aprilie 1930, când BBC-ul a anunțat că nu sunt știri pentru acea zi. Nu, nu avem alte probleme, nu se simte încă
 ---

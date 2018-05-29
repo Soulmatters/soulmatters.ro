@@ -1,8 +1,8 @@
 import { PolymerElement, html } from '@polymer/polymer/polymer-element';
 import template from './template.html';
-
-import '../elements/main-home';
-import '../elements/main-blog';
+import '../elements/main-home'   
+      import '../elements/main-author'     
+      import '../elements/main-blog'
 
 import '@polymer/app-route/app-route.js';
 import '@polymer/app-route/app-location.js';
@@ -30,12 +30,12 @@ class MainApp extends PolymerElement {
     return  html( [`${template}`]);
   }
  
-  show(page) {
-    const animation = this.shadowRoot.querySelector(`[name=${page}]`)
+  // show(page) {
+  //   const animation = this.shadowRoot.querySelector(`[name=${page}]`)
 
    
     
-  }
+  // }
 
   constructor() {
     super()
@@ -43,20 +43,24 @@ class MainApp extends PolymerElement {
   _routePageChanged(page) {
     // If no page was found in the route data, page will be an empty string.
     // Default to 'home' in that case.
-    const exitPage = this.shadowRoot.querySelector(`[visible]`) || this.shadowRoot.querySelector(`[name= ${page || 'home'} ]`)
-      const animation = exitPage.animate([
-        {transform:'translateY(0)', opacity: 1, easing: 'ease-out'},
-        {transform:'translateY(30%)', opacity: 0, easing: 'ease-in' },
-      ],
-      {
-        duration: 400,
-      })
+    console.log(page)
+    // const exitPage = this.shadowRoot.querySelector(`[visible]`) || this.shadowRoot.querySelector(`[name= ${page || 'home'} ]`)
+    //   const animation = exitPage.animate([
+    //     {transform:'translateY(0)', opacity: 1, easing: 'ease-out'},
+    //     {transform:'translateY(30%)', opacity: 0, easing: 'ease-in' },
+    //   ],
+    //   {
+    //     duration: 400,
+    //   })
 
+   
+      
     
-     animation.onfinish = () => {
-      this.page = page || 'home';
-      this.show(page || 'home')
-     }
+      
+    //  animation.onfinish = () => {
+     this.page = page || 'home';
+    //   this.show(page || 'home')
+    //  }
    
    
     document.body.scrollTop = 0; // For Safari

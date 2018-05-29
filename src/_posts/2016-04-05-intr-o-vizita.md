@@ -7,6 +7,7 @@ path: '2016-04-05-intr-o-vizita.md'
 year: '2016'
 month: '04'
 day: '05'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Vin în vizită monsieur Timp-e-scurt,  monsieur Mai-e-vreme și madam Coasa -Cocoșată. Desigur, gazda-i prezentă alături de dânșii. Aceasta mai face și  drumuri la bucătărie din când în când, să mai ser
 ---

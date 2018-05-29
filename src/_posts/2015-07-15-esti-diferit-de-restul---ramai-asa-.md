@@ -7,6 +7,7 @@ path: '2015-07-15-esti-diferit-de-restul---ramai-asa-.md'
 year: '2015'
 month: '07'
 day: '15'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Pentru mulți, a fi și a gândi diferit înseamnă de fapt că ești un inconștient.Ei bine, o parte de adevăr este.Un „diferit” autentic nu a fost conștient de faptul că nu era precum restul. Era pur și 
 ---

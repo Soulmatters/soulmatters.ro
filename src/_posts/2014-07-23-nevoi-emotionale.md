@@ -7,6 +7,7 @@ path: '2014-07-23-nevoi-emotionale.md'
 year: '2014'
 month: '07'
 day: '23'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     La baza tuturor nevoilor noastre emoționale stă nevoia de protecție.Oamenii se protejează împotriva sentimentului de incompetență, inutilitate, a lipsei de importanță, banalității, respingerii, frici
 ---

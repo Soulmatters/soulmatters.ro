@@ -7,6 +7,7 @@ path: '2018-01-06-porumbeii.md'
 year: '2018'
 month: '01'
 day: '06'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Ca porumbel, deasupra norilor și a tuturor, de ce să cobori? Ceilalți te pot privi și de jos. Chiar dacă te vei vedea mai mic. Mult mai mic.De sus ești greu de prins ca să poți fi pus la fiert. Față 
 ---

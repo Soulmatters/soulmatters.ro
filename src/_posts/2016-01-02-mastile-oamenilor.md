@@ -7,6 +7,7 @@ path: '2016-01-02-mastile-oamenilor.md'
 year: '2016'
 month: '01'
 day: '02'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     SOULMATTERS SUFLETUL CONTEAZĂ· IUNIE 2012  Măștile pe care le folosim zi de zi sunt menite să ne protejeze de ceilalți, de aceea ce noi nu dorim ca aceștia să știe despre noi.Măștile selectate d
 ---

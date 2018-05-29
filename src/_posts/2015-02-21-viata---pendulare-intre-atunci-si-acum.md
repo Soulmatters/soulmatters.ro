@@ -7,6 +7,7 @@ path: '2015-02-21-viata---pendulare-intre-atunci-si-acum.md'
 year: '2015'
 month: '02'
 day: '21'
+author: 59b473454e63ea7e4713a3cd
 description: >-
     Păstrăm o mulțime de lucruri. Relicve ale zilelor trecute. Le numim amintiri. Odată cu trecerea anilor, cutiile se adună. Păstrăm cercei ruginiți, brățări demodate, inele cu pietre lipsă, bilețele de 
 ---

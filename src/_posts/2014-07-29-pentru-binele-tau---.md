@@ -7,6 +7,7 @@ path: '2014-07-29-pentru-binele-tau---.md'
 year: '2014'
 month: '07'
 day: '29'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Probabil vei avea parte de cele mai agresive, descurajante și lipsite de valoare ,,discursuri" ale multora dintre apropiații tăi, atunci când le vorbești despre anumite decizii ce le vei lua cu viața 
 ---

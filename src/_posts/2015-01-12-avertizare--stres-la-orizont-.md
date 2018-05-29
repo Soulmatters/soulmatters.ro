@@ -7,6 +7,7 @@ path: '2015-01-12-avertizare--stres-la-orizont-.md'
 year: '2015'
 month: '01'
 day: '12'
+author: 59b473454e63ea7e4713a3cd
 description: >-
     Vă e cunoscută acea stare de agitație interioară, însoțită de vâjâitul din urechi și de inima ce a pornit-o la galop? Recunoașteți insomniile sau poate coșmarurile ce apar aproape în fiecare noapte? F
 ---

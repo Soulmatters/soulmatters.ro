@@ -7,6 +7,7 @@ path: '2015-01-18-firimituri.md'
 year: '2015'
 month: '01'
 day: '18'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Educație aleasă, așternuturi de mătase și parfumuri scumpe, îmbietoare. Parcă-i un iz pe aici... stârv, să fie?Principii și vorbe mărețe, pe un fotoliu confortabil de piele, aperitive alese, băuturi 
 ---

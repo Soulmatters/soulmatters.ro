@@ -7,6 +7,7 @@ path: '2015-03-10-relatia-sef-angajat.md'
 year: '2015'
 month: '03'
 day: '10'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Relația dintre un șef și angajat e una de subordonare oarbă, de lingușeală și supunere. Și e o iluzie că sclavia a fost abolită.Șefii își bat joc de angajații lor, iar vina angajaților e că acceptă ș
 ---

@@ -7,6 +7,7 @@ path: '2015-03-04-constienta-de-sine.md'
 year: '2015'
 month: '03'
 day: '04'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Să ajungi să fii conștient de propria ta persoană este un lucru remarcabil.Cu toate acestea, poate reprezenta un cuțit cu două tăișuri. Conștiența de sine aduce la suprafață și cea mai întunecată lat
 ---

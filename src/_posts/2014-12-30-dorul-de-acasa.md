@@ -7,6 +7,7 @@ path: '2014-12-30-dorul-de-acasa.md'
 year: '2014'
 month: '12'
 day: '30'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Dorul de casă îl simt cei ce sunt departe. Ești entuziasmat când vezi locuri noi, când îți faci noi prieteni și poate o nouă familie dar la un moment dat ți se face dor și de casă. Afară ninge iar eu 
 ---

@@ -7,6 +7,7 @@ path: '2015-11-27-ce-chitaieli--ce-galagie--soriceii-.md'
 year: '2015'
 month: '11'
 day: '27'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Ei rod lumea de acolo, o rod și pe cea de aici. Sunt niște șoricei. Mi-au plăcut mult șoriceii dar iau tot și nu mai lasă nimic în urma lor. Sunt mulți și lacomi. Mișună peste tot și nu-i poți stârpi.
 ---

@@ -7,6 +7,7 @@ path: '2016-05-16-adu-ti-aminte-si-de-mine---.md'
 year: '2016'
 month: '05'
 day: '16'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Nu de ziua mea când tehnologia te notifică (pentru că memoria ta nu mai poate lucra independent demult), nu de câte ori ai nevoie, pentru că problemele te presează și nu de câte ori te plictisești, pe
 ---

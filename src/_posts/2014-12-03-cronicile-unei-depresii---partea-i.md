@@ -7,6 +7,7 @@ path: '2014-12-03-cronicile-unei-depresii---partea-i.md'
 year: '2014'
 month: '12'
 day: '03'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Ce înseamnă depresia, ce înseamnă sa fii depresiv? E oare lene sau lipsa de motivație?Te lupți cu tine însuți, să faci ceva într-o zi, să nu fie ziua risipită, dar ajungi să faci nimicuri, să pierzi 
 ---

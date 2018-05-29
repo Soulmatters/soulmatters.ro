@@ -7,6 +7,7 @@ path: '2014-07-22-just-another-ordinary-day.md'
 year: '2014'
 month: '07'
 day: '22'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     O altă dată-n calendar, o altă oră trecută fără rost, unele și altele, just another ordinary day... acceptându-ți și trăindu-ți viața așa cum este, cu bune și cu rele. Acum, de fiecare depinde dacă v
 ---

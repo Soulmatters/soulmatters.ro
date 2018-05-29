@@ -7,6 +7,7 @@ path: '2015-03-24-principiile-mele-stupide.md'
 year: '2015'
 month: '03'
 day: '24'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Dedic acest articol celui ce mi-a numit principiile mele ca fiind stupide.Vreau să îți spun și ție și altora că nu, nu îmi place să îmi trăiesc viața ca majoritatea tinerilor din ziua de azi. Nu îmi 
 ---

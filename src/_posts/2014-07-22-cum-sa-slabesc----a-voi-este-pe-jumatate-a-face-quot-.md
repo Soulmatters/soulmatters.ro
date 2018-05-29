@@ -7,6 +7,7 @@ path: '2014-07-22-cum-sa-slabesc----a-voi-este-pe-jumatate-a-face-quot-.md'
 year: '2014'
 month: '07'
 day: '22'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Ai kilograme în plus ce „nu se lasă” cu una cu două eliminate? Atunci, avem de discutat. Ispită culinară este prea mare și nu reușești să-i faci față.Senzația de disconfort care te copleșește dacă nu
 ---

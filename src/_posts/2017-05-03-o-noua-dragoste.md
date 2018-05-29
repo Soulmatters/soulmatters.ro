@@ -7,6 +7,7 @@ path: '2017-05-03-o-noua-dragoste.md'
 year: '2017'
 month: '05'
 day: '03'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     De la primul sărut, te-am  invitat să creăm propria lume, doar a noastră. Să prefacem dragostea noastră într-un spațiu de refugiu și de calm, o nouă ”acasă.”Ne ținem de mână și ne creăm o nouă lume u
 ---

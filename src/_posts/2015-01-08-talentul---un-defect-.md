@@ -7,6 +7,7 @@ path: '2015-01-08-talentul---un-defect-.md'
 year: '2015'
 month: '01'
 day: '08'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Talentul poate fi un defect? Căci așa simt eu, că talentul e cel mai mare defect al meu. Fiindcă dacă nu aș fi talentată aș găsi un loc de muncă și nu aș visa atât de mult. Aș trăi altfel, în lumea re
 ---

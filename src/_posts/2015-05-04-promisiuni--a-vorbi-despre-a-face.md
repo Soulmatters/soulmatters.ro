@@ -7,6 +7,7 @@ path: '2015-05-04-promisiuni--a-vorbi-despre-a-face.md'
 year: '2015'
 month: '05'
 day: '04'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Sunt oameni care vorbesc. Vorbesc despre faptul că te pot ajuta la nevoie și se arată interesați de problemele tale. Promisiuni și atât.Când vine un moment delicat pentru tine, vine și tăcerea lor. N
 ---

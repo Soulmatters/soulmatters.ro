@@ -7,6 +7,7 @@ path: '2014-12-21-fii-curajos.md'
 year: '2014'
 month: '12'
 day: '21'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Frica de sălbăticiunile și capriciile pâmântului ne-a urcat mult pe culmea evoluției. Însă, valea ce urmează este destul de adâncă și încăpătoare pentru noi toți. Este o chestiune de timp.În mâna noa
 ---

@@ -1,0 +1,85 @@
+<style include="paper-styles">
+    .wrapper{
+        max-width: 1200px;
+        width: 100%;
+        margin: 20px auto;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, 300px);
+        justify-content: center;
+        grid-gap: 30px;
+    }
+    
+   iron-image{
+       width:100%;
+       height: 250px;
+   }
+    .item{
+        max-width: 100%;
+        @apply --shadow-elevation-2dp;
+        box-sizing: border-box;
+        background: #fff;
+        border-radius: 8px;
+        
+    }
+    
+    .item:nth-child(4n+1){
+        grid-column: span 2
+    }
+    .item:nth-child(6n+1){
+        grid-column: span 3
+    }
+    
+    .item:first-child{
+        grid-column: span 3
+    }
+    h3{
+        font-size: 19px;
+        font-weight: 400;
+        color:#212121;
+    }
+    a{
+        text-decoration: none;
+        
+    }
+    p{
+        font-size: 16px;
+        font-weight: 300;
+    }
+    .meta{
+        padding: 20px;
+    }
+    .header{
+        background: url(/assets/large/images/meteorit.jpg) center center no-repeat;
+        height: 550px;
+        width:100%;
+        margin-top: -60px;
+        display: flex;
+        flex-flow: wrap column;
+        justify-content: center;
+        align-items: center;
+
+    }
+    h1{
+        font-family:  "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+        font-size: 42px;
+        font-weight: 300;
+        color:#fff;
+        text-shadow: 0 2px 4px #212112
+    }
+    .container{
+        width:100vw;
+    }
+    .logo img{
+        width: 120px;
+    }
+</style>
+<div class="container">
+    <div class="autor-wrapper" style$="background: url([[data.cover]])">
+<h4>[[data.name]]</h4>
+<img src="[[data.image]]" alt="[[data.name]]">
+<div class="articole">Număr de articole [[count(posts)]].</div>
+</div>
+
+<post-card post="{{posts}}"></post-card>
+
+</div>

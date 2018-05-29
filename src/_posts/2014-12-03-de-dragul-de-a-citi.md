@@ -7,6 +7,7 @@ path: '2014-12-03-de-dragul-de-a-citi.md'
 year: '2014'
 month: '12'
 day: '03'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Este frumos să citești. Înveți lucruri noi, te relaxezi și-ți îmbunătățești optica asupra vieții. Ce se întâmplă atunci când citești dar nu simți nimic dinspre acea carte și tu totuși o continui? Pro
 ---

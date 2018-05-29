@@ -7,6 +7,7 @@ path: '2016-06-24-calatoria.md'
 year: '2016'
 month: '06'
 day: '24'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Sunt o ființă mititică. Îmi place să străbat cerul atât timp cât mă țin aripioarele. Îmi place să simt mângâierea poianei de flori, care îmi înalță zborul, cu fiecare petală de vânt suflată. Deasupra 
 ---

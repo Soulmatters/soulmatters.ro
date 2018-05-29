@@ -7,6 +7,7 @@ path: '2014-12-18-intrebari.md'
 year: '2014'
 month: '12'
 day: '18'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Când ești întrebat de către cineva „Ce faci?” răspunzi  „Bine!” Dacă spui că nu faci bine, urmează  „De ce?” Nimic rău în toate acestea, dar...Ajungi să eviți să mai continui conversația pentru că îț
 ---

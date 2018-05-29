@@ -7,6 +7,7 @@ path: '2015-04-03-mituri-despre-barbati.md'
 year: '2015'
 month: '04'
 day: '03'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Sunt genul de fată care se înțelege mai bine cu bărbații decât cu femeile. Având mulți prieteni băieți sau fiind câteodată unica fată într-un cerc de persoane, am înțeles că bărbații sunt la fel de co
 ---

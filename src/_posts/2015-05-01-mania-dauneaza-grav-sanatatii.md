@@ -7,6 +7,7 @@ path: '2015-05-01-mania-dauneaza-grav-sanatatii.md'
 year: '2015'
 month: '05'
 day: '01'
+author: 59b473454e63ea7e4713a3cd
 description: >-
     Mânie, furie, nervi, oricare dintre apelative, descrie de fapt aceeași stare de furtună sufletească care ne este extrem de cunoscută. Deseori se manifestă printr-un potop de cuvinte, urlete lansate pr
 ---

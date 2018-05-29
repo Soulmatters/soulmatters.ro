@@ -7,6 +7,7 @@ path: '2014-11-28-pentru-linistea-sufletului----la-psiholog.md'
 year: '2014'
 month: '11'
 day: '28'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Este frumos să poți sprijini oamenii din jurul tău atunci când au probleme sufletești. Îți dă un sentiment de împlinire și te ajută să-ți îmbunătățești părerea despre propria persoană. Simți că ești o
 ---

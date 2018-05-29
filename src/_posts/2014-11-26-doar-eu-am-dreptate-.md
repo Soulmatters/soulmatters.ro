@@ -7,6 +7,7 @@ path: '2014-11-26-doar-eu-am-dreptate-.md'
 year: '2014'
 month: '11'
 day: '26'
+author: 59b473454e63ea7e4713a3d0
 description: >-
     Ați avut de-a face cu persoane ce trăiau mereu cu senzația că dețin adevărul absolut și care desigur, doreau să primească numai aprobări din partea celorlalți? Să detaliem un pic despre cum se manifes
 ---

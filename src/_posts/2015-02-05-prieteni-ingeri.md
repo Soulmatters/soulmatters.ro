@@ -7,6 +7,7 @@ path: '2015-02-05-prieteni-ingeri.md'
 year: '2015'
 month: '02'
 day: '05'
+author: 59b473454e63ea7e4713a3ce
 description: >-
     Îngerii există aici pe pământ, ei au chip de oameni. Oameni ce îți devin familie sau prieteni. Oameni ce strălucesc pentru tine, ce trăiesc pentru tine. Eu mi-am găsit îngerul cu chip de om. Și poate 
 ---
