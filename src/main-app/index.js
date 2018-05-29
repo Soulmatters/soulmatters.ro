@@ -54,14 +54,14 @@ class MainApp extends PolymerElement {
    if(page === '2018' || page === '2017' || page === '2016' || page === '2015' || page === '2019' || page === '2014'){
      page = 'blog'
    }
-    const exitPage = this.shadowRoot.querySelector(`[visible]`) || this.shadowRoot.querySelector(`[name= ${page || 'home'} ]`)
-      const animation = exitPage.animate([
-        {opacity: 1, easing: 'ease-out'},
-        { opacity: 0, easing: 'ease-in' },
-      ],
-      {
-        duration: 400,
-      })
+    // const exitPage = this.shadowRoot.querySelector(`[visible]`) || this.shadowRoot.querySelector(`[name= ${page || 'home'} ]`)
+    //   const animation = exitPage.animate([
+    //     {opacity: 1, easing: 'ease-out'},
+    //     { opacity: 0, easing: 'ease-in' },
+    //   ],
+    //   {
+    //     duration: 400,
+    //   })
 
    if(page !== ''){
      this.shadowRoot.querySelector('.top-bar').style.background = "#212121"
@@ -72,10 +72,10 @@ class MainApp extends PolymerElement {
       
     
       
-    animation.onfinish = () => {
+    // animation.onfinish = () => {
      this.page = page || 'home';
-      this.show(page || 'home')
-     }
+    //   this.show(page || 'home')
+    //  }
    
    
     document.body.scrollTop = 0; // For Safari

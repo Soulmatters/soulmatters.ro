@@ -35,10 +35,7 @@ const observer = new IntersectionObserver(entries => {
         anime({
             targets: entry.target,
             translateY: -100,
-            delay: 200,
-            elasticity: function(el, i, l) {
-                return (50 + i * 200);
-              }
+            duration: 200
           });
         observer.unobserve(entry.target);
       } else {
