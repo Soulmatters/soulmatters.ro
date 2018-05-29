@@ -1,21 +1,11 @@
 ---
 title: Termeni și condiții
-<<<<<<< HEAD:src/_pages/termeni-și-condiții.md~e29a27051c6c463a5859b66406fe94e4993a68a3
 date: '2018-05-29 08:58pm'
 image: /images/steinar-engeland-225236-1.jpg
-=======
-date: '2017-03-30 15:04:23'
-image: /images/steinar-engeland-225236-2.jpg
->>>>>>> e29a27051c6c463a5859b66406fe94e4993a68a3:src/_posts/2017-03-30-termeni.md
 description: >-
   AUTORII SOULMATTERS.ROSoulmatters.ro aparține următoarelor persoane Autor 
   Niță Andra - inițiator proiect pagină Facebook (din noiembrie 2012) și
   scriitor pe Soulmatters.ro ( în trecut soulmattersfo
-<<<<<<< HEAD:src/_pages/termeni-și-condiții.md~e29a27051c6c463a5859b66406fe94e4993a68a3
-=======
-author: 59b473454e63ea7e4713a3d0
-tip: pagina
->>>>>>> e29a27051c6c463a5859b66406fe94e4993a68a3:src/_posts/2017-03-30-termeni.md
 ---
 <div class="kg-card-markdown"><p>AUTORII <a href="http://SOULMATTERS.RO">SOULMATTERS.RO</a></p>
 
@@ -130,9 +120,5 @@ Site-ul nostru este scanat în mod regulat pentru probleme de securitate și vul
 <p>Text actualizat la 7 ianuarie 2018</p>
 
 </div>
-<<<<<<< HEAD:src/_pages/termeni-și-condiții.md~e29a27051c6c463a5859b66406fe94e4993a68a3
 
 \
-=======
-    
->>>>>>> e29a27051c6c463a5859b66406fe94e4993a68a3:src/_posts/2017-03-30-termeni.md
