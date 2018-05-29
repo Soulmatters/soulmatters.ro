@@ -10,6 +10,7 @@ day: '22'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Atunci când nu ni se răspunde la nevoia noastră de atașament, ne întristăm, ne simțim neiubiți, respinși, NESIGURI. Atunci când pierdem pe cineva de care eram atașați, lumea noastră se prăbușește. Est
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Atunci când nu ni se răspunde la nevoia noastră de atașament, ne întristăm, ne simțim neiubiți, respinși, NESIGURI. Atunci când pierdem pe cineva de care eram atașați, lumea noastră se prăbușește. Este normal să ne simțim așa. Dacă nu ne-am simți astfel, n-am mai căuta să luptăm pentru a găsi ceea ce ne trebuie: semeni ce au nevoi ca ale noastre.</p>
 <p>Noi oamenii din păcate, încercăm „să fentăm” natura noastră prin a practica non-atașamentul, detașarea în raport cu cei din jurul nostru. În încercarea găsirii unei explicații mai clare a noțiunilor de detașare, non-atașament, au fost organizate „n-shpe mii” de conferințe. S-au scris o mulțime de cărți, s-au făcut afaceri profitabile. Sunt numeroși traineri de dezvoltare personală, mulți pseudosavanți ce mărturiseau despre cum au reușit să nu mai creeze atașamente față de ceilalți. Oare?</p>

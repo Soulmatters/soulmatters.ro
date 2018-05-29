@@ -10,6 +10,7 @@ day: '02'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     SOULMATTERS SUFLETUL CONTEAZĂ· IUNIE 2012  Măștile pe care le folosim zi de zi sunt menite să ne protejeze de ceilalți, de aceea ce noi nu dorim ca aceștia să știe despre noi.Măștile selectate d
+tip: articol
 ---
 <div class="kg-card-markdown"><div>
 <div><a class="_2yug" href="https://www.facebook.com/soulmatters.ro" style="color: rgb(145, 151, 163); cursor: pointer; text-decoration: none; white-space: nowrap;" target="_blank">SOULMATTERS SUFLETUL CONTEAZĂ</a>· IUNIE<a class="uiLinkSubtle" href="https://www.facebook.com/notes/soulmatters-sufletul-conteaz%C4%83/m%C4%83%C8%99tile-oamenilor/446529285538795" style="color: rgb(145, 151, 163); cursor: pointer; text-decoration: none;"> </a>2012 </div>

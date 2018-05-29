@@ -10,6 +10,7 @@ day: '28'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Gânduri și iar gânduri, neîntrerupte și întrerupte de frânturi din alte gânduri.Cuvinte, imagini, scenarii ce nu vor fi...Și ochii mei visători. De parcă aș trăi în altă lume, într-o lume creată de 
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Gânduri și iar gânduri, neîntrerupte și întrerupte de frânturi din alte gânduri.</p>
 <p>Cuvinte, imagini, scenarii ce nu vor fi...</p>

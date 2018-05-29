@@ -10,6 +10,7 @@ day: '31'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Paradis sau iad? Singur în paradis sau împreună în iad? Ce ați alege?Când așteptarea în sfârșit se preface în nopți petrecute împreună, când distanța nu mai e un obstacol, atunci trăiești un vis. Dar
+tip: articol
 ---
 <div class="kg-card-markdown"><p style="text-align: justify;">Paradis sau iad? Singur în paradis sau împreună în iad? Ce ați alege?</p>
 <p style="text-align: justify;">Când așteptarea în sfârșit se preface în nopți petrecute împreună, când distanța nu mai e un obstacol, atunci trăiești un vis. Dar și coșmarurile sunt vise.</p>

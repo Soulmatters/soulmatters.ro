@@ -10,6 +10,7 @@ day: '11'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Ai texte scurse din condeie vechi, cerneluri alese și sugative multe. Multe și la tot pasul.Ideea e ca o întâmplare, iar petele sunt ca o regulă. Cui îi pasă despre ce scrii când tot ce îi pasă omulu
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Ai texte scurse din condeie vechi, cerneluri alese și sugative multe. Multe și la tot pasul.</p>
 <p>Ideea e ca o întâmplare, iar petele sunt ca o regulă. Cui îi pasă despre ce scrii când tot ce îi pasă omului este despre ce ești vorbit?</p>

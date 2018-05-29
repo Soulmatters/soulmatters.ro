@@ -10,6 +10,7 @@ day: '07'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Liniștea, tăcerea pot spune mult mai multe decât cuvintele. Tăcerea poate însemna ignoranță sau poate frica de a spune ce simțim. Liniștea poate consola mult mai bine decât și o mie de cuvinte. La fel
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Liniștea, tăcerea pot spune mult mai multe decât cuvintele. Tăcerea poate însemna ignoranță sau poate frica de a spune ce simțim. Liniștea poate consola mult mai bine decât și o mie de cuvinte. La fel ca și cuvintele, tăcerea poate răni. La fel ca și cuvintele poate distruge. Liniștea e când tăcerea nu mai devine atât de dureroasă, ci se preface într-un leac. Liniștea de a tăcea când ești alături de cei dragi, liniștea de a asculta altceva decât cuvintele.</p>
 <p>Urăsc tăcerea, iubesc liniștea. Iubesc calmul de după o furtună de cuvinte jignitoare. Și de atât de multe ori îmi doream să îmi vorbească urât dar să îmi vorbească, de atâtea ori aș fi preferat și cele mai oribile cuvinte doar să îmi zică ceva. Tăcerea m-a rănit mai mult decât cuvintele într-o relație de dragoste. Cuvintele m-au rănit mai mult decât tăcerea într-o relație de prietenie. Dar acum, prețuiesc liniștea dintre noi, dintre mine și iubit, dintre mine și cei dragi. Dar trebuie să înțelegem și tăcerea, și poate câteodată să o admirăm.</p>

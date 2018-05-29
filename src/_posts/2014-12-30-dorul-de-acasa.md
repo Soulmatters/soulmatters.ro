@@ -10,6 +10,7 @@ day: '30'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Dorul de casă îl simt cei ce sunt departe. Ești entuziasmat când vezi locuri noi, când îți faci noi prieteni și poate o nouă familie dar la un moment dat ți se face dor și de casă. Afară ninge iar eu 
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Dorul de casă îl simt cei ce sunt departe. Ești entuziasmat când vezi locuri noi, când îți faci noi prieteni și poate o nouă familie dar la un moment dat ți se face dor și de casă. Afară ninge iar eu mă gândesc la acasă. Astfel de zile îți provoacă nostalgie. Și îmi aduc aminte de casă, de serile cu ceai din ghimbir, de filme romantice cu același scenariu. Sărbătorile de iarnă mi se par magice.<br /><br />
 Crăciunul e despre familie și cei dragi. A fost primul meu Crăciun departe de casă. Sunt fericită că am petrecut Crăciunul cu iubitul și am așteptat atât de mult momentul când vom fi împreună de sărbători. Dar îmi era atât de dor de acasă, de lucruri simple ce fac ca să te simți ca acasă.<br /><br />

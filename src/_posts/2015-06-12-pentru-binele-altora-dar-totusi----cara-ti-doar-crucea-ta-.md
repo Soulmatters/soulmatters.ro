@@ -10,6 +10,7 @@ day: '12'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Viața ți se schimbă de la zi la zi dar mai presus de toate de la secundă la secundă. Acum ești. După aceea, nu se știe.Pentru unii, viața nu s-a schimbat deloc multă vreme.Anii s-au scurs în același
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Viața ți se schimbă de la zi la zi dar mai presus de toate de la secundă la secundă. Acum ești. După aceea, nu se știe.</p>
 <p>Pentru unii, viața nu s-a schimbat deloc multă vreme.</p>

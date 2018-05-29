@@ -10,6 +10,7 @@ day: '27'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Auzi vorbe și simți priviri care, după ce te-ai întors cu spatele de la ele, parcă îți crestează umbra. Bucată cu bucată. Aparent, ei sunt amabili, săritori.Observi fapte și le cauți un sens. Te adân
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Auzi vorbe și simți priviri care, după ce te-ai întors cu spatele de la ele, parcă îți crestează umbra. Bucată cu bucată. Aparent, ei sunt amabili, săritori.</p>
 <p>Observi fapte și le cauți un sens. Te adâncești numai în întrebări ale căror răspunsuri le poți găsi în orice loc și condiție dar mai puțin în cea umană.</p>

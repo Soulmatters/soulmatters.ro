@@ -10,6 +10,7 @@ day: '06'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Rutina noastră zilnică e un ritual pe care îl respectăm, fără a ne gândi că poate am vrea să schimbăm ceva. Ne trezim și ne ducem la muncă, la școală sau poate stăm acasă. Indiferent de ce include rut
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Rutina noastră zilnică e un ritual pe care îl respectăm, fără a ne gândi că poate am vrea să schimbăm ceva. Ne trezim și ne ducem la muncă, la școală sau poate stăm acasă. Indiferent de ce include rutina noastră, devine o deprindere, fără de care nu ne putem imagina viața noastră. Și toți am avut momente, când am simțit că parcă viața și-a pierdut sensul, după o despărțire, o concediere sau poate un examen nepromovat. Ne simțim atât de pierduți, de parcă viața se termină în acel moment, când am pierdut ceva. Și poate era o slujbă care nu ne plăcea sau poate era o facultate ce ne-a dezamăgit.</p>
 <p>Trebuie să învățăm a profita de neplăcerile provocate și să o vedem ca o șansă de a înțelege ce vrem cu adevărat să facem. O concediere să o prefacem în oportunitatea de a găsi un loc de muncă mai bun și care să fie pe placul nostru. Un examen nepromovat poate să ne facă să luăm decizia de a urma o altă facultate, care să corespundă cu pasiunile ce le avem. O despărțire nu e decât șansa de a ne găsi adevărata dragoste iar o trădare de a ne găsi prieteni adevărați. Suntem atât de dependenți de lucrurile care nici nu le plac, chiar și de acelea care ne plictisesc, dar cu care vrem să nemai relaxăm.</p>

@@ -10,6 +10,7 @@ day: '03'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Este frumos să citești. Înveți lucruri noi, te relaxezi și-ți îmbunătățești optica asupra vieții. Ce se întâmplă atunci când citești dar nu simți nimic dinspre acea carte și tu totuși o continui? Pro
+tip: articol
 ---
 <div class="kg-card-markdown"><p><em>Este frumos să citești. Înveți lucruri noi, te relaxezi și-ți îmbunătățești optica asupra vieții. </em></p>
 <p><em>Ce se întâmplă atunci când citești dar nu simți nimic dinspre acea carte și tu totuși o continui? Probabil pur și simplu o faci doar ca să știi că ai mai bifat un titlu de carte în biblioteca ta? Sau poate că vrei să te convingi că nu ai dat banii degeaba pe aceasta, nu?</em> <em>Sunt mulți oameni care tot citesc doar să se autovalideze ca oameni culți. </em></p>

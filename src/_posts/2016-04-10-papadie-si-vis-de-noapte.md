@@ -10,6 +10,7 @@ day: '10'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Cum ai lăsat totul să te întindă pe iarba verde? Stai pe pământul moale, cu ochii ațintiți spre cer și-n mână cu o păpădie? Cu gura molfăind rumeguș și cu unghiile despicate din carne?  Cum?Suflă în 
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Cum ai lăsat totul să te întindă pe iarba verde? Stai pe pământul moale, cu ochii ațintiți spre cer și-n mână cu o păpădie? Cu gura molfăind rumeguș și cu unghiile despicate din carne?  Cum?<br /><br />
 Suflă în păpădie și răspândește-o în lume! Dă afară aerul prăfuit, șterge-ți genunchii, ridică-te și pășește cum trebuie! Ce naiba! Du-te spre acolo. La visele tale de noapte. Unde altundeva?<br /><br />

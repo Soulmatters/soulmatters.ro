@@ -10,6 +10,7 @@ day: '24'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     De mici învățăm despre faptul că nu trebuie să fim prea buni pentru că lumea va profita de noi iar fiecare trebuie să învețe să tragă pentru el însuși.Tot ce se întâmplă nu este oare și datorită mult
+tip: articol
 ---
 <div class="kg-card-markdown"><p>De mici învățăm despre faptul că nu trebuie să fim prea buni pentru că lumea va profita de noi iar fiecare trebuie să învețe să tragă pentru el însuși.</p>
 <p>Tot ce se întâmplă nu este oare și datorită multora din generațiile anterioare, care i-au învățat la fel pe urmașii lor? „Ca să îndrepţi lemnul strâmb, îl strâmbi invers.” (Michel de Montaigne)</p>

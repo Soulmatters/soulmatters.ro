@@ -10,6 +10,7 @@ day: '03'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Depresia e o stare a minții tale. O stare în care te simți fără chef, simți de parcă ai fi doar un corp fără viață. Dar ești sănătos, poate doar cu foarte mici probleme de sănătate, dar zilele nu îți 
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Depresia e o stare a minții tale. O stare în care te simți fără chef, simți de parcă ai fi doar un corp fără viață. Dar ești sănătos, poate doar cu foarte mici probleme de sănătate, dar zilele nu îți sunt numărate. Cei bolnavi de cancer, SIDA sau alte boli incurabile, se luptă pentru fiecare zi din viața lor.</p>
 <p>Ar trebui să învățăm de la ei să prețuim viața, căci viața e un miracol. Fiecare din noi suntem un miracol ce e în stare să creeze alte miracole. Ar trebui dar să folosim depresia în folosul nostru. Dar întrebarea e, cum? Îmi aduc aminte cum am devenit eu depresivă, și îmi aduc aminte cauzele, prea mulți oameni ce m-au dezamăgit, prea mulți oameni ce nu au apreciat eforturile mele.</p>

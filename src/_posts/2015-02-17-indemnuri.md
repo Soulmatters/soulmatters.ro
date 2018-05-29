@@ -10,6 +10,7 @@ day: '17'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Când oamenii sunt cei pentru care te întristezi, fie că le plângi de milă pentru problemele lor fie că ei au fost cei care te-au rănit, nu uita un lucru! Viața însăși valorează atât timp cât noi o fac
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Când oamenii sunt cei pentru care te întristezi, fie că le plângi de milă pentru problemele lor fie că ei au fost cei care te-au rănit, nu uita un lucru! Viața însăși valorează atât timp cât noi o facem să valoreze.</p>
 <p>Când facem ceva bun pentru noi și alții, viața devine de neprețuit. Poate cândva ai avut grija de un bătrân, poate cândva ai salvat pe cineva de la pieire și nimeni nu te-a apreciat ba din contră te-a judecat greșit și n-ai mai continuat să faci bine.</p>

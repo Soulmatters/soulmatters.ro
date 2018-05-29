@@ -10,6 +10,7 @@ day: '04'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     O relație adevărată Ai părăsit lumea în care erai obișnuit pentru una în care ești nevoit să te adaptezi.Sunt străini sau rude care profită cât pot de tine și se bucură la minim când alegi o schimba
+tip: articol
 ---
 <div class="kg-card-markdown"><p>O relație adevărată:</p>
 <p>Ai părăsit lumea în care erai obișnuit pentru una în care ești nevoit să te adaptezi.</p>

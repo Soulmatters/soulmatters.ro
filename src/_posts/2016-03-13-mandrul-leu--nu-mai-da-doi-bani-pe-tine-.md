@@ -10,6 +10,7 @@ day: '13'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Mândrul leu cu jungla sa stufoasă, n-a avut dintodeauna ce și-a dorit.Când toate creaturile și însăși propria suflare i se supuneau lui, el a simțit că devine foarte important.A început cu acte demo
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Mândrul leu cu jungla sa stufoasă, n-a avut dintodeauna ce și-a dorit.</p>
 <p>Când toate creaturile și însăși propria suflare i se supuneau lui, el a simțit că devine foarte important.</p>

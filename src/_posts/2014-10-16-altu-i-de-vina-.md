@@ -10,6 +10,7 @@ day: '16'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Atunci când unii oameni dau vina pe alții pentru nefericirea lor sau când noi înșine i-am acuzat pe ceilalți pentru problemele noastre, n-am făcut decât să mai amânăm un pic îmbunătățirea anumitor asp
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Atunci când unii oameni dau vina pe alții pentru nefericirea lor sau când noi înșine i-am acuzat pe ceilalți pentru problemele noastre, n-am făcut decât să mai amânăm un pic îmbunătățirea anumitor aspecte din viața noastră.</p>
 <p>Totodată, am pierdut oameni care nu meritau să fie ținta acuzelor noastre. Nimeni nu-i de vină pentru nefericirea noastră. Omul nu poate să observe ceva anume și apoi să acuze, dacă nu are un reper. Acest reper se pare că se află chiar în propria lui persoană. Când îl acuzi pe altul de nefericirea ta sau te declari nemulțumit de felul lui de a fi și de a acționa, este pentru că tu vrei să mascheziceva. Un aspect ce inițial a fost și este în tine și care, nu poate fi acceptat.</p>

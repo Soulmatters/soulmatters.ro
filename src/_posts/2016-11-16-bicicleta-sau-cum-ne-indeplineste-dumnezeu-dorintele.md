@@ -10,6 +10,7 @@ day: '16'
 author: 59b473454e63ea7e4713a3cc
 description: >-
     Cap. 3    Bunica se uită prin geamul de la bucătărie afară, în grădină. Cerul era senin, păsările ciripeau, florile aveau culorile frumoase ale primăverii şi fluturii pluteau veseli deasupa lor, feri
+tip: articol
 ---
 <div class="kg-card-markdown"><p dir="ltr">Cap. 3  </p>
 <p dir="ltr">  Bunica se uită prin geamul de la bucătărie afară, în grădină. Cerul era senin, păsările ciripeau, florile aveau culorile frumoase ale primăverii şi fluturii pluteau veseli deasupa lor, fericiţi că se puteau dezmorţi la soare după frigul iernii care trecuse.</p>

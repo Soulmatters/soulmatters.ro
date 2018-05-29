@@ -10,6 +10,7 @@ day: '06'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Îți voi spune azi adio și vom deveni străini. De parcă timpul în care ne iubeam, nu mai contează. Acum totul se preface în uitare.Căci ne-am trădat, căci ne-am rănit. Ne-am făcut promisiuni pe care n
+tip: articol
 ---
 <div class="kg-card-markdown"><p style="text-align: justify">Îți voi spune azi adio și vom deveni străini. De parcă timpul în care ne iubeam, nu mai contează. Acum totul se preface în uitare.</p>
 <p style="text-align: justify">Căci ne-am trădat, căci ne-am rănit. Ne-am făcut promisiuni pe care nu am putut să le îndeplinim.</p>

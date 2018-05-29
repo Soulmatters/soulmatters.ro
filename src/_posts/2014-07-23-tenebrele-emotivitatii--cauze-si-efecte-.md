@@ -10,6 +10,7 @@ day: '23'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Emotivitatea a avut și continuă să aibă un impact negativ asupra multor persoane. Aceasta se traduce prin lipsa încrederii în propria persoană, teama de evaluările negative ale celorlalți și teama de 
+tip: articol
 ---
 <div class="kg-card-markdown"><p><em>Emotivitatea a avut și continuă să aibă un impact negativ asupra multor persoane. Aceasta</em><em> se traduce prin lipsa încrederii în propria persoană, teama de evaluările negative ale celorlalți și teama de necunoscut. </em></p>
 <p><em>O altă problemă în ceea ce privește emotivitatea este existența unui paradox în modul de manifestare al acesteia. O să numim acest fenomen în felul următor: Paradoxul emotivității.</em></p>

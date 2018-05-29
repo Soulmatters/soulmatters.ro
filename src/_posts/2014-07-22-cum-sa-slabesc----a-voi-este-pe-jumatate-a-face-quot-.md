@@ -10,6 +10,7 @@ day: '22'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Ai kilograme în plus ce „nu se lasă” cu una cu două eliminate? Atunci, avem de discutat. Ispită culinară este prea mare și nu reușești să-i faci față.Senzația de disconfort care te copleșește dacă nu
+tip: articol
 ---
 <div class="kg-card-markdown"><p><em>Ai kilograme în plus ce „nu se lasă” cu una cu două eliminate? Atunci, avem de discutat.</em> <em>Ispită culinară este prea mare și nu reușești să-i faci față.</em></p>
 <p><em>Senzația de disconfort care te copleșește dacă nu iei o ,,gustărică" (hipercalorică, de altfel), nu o poți ignora. Așadar, ce este de făcut? De umblat un pic la „creieraș.” </em><em>Nu trebuie să-ți propui să ții regim pentru a slăbi. Numai ideea de regim „doare”.</em> <em>Inconștientul nostru nu poate procesa prea bine acest „trebuie”, astfel încât totul să fie în favoarea noastră.</em></p>

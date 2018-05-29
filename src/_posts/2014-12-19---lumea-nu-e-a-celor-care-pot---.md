@@ -10,6 +10,7 @@ day: '19'
 author: 59b473454e63ea7e4713a3cd
 description: >-
     „Lumea nu e a celor care pot ci a celor care vor.”(Goethe)Sunt mulți oameni talentați, inteligenți, frumoși, dar care nu obțin reușite acolo unde alții mai puțin înzestrați cunosc succesul. Persevere
+tip: articol
 ---
 <div class="kg-card-markdown"><h4>„Lumea nu e a celor care pot ci a celor care vor.”(Goethe)</h4>
 <p align="JUSTIFY"><span style="font-family: Times New Roman,serif;"><span style="font-size: large;">Sunt mulți oameni talentați, inteligenți, frumoși, dar care nu obțin reușite acolo unde alții mai puțin înzestrați cunosc succesul. Perseverența și spiritul de observație fac diferența. Ce mai există în desagă? Muncă de calitate.</span></span></p>

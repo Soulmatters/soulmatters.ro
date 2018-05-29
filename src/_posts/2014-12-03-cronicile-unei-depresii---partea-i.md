@@ -10,6 +10,7 @@ day: '03'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Ce înseamnă depresia, ce înseamnă sa fii depresiv? E oare lene sau lipsa de motivație?Te lupți cu tine însuți, să faci ceva într-o zi, să nu fie ziua risipită, dar ajungi să faci nimicuri, să pierzi 
+tip: articol
 ---
 <div class="kg-card-markdown"><p style="text-align: justify;">Ce înseamnă depresia, ce înseamnă sa fii depresiv? E oare lene sau lipsa de motivație?</p>
 <p style="text-align: justify;">Te lupți cu tine însuți, să faci ceva într-o zi, să nu fie ziua risipită, dar ajungi să faci nimicuri, să pierzi timpul pe internet sau uitându-ne într-un colț. Dar încearcă să te inspiri din acele nimicuri, din trăirile ce le ai zi de zi.</p>

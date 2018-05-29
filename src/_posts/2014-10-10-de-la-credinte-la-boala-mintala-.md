@@ -10,6 +10,7 @@ day: '10'
 author: 59b473454e63ea7e4713a3d0
 description: >-
      În articolul de față, vreau să discutăm despre diferitele credințe, curente spirituale ce pot reprezenta pentru mulți oameni, un teren fertil pe care boala mintală poate „prinde” rădăcini.Sunt multe
+tip: articol
 ---
 <div class="kg-card-markdown"><p><em> În articolul de față, vreau să discutăm despre diferitele credințe, curente spirituale ce pot reprezenta pentru mulți oameni, un teren fertil pe care boala mintală poate „prinde” rădăcini.</em></p>
 <p><em>Sunt multe persoane care din păcate, au pierdut măsura în chestiunile religioase sau mișcările spirituale de tot felul și au ajuns să vorbească/comporte într-un mod ciudat.</em></p>

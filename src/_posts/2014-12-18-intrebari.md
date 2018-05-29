@@ -10,6 +10,7 @@ day: '18'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Când ești întrebat de către cineva „Ce faci?” răspunzi  „Bine!” Dacă spui că nu faci bine, urmează  „De ce?” Nimic rău în toate acestea, dar...Ajungi să eviți să mai continui conversația pentru că îț
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Când ești întrebat de către cineva „Ce faci?” răspunzi: „Bine!” Dacă spui că nu faci bine, urmează: „De ce?” Nimic rău în toate acestea, dar...</p>
 <p>Ajungi să eviți să mai continui conversația pentru că îți va fi invadat spațiul sufletesc cu întrebări care te obosesc, te irită. Mulți nu se limitează doar la câteva întrebări ci te „descos” cât pot de mult pentru a-și satisface curiozitățile vizavi de persoana ta. În acel moment îți dorești să rămâi singur și să nu mai comunici cu nimeni. Poate doar strictul necesar.</p>

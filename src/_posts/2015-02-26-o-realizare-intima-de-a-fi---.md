@@ -10,6 +10,7 @@ day: '26'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Realizez că nu am realizat nimic şi mă pierd în gânduri, mă pierd în vise.Dar şi visul meu e o realizare, o realizare a minţii mele.Şi astfel realizez că  orice gând, orice cuvânt , orice faptă , ce
+tip: articol
 ---
 <div class="kg-card-markdown"><p style="text-align: justify;">Realizez că nu am realizat nimic şi mă pierd în gânduri, mă pierd în vise.</p>
 <p style="text-align: justify;">Dar şi visul meu e o realizare, o realizare a minţii mele.</p>

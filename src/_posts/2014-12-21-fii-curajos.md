@@ -10,6 +10,7 @@ day: '21'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Frica de sălbăticiunile și capriciile pâmântului ne-a urcat mult pe culmea evoluției. Însă, valea ce urmează este destul de adâncă și încăpătoare pentru noi toți. Este o chestiune de timp.În mâna noa
+tip: articol
 ---
 <div class="kg-card-markdown"><p><em>Frica de sălbăticiunile și capriciile pâmântului ne-a urcat mult pe culmea evoluției. Însă, valea ce urmează este destul de adâncă și încăpătoare pentru noi toți. Este o chestiune de timp.</em></p>
 <p><em>În mâna noastră este viața ce ne-o dorim deși la tălpile rămășițelor umane mulți se vor apleca și le vor săruta cu grea umilință și durere. De fapt, deja se întâmplă.</em> <em>Fă-te frate cu puntea! Stai la pământ să te pășească toți ce-ți făgăduiesc adăpost, hrană și liniște. </em></p>

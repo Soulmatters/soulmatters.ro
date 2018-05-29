@@ -10,6 +10,7 @@ day: '04'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Sunt oameni care vorbesc. Vorbesc despre faptul că te pot ajuta la nevoie și se arată interesați de problemele tale. Promisiuni și atât.Când vine un moment delicat pentru tine, vine și tăcerea lor. N
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Sunt oameni care vorbesc. Vorbesc despre faptul că te pot ajuta la nevoie și se arată interesați de problemele tale. Promisiuni și atât.</p>
 <p>Când vine un moment delicat pentru tine, vine și tăcerea lor. Nimic mai mult. Probabil din lipsă de timp, chef, poate bani, poate nimeni nu știe de ce. </p>

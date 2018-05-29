@@ -10,6 +10,7 @@ day: '02'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Orele se succed unele după altele. Se țin de mână și cântă-n cor aceleași melodii enervante. Parcă ne-ar lua și-n râs. Eram ca oala sub presiune.Așteptăm după o lungă așteptare. Nu știu cum se face, 
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Orele se succed unele după altele. Se țin de mână și cântă-n cor aceleași melodii enervante. Parcă ne-ar lua și-n râs. Eram ca oala sub presiune.</p>
 <p>Așteptăm după o lungă așteptare. Nu știu cum se face, dar am ajuns. A fost un zbor lin în noaptea întunecată. Tocmai bun pentru duhul istovit.</p>

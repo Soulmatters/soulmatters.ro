@@ -10,6 +10,7 @@ day: '20'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Este rară, fragilă, efemeră și totuși nu îndeajuns de prețuită... așa-i ea, încrederea.Vei vrea să poți prinde rădăcini undeva, cândva și să astepți încrezător că lumea ta va rodi.Îți schimbi locul 
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Este rară, fragilă, efemeră și totuși nu îndeajuns de prețuită... așa-i ea, încrederea.</p>
 <p>Vei vrea să poți prinde rădăcini undeva, cândva și să astepți încrezător că lumea ta va rodi.</p>

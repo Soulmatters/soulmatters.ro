@@ -10,6 +10,7 @@ day: '20'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Beculețe amețitoare peste tot. Aici însă, e doar o fâșie de lumină. A ta. Mai este și o intrare într-un tunel.Cu o lanternă poți orienta lumina cum vrei tu. Bine că o ai și pe asta.Acum, când ții la
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Beculețe amețitoare peste tot. Aici însă, e doar o fâșie de lumină. A ta. Mai este și o intrare într-un tunel.</p>
 <p>Cu o lanternă poți orienta lumina cum vrei tu. Bine că o ai și pe asta.</p>

@@ -10,6 +10,7 @@ day: '26'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     În acest articol am realizat o clasificare succintă a anumitor cereri exprimate indirect de unii oameni. Multe cereri devin perceptibibile prin diverse cuvinte, atitudini, comportamente și trădează pr
+tip: articol
 ---
 <div class="kg-card-markdown"><p><em>În acest articol am realizat o clasificare succintă a anumitor cereri exprimate indirect de unii oameni. Multe cereri devin perceptibibile prin diverse cuvinte, atitudini, comportamente și trădează prezența anumitor nevoi, pe care unele persoane le au la nivel emoțional.</em></p>
 <p><em><strong>Cererea de a primi acceptare, afecțiune, atenție, iertare, compasiune: </strong></em></p>

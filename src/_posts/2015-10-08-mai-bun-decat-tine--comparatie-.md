@@ -10,6 +10,7 @@ day: '08'
 author: 59b473454e63ea7e4713a3d0
 description: >-
      Indiferent de domeniul în care au vrut să progreseze - arte, muzică, scrieri, meșteșugărit sau măturat scări, oamenii s-au comparat unii cu alții. Așa cred că-și pot ști nivelul la care sunt în domen
+tip: articol
 ---
 <div class="kg-card-markdown"><p> Indiferent de domeniul în care au vrut să progreseze - arte, muzică, scrieri, meșteșugărit sau măturat scări, oamenii s-au comparat unii cu alții. Așa cred că-și pot ști nivelul la care sunt în domeniul lor.</p>
 <p>„Sunt mai bun ca X, am fost mai slab ca Y dar l-am depășit pe Z<span style="line-height: 20.8px;">”</span>. Firesc nouă, oamenilor.</p>

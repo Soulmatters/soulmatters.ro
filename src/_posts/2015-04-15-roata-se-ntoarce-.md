@@ -10,6 +10,7 @@ day: '15'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Se spune că roata se întoarce. Se speră la o dreptate venită de undeva. Toți vrem să credem în asta! Ei bine, roata nu se întoarce! Ce rău ți s-a făcut ție, e bun făcut și asta este.Totuși, persoana 
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Se spune că roata se întoarce. Se speră la o dreptate venită de undeva. Toți vrem să credem în asta! Ei bine, roata nu se întoarce! Ce rău ți s-a făcut ție, e bun făcut și asta este.</p>
 <p>Totuși, persoana care ți-a făcut rău, poate să aibă parte de anumite consecințe negative, de care probabil să auzi și tu. Acest lucru se datorează atitudinii, comportamentului, alegerilor acesteia.</p>

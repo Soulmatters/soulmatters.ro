@@ -10,6 +10,7 @@ day: '20'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Sărbătorile vin, trec, altele vor urma și alți ani se vor scurge. Totul într-un ciclu infinit stabilit de către om, însă efemer pentru fiecare dintre noi.Pomi de iarnă, globuri frumos decorate, becul
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Sărbătorile vin, trec, altele vor urma și alți ani se vor scurge. Totul într-un ciclu infinit stabilit de către om, însă efemer pentru fiecare dintre noi.</p>
 <p>Pomi de iarnă, globuri frumos decorate, beculețe, beteală, toate care mai de care. Fiecare cu beteala, globurile și becurile sale.</p>

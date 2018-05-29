@@ -10,6 +10,7 @@ day: '23'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Când cei din jurul tău te-au dezamăgit, atunci când te simți trădat, nedreptățit, respins, atunci când tot ce ai oferit a ajuns mărgăritar pentru purcei, ce gând te-ncearcă?Probabil că unul de răzbun
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Când cei din jurul tău te-au dezamăgit, atunci când te simți trădat, nedreptățit, respins, atunci când tot ce ai oferit a ajuns mărgăritar pentru purcei, ce gând te-ncearcă?</p>
 <p>Probabil că unul de răzbunare. Răzbunarea este așa dulce... toți cei ce te-au chinuit, la rândul lor vor avea parte de neplăceri. Toți cei care au știut cum să se folosească de tine, devin acum cei folosiți în a-ți satisface tu setea de răzbunare.</p>

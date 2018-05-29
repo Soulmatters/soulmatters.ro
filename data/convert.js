@@ -64,6 +64,7 @@ day: '${day}'
 author: ${item.author_id}
 description: >-
     ${item.html.replace(/<(?:.|\n)*?>/gm, '').substr(0, 200).replace(/:/g, ' ').replace(/(\r\n\t|\n|\r\t)/gm,"")}
+tip: articol
 ---
 ${item.html}
     `

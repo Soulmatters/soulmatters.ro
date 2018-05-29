@@ -10,6 +10,7 @@ day: '15'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Poate n-au început de niciunde, poate nu se vor sfârși nici undeva și nici cândva. Vor exista mereu. Mai puțin noi, oamenii de acum. Omul are dorința de a fi iubit, sănătos, prosper și toate cele. Che
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Poate n-au început de niciunde, poate nu se vor sfârși nici undeva și nici cândva. Vor exista mereu. Mai puțin noi, oamenii de acum. Omul are dorința de a fi iubit, sănătos, prosper și toate cele. Chestiuni firești. Ce ar fi dacă ar avea tot ce și-ar putea dori? Ar mai apărea și alte dorințe, evident.</p>
 <p>Îndeplinirea dorințelor nu face să dispară suferința umană, nu alungă teroarea trecutului, nu alină durerea zilelor ce se scurg rând pe rând, fără un sens anume. Un sens care să poată da viață unor planuri mărețe, unor schimbări bune în lume.</p>

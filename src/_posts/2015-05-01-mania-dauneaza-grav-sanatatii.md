@@ -10,6 +10,7 @@ day: '01'
 author: 59b473454e63ea7e4713a3cd
 description: >-
     Mânie, furie, nervi, oricare dintre apelative, descrie de fapt aceeași stare de furtună sufletească care ne este extrem de cunoscută. Deseori se manifestă printr-un potop de cuvinte, urlete lansate pr
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Mânie, furie, nervi, oricare dintre apelative, descrie de fapt aceeași stare de furtună sufletească care ne este extrem de cunoscută. Deseori se manifestă printr-un potop de cuvinte, urlete lansate precum niște săgeți ascuțite către cei aflați prin preajmă. Însă cei aflați aproape în momentul când se produce „explozia” nu sunt neapărat și cei vinovați.</p>
 <p>Nu zic, mai merge câte un fulger răzleț aruncat deasupra unei mării liniștite. Chiar este necesară câte o refulare pentru ca răul să nu se adune înăuntru. E trecut cu vederea și de către ceilalți, fiind catalogat ca întâmplare. Dar furia adevărată ne poate crea probleme cu prietenii, dușmanii, șefii, rudele, creând rupturi ce pot fi cu greu reparate, afectându-ne astfel sufletește; ne face să pierdem timpul gândindu-ne apoi cum putem remedia situația provocată de purtarea noastră nesăbuită.</p>

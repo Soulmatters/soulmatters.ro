@@ -10,6 +10,7 @@ day: '23'
 author: 59b473454e63ea7e4713a3cd
 description: >-
     Ne chinuim să ne turnăm în tipare strâmte făcute de și pentru alții. Societatea spune că trebuie să avem o slujbă, familie și copii. Neapărat în ordinea aceasta. Ce se întâmplă când lucrurile nu stau 
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Ne chinuim să ne turnăm în tipare strâmte făcute de și pentru alții. Societatea spune că trebuie să avem o slujbă, familie și copii. Neapărat în ordinea aceasta. Ce se întâmplă când lucrurile nu stau chiar așa? Când nu suntem pregătiți să acceptăm o slujbă care nu ne convine, un partener care nu ne place sau, și mai rău atunci când ne paște infertilitatea.<br /><br />
 În oricare dintre cazuri, indiferent că e sau nu vina noastră, societatea ne condamnă și ne împinge de la spate să alegem o variantă ce nu ne convinge doar din teama de a nu fi excluși de către ceilalți.  Eu propun să fim mofturoși, să spargem tiparele. Mai mult, sa fim mulțumiți de alegerile făcute chiar dacă nu corespund unor păreri generale. Să fim mulțumiți că suntem diferiți. Nu putem accepta orice.<br /><br />

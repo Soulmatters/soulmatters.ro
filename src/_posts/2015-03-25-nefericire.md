@@ -10,6 +10,7 @@ day: '25'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Ai iubire, nu-i bine. Ai bani și iubire, nu-i bine. Atunci, poate ești sănătos, ai iubire, bani și tot ce-ți dorești dar... tot nu-i bine.Paradoxal, omul când are parte de bine, devine nefericit iar 
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Ai iubire, nu-i bine. Ai bani și iubire, nu-i bine. Atunci, poate ești sănătos, ai iubire, bani și tot ce-ți dorești dar... tot nu-i bine.</p>
 <p>Paradoxal, omul când are parte de bine, devine nefericit iar la rău se mobilizează, prețuiește tot ce are și luptă pentru confortul său sufletesc.</p>

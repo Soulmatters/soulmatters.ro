@@ -10,6 +10,7 @@ day: '24'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     O tulburare ce ține de sfera psihicului... Mă refer la ceva anume care „îți încurcă realitățile”.Am să vorbesc despre ce au simțit, perceput... cei ce s-au întors înapoi la normalitate, după un lung 
+tip: articol
 ---
 <div class="kg-card-markdown"><p>O tulburare ce ține de sfera psihicului... Mă refer la ceva anume care „îți încurcă realitățile”.</p>
 <p>Am să vorbesc despre ce au simțit, perceput... cei ce s-au întors înapoi la normalitate, după un lung chin. Este ciudat să nu știi ce realitate este cea reală. A ta sau a celorlalți. Este chinuitor pentru că tu nu poți diferenția clar.</p>

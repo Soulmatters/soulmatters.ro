@@ -10,6 +10,7 @@ day: '23'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     La baza tuturor nevoilor noastre emoționale stă nevoia de protecție.Oamenii se protejează împotriva sentimentului de incompetență, inutilitate, a lipsei de importanță, banalității, respingerii, frici
+tip: articol
 ---
 <div class="kg-card-markdown"><p>La baza tuturor nevoilor noastre emoționale stă nevoia de protecție.</p>
 <p>Oamenii se protejează împotriva sentimentului de incompetență, inutilitate, a lipsei de importanță, banalității, respingerii, fricii, singurătății, abandonului, disconfortului fizic, emoțional.</p>

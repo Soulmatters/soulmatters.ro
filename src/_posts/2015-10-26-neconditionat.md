@@ -10,6 +10,7 @@ day: '26'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Mai toată lumea vorbește de D-zeu, iubire, trimite mesaje motivaționale cu sau mai puțină relevanță. Și nu gratis. Nu cu intenția de a le fi auzit mesajul ci de a fi observată imaginea lor.Oameni bun
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Mai toată lumea vorbește de D-zeu, iubire, trimite mesaje motivaționale cu sau mai puțină relevanță. Și nu gratis. Nu cu intenția de a le fi auzit mesajul ci de a fi observată imaginea lor.</p>
 <p>Oameni buni voi credeți în ce spuneți? Unii spun lucruri frumoase și adevărate dar restul? E acel rest căruia crezi că nu-i mai ajungi nici la călcâie. La el mă refer.</p>

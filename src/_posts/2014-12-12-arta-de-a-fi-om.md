@@ -10,6 +10,7 @@ day: '12'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Arta, o regăsim în poezii, tablouri, biserici, castele, filme. Dar toate acestea sunt create de oameni.Iar oamenii au uitat de cea mai importantă artă  arta de a fi OM.De ar avea existența noastră u
+tip: articol
 ---
 <div class="kg-card-markdown"><p style="text-align: justify;">Arta, o regăsim în poezii, tablouri, biserici, castele, filme. Dar toate acestea sunt create de oameni.</p>
 <p style="text-align: justify;">Iar oamenii au uitat de cea mai importantă artă: arta de a fi OM.</p>

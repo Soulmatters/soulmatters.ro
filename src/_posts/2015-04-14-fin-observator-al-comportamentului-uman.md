@@ -10,6 +10,7 @@ day: '14'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Din dorința de a încerca să deslușesc anumite chestiuni referitoare la mine și ceilalți, am ales să devin „un fin observator al comportamentului uman”(psiholog). Din nevoia de a ști mai bine ce gândes
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Din dorința de a încerca să deslușesc anumite chestiuni referitoare la mine și ceilalți, am ales să devin „un fin observator al comportamentului uman”(psiholog). Din nevoia de a ști mai bine ce gândesc eu dar și alții, am ales să scriu aici, unde citiți dvs. acum. Care-i rostul în a afla ce gândesc oamenii? Vei simți faptul că ai control mai mult asupra lor? Poate îi vei ajuta dacă ai aflat ce și cum gândesc ei? Te face să te simți un om mai bun faptul că ai ajutat? Prudență! Știi ce se întâmplă cu oamenii foarte buni, nu?</p>
 <p>Dacă înveți și practici o meserie ce-ți permite să iei contact cu problemele oamenilor, nu înseamnă că știi prea multe despre ei.</p>

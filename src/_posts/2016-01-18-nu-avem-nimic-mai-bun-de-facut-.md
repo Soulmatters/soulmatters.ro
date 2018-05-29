@@ -10,6 +10,7 @@ day: '18'
 author: 59b475d04e63ea7e4713a4c2
 description: >-
     Nu avem nimic mai bun de făcut!Nu, nu sunt alte probleme la ora actuală! O fi ca în 18 aprilie 1930, când BBC-ul a anunțat că nu sunt știri pentru acea zi. Nu, nu avem alte probleme, nu se simte încă
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Nu avem nimic mai bun de făcut!</p>
 <p>Nu, nu sunt alte probleme la ora actuală! O fi ca în 18 aprilie 1930, când BBC-ul a anunțat că nu sunt știri pentru acea zi. Nu, nu avem alte probleme, nu se simte încălzirea globală, doar e zăpadă afară. Nu sunt probleme pentru că anumiți (adică toți) politicienii pur și simplu, își bat joc de noi, dar avem probleme cu Norvegia care au „furat” cică copiii unora. Cum nu avem mai nimic mai bun de făcut, de protestat, ne permitem să aducem injurii la adresa unor oameni care nici măcar nu-i cunoaștem?</p>

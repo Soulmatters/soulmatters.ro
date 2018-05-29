@@ -10,6 +10,7 @@ day: '10'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Poate pentru că a trăit prea mult în iluzia ideii că ar fi de de folos cuiva... Bietul suflețel cu firea lui naivă! El a crezut că poate aduce bucurie pe chipurile celorlalți și iar s-a înșelat…Pe o
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Poate pentru că a trăit prea mult în iluzia ideii că ar fi de de folos cuiva... </p>
 <p>Bietul suflețel cu firea lui naivă! El a crezut că poate aduce bucurie pe chipurile celorlalți și iar s-a înșelat…</p>

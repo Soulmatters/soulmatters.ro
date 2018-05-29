@@ -10,6 +10,7 @@ day: '16'
 author: 59b473454e63ea7e4713a3cc
 description: >-
     Cap.4   Trecuseră mai multe zile de când bunica înţelesese că ceva îl frământa pe băiat.  Într-o zi, coşuleţul de lucru apăru în mâinile lui Petrişor. Bunica lăsă deoparte treaba în bucătărie şi se i
+tip: articol
 ---
 <div class="kg-card-markdown"><p dir="ltr">Cap.4</p>
 <p dir="ltr">   Trecuseră mai multe zile de când bunica înţelesese că ceva îl frământa pe băiat.  Într-o zi, coşuleţul de lucru apăru în mâinile lui Petrişor. Bunica lăsă deoparte treaba în bucătărie şi se instală comodă în scaunul ei,  aşteptând liniştită ca băieţelul să înceapă să povestească.</p>

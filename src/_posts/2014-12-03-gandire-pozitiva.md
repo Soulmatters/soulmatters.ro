@@ -10,6 +10,7 @@ day: '03'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Să adoptăm o gândire pozitivă vizavi de orice situație preponderent sau totalmente negativă, nu? Este ca atunci când ai ascunde mizeria sub preș, ai folosi deodorant fără a te spăla înainte sau ai pre
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Să adoptăm o gândire pozitivă vizavi de orice situație preponderent sau totalmente negativă, nu? Este ca atunci când ai ascunde mizeria sub preș, ai folosi deodorant fără a te spăla înainte sau ai pretinde că ai orbit, deși tu vezi. Exemplele pot continua la infinit. La ce bun să-ți autoinduci o altă percepție când realitatea-i alta?</p>
 <p>Prin această gândire pozitivă nu transforma totul într-un univers mai „digerabil” pentru mintea ta. Lecțiile de viață se învață trecând prin bune și rele. Chiar dacă suferi și cedezi, la un moment tot te ridici și încerci să lupți și vei reuși doar privind totul într-o manieră cât mai realistă.</p>

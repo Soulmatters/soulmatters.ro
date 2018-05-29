@@ -10,6 +10,7 @@ day: '03'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Într-o lume ideală poate ne-am fi iubit și acum. Dar într-o lume care nu e făcută pentru îndrăgostiți, iubirea noastră nu devine decât o povară. Ne îndrăgostim de persoanele nepotrivite și iubim în tă
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Într-o lume ideală poate ne-am fi iubit și acum. Dar într-o lume care nu e făcută pentru îndrăgostiți, iubirea noastră nu devine decât o povară. Ne îndrăgostim de persoanele nepotrivite și iubim în tăcere. Renunțăm la dragoste și devenim roboți într-o lume ce nu e a noastră.</p>
 <p>Renunțăm la libertatea noastră, la libertatea de a iubi, la libertatea de a fi cum ne dorim. Ne ascundem, ne mințim și credem cu o naivitate de copil, că dragostea va trece. Dar noapte de noapte visăm la un miracol, visăm că dragostea va învinge. Realitatea nu e un basm în care binele mereu învinge răul.</p>

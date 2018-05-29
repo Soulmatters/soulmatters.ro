@@ -10,6 +10,7 @@ day: '22'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Puține au fost momentele în care noi oamenii am apreciat cu adevărat tot ceea ce aveam - prezența celor dragi, anumite situații de viață favorabile nouă și multe altele.De ce omul apreciază atât de p
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Puține au fost momentele în care noi oamenii am apreciat cu adevărat tot ceea ce aveam - prezența celor dragi, anumite situații de viață favorabile nouă și multe altele.</p>
 <p>De ce omul apreciază atât de puțin sau deloc tot ce are în viața sa? De ce odată cu pierderea apare și prețuirea a ceea ce s-a pierdut?</p>

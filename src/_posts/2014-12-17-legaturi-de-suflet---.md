@@ -10,6 +10,7 @@ day: '17'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Vremea trece odată cu oamenii. Relațiile dintre ei la fel. Prieteniile dispar și unele noi se formează.Viața ne schimbă pe toți. Oameni ce ți-au fost prieteni te lasă deoparte doar pentru că nu te in
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Vremea trece odată cu oamenii. Relațiile dintre ei la fel. Prieteniile dispar și unele noi se formează.</p>
 <p>Viața ne schimbă pe toți. Oameni ce ți-au fost prieteni te lasă deoparte doar pentru că nu te interesezi de ei și consideră faptul că nu-ți pasă de persoana lor. Din păcate este o mare iluzie a relațiilor dintre oameni. Nu toți cei care se intersează de tine îți sunt și prieteni.</p>

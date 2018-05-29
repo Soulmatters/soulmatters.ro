@@ -10,6 +10,7 @@ day: '06'
 author: 59b473454e63ea7e4713a3cd
 description: >-
     Eu trec prin viață având uneori convingerea, sfărâmată de mici excepții, că oamenii sunt răi, individualiști. Mama pleacă de la premiza că toți sunt buni.Veți spune că adevărul nu se află în niciuna 
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Eu trec prin viață având uneori convingerea, sfărâmată de mici excepții, că oamenii sunt răi, individualiști. Mama pleacă de la premiza că toți sunt buni.</p>
 <p>Veți spune că adevărul nu se află în niciuna din aceste extreme, că nu are cum să fie de o parte sau de alta. Veți gândi că e vorba de două păreri, de două suflete aflate la poli opuși: unul alb și altul negru. </p>

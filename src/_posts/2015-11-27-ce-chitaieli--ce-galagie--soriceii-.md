@@ -10,6 +10,7 @@ day: '27'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Ei rod lumea de acolo, o rod și pe cea de aici. Sunt niște șoricei. Mi-au plăcut mult șoriceii dar iau tot și nu mai lasă nimic în urma lor. Sunt mulți și lacomi. Mișună peste tot și nu-i poți stârpi.
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Ei rod lumea de acolo, o rod și pe cea de aici. Sunt niște șoricei. Mi-au plăcut mult șoriceii dar iau tot și nu mai lasă nimic în urma lor. Sunt mulți și lacomi. Mișună peste tot și nu-i poți stârpi.</p>
 <p>Îți rod răbdarea, stomacul, porția de mâncare din față și hainele de pe tine. Chiar pierd și tovărășiile dintre ei, căci se mai rod și unii pe alții, când n-au ce mânca.</p>

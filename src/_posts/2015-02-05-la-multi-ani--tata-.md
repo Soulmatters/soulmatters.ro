@@ -10,6 +10,7 @@ day: '05'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Astăzi e ziua tatălui meu și m-am gândit că cel mai frumos cadou ar fi să îi scriu o mulțumire. Îi mulțumesc pentru că m-a educat și mi-a oferit tot ce mi-am dorit. Eu nu am fost fiica ideală, am făcu
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Astăzi e ziua tatălui meu și m-am gândit că cel mai frumos cadou ar fi să îi scriu o mulțumire. Îi mulțumesc pentru că m-a educat și mi-a oferit tot ce mi-am dorit. Eu nu am fost fiica ideală, am făcut greșeli, prea multe. Tatăl îți arată lumea așa cum este ea, oricât de naivă nu ai fi, tata e cel care te trezește la realitate când copilăria s-a terminat.</p>
 <p>Discuții serioase și glume, certuri și împăcări, astfel, relația tată-fiică. Dar mai presus de toate e susținerea și sprijinul moral. Și știi că tatal mereu te va proteja, te simți în siguranță, știind că ai pe cineva care te va primi acasă cu brațele deschise. Tatăl e primul care te învață despre lume, despre oameni și despre viață. Acum îl înțeleg mai bine ca niciodată. Poate prea târziu, poate prea devreme. Poate încă nu sunt atât de matură precum ar vrea el. Îi mulțumesc pentru toate sfaturile date, îi mulțumesc pentru susținerea acordată chiar și când greșeam.</p>

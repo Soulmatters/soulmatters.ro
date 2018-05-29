@@ -10,6 +10,7 @@ day: '07'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Cuvintele au fost la început. Cuvintele spuse de noi ne reprezintă. Acestea ne modelează comportamentul, starea și viața.Cuvintele ne aduc fericire dar și tristețe, revoluții dar și pace. În ele regă
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Cuvintele au fost la început. Cuvintele spuse de noi ne reprezintă. Acestea ne modelează comportamentul, starea și viața.</p>
 <p>Cuvintele ne aduc fericire dar și tristețe, revoluții dar și pace. În ele regăsim adevărul, în ele regăsim minciuna. Prin cuvinte ne comunicăm sentimentele, gândurile, prin cuvinte ne arătăm oamenilor.</p>

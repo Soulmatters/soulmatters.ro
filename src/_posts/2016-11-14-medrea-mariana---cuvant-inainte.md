@@ -10,6 +10,7 @@ day: '14'
 author: 59b473454e63ea7e4713a3cc
 description: >-
     Cuvânt înainteToţi ne iubim copiii şi nepoţii şi dorim să le oferim o lume mai  bună şi mai frumoasă.Dar, dacă ne uităm în jurul nostru, percepţia este că nu trăim încă în lumea pe care o visăm pent
+tip: articol
 ---
 <div class="kg-card-markdown"><p dir="ltr">Cuvânt înainte</p>
 <p dir="ltr">Toţi ne iubim copiii şi nepoţii şi dorim să le oferim o lume mai  bună şi mai frumoasă.</p>

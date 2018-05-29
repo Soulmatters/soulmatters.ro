@@ -10,6 +10,7 @@ day: '15'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Pentru mulți, a fi și a gândi diferit înseamnă de fapt că ești un inconștient.Ei bine, o parte de adevăr este.Un „diferit” autentic nu a fost conștient de faptul că nu era precum restul. Era pur și 
+tip: articol
 ---
 <div class="kg-card-markdown"><p><span style="line-height:13.8666658401489px">Pentru mulți, a</span><span style="line-height:1.6"> fi și a gândi diferit înseamnă de fapt că ești un </span><span style="line-height:1.6">inconștient.</span></p>
 <p>Ei bine, o parte de adevăr este.</p>

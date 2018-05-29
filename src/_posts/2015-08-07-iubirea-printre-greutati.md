@@ -10,6 +10,7 @@ day: '07'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Ar fi bine să fie o iubire printre greutăți dar cu pietre, fiare și alte cele. Tot ar fi fost mai ușor de cărat.Iubirea printre greutăți despre care scriu are de-a face cu noi. Fiecare dintre cei ce 
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Ar fi bine să fie o iubire printre greutăți dar cu pietre, fiare și alte cele. Tot ar fi fost mai ușor de cărat.</p>
 <p>Iubirea printre greutăți despre care scriu are de-a face cu noi. Fiecare dintre cei ce a simțit și a trăit lipsurile, boala, ignoranța celor din jur sau nepăsarea din partea cui te aștepți mai puțin.</p>

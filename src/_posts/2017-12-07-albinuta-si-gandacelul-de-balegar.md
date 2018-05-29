@@ -10,6 +10,7 @@ day: '07'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Ea este o albinuță și zilnic se duce sa extragă polen de prin floricele. Speră că într-o zi cineva o va vedea și pe ea și o va aprecia pentru tot ce face.Până una alta, aceasta tot încearcă să înțep
+tip: articol
 ---
 <div class="kg-card-markdown"><p><a href="http://www.sherv.net/"><img alt="Bumblebee" width=53 height=76 src="http://www.sherv.net/cm/emoticons/bugs/bumblebee-smiley-emoticon.gif"></a><br>
 Ea este o albinuță și zilnic se duce sa extragă polen de prin floricele. Speră că într-o zi cineva o va vedea și pe ea și o va aprecia pentru tot ce face.</p>

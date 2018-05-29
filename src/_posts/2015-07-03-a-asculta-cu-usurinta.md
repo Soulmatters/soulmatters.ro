@@ -10,6 +10,7 @@ day: '03'
 author: 59b475d04e63ea7e4713a4c2
 description: >-
     Te-ai aşezat vreodată într-o linişte profundă?  Fără atenţia fixată pe ceva anume și nefăcând un efort pentru a te concentra? Să fii cu mintea cu adevărat liniștită? Dacă ai făcut asta, atunci auzeai 
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Te-ai aşezat vreodată într-o linişte profundă?  Fără atenţia fixată pe ceva anume și nefăcând un efort pentru a te concentra? Să fii cu mintea cu adevărat liniștită? Dacă ai făcut asta, atunci auzeai totul, nu-i aşa? Atât zgomotele îndepărtate cât şi cele din apropiere. Acest lucru înseamnă că acordai atenţie la tot din jurul tău.</p>
 <p>Mintea nu este limitată doar la un singur canal de percepție. Strâmt, de altfel.</p>

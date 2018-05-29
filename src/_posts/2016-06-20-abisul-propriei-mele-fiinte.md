@@ -10,6 +10,7 @@ day: '20'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Gândurile îmi sunt strangulate. Vin, pleacă dar nu se materializează, doar se pierd într-un abis creat de mine. Sunt o ființă a regretelor și lacrimilor care și-a găsit sălaș în propria umbră, uitând 
+tip: articol
 ---
 <div class="kg-card-markdown"><div>Gândurile îmi sunt strangulate. Vin, pleacă dar nu se materializează, doar se pierd într-un abis creat de mine. Sunt o ființă a regretelor și lacrimilor care și-a găsit sălaș în propria umbră, uitând că undeva o stea îi luminează calea către visele ei.</div>
 <div>Mi-am creat propriul iad dar pot urca doar o treaptă și apoi alunec mai adânc. Am devenit cel mai mare dușman al meu.</div>

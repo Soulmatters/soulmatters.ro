@@ -10,6 +10,7 @@ day: '24'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Atacul de panică - este un „prieten” foarte apropiat. Îți este alături în orice moment al vieții tale. Mereu îți captează atenția prin felul lui de a fi. N-ai cum să-l ignori și nu mai ai nici curajul
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Atacul de panică - este un „prieten” foarte apropiat. Îți este alături în orice moment al vieții tale. Mereu îți captează atenția prin felul lui de a fi. N-ai cum să-l ignori și nu mai ai nici curajul de a te mai bucura de ceva din jurul tău, de teamă să nu-l întâlnești.</p>
 <p>Până la urmă îți spui că totuși, trebuie să te consulte  un doctor care să-ți confirme dacă prezența acestui „prieten” se datorează unei afecțiuni organice(dezechilibru electrolitic, afecțiuni cardiace, pulmonare, cerebrale etc) sau este doar o chestiune ce ține doar de mintea ta.</p>

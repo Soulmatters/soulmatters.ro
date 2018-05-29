@@ -10,6 +10,7 @@ day: '10'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Relația dintre un șef și angajat e una de subordonare oarbă, de lingușeală și supunere. Și e o iluzie că sclavia a fost abolită.Șefii își bat joc de angajații lor, iar vina angajaților e că acceptă ș
+tip: articol
 ---
 <div class="kg-card-markdown"><p><em>Relația dintre un șef și angajat e una de subordonare oarbă, de lingușeală și supunere. Și e o iluzie că sclavia a fost abolită.</em></p>
 <p><em>Șefii își bat joc de angajații lor, iar vina angajaților e că acceptă și că nu își apără drepturile.</em></p>

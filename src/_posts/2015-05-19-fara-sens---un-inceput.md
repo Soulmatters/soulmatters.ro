@@ -10,6 +10,7 @@ day: '19'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Prin împlinirea dorințelor putem defini fericirea? Fericirea are un rol. Acela de a se descoperi în fiecare dintre cei care o cer. Până acum nu și-a descoperit rolul.Are sens să trăim? Nu. Are sens s
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Prin împlinirea dorințelor putem defini fericirea? Fericirea are un rol. Acela de a se descoperi în fiecare dintre cei care o cer. Până acum nu și-a descoperit rolul.</p>
 <p>Are sens să trăim? Nu. Are sens să ne înmulțim și să ducem mai departe o generație de oameni? Are sens să ne zbatem pentru a deveni, a obține?  Nu. N-are sens. Nimic n-are sens.</p>

@@ -10,6 +10,7 @@ day: '18'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Educație aleasă, așternuturi de mătase și parfumuri scumpe, îmbietoare. Parcă-i un iz pe aici... stârv, să fie?Principii și vorbe mărețe, pe un fotoliu confortabil de piele, aperitive alese, băuturi 
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Educație aleasă, așternuturi de mătase și parfumuri scumpe, îmbietoare. Parcă-i un iz pe aici... stârv, să fie?</p>
 <p>Principii și vorbe mărețe, pe un fotoliu confortabil de piele, aperitive alese, băuturi fine. Ca obrajii, nu?</p>

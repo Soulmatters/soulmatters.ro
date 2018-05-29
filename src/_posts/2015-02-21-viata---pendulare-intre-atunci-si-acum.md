@@ -10,6 +10,7 @@ day: '21'
 author: 59b473454e63ea7e4713a3cd
 description: >-
     Păstrăm o mulțime de lucruri. Relicve ale zilelor trecute. Le numim amintiri. Odată cu trecerea anilor, cutiile se adună. Păstrăm cercei ruginiți, brățări demodate, inele cu pietre lipsă, bilețele de 
+tip: articol
 ---
 <div class="kg-card-markdown"><p style="text-align: justify;">Păstrăm o mulțime de lucruri. Relicve ale zilelor trecute. Le numim amintiri. Odată cu trecerea anilor, cutiile se adună. Păstrăm cercei ruginiți, brățări demodate, inele cu pietre lipsă, bilețele de dragoste, etc.</p>
 <p style="text-align: justify;">Ne apucăm uneori să le selectăm. Ne alegem cu două grămezi: una mică, unde așteaptă cele care pot rămâne și una uriașă, compusă din cele de care ne putem lipsi.</p>

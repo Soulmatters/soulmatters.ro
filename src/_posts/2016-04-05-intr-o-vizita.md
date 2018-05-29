@@ -10,6 +10,7 @@ day: '05'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Vin în vizită monsieur Timp-e-scurt,  monsieur Mai-e-vreme și madam Coasa -Cocoșată. Desigur, gazda-i prezentă alături de dânșii. Aceasta mai face și  drumuri la bucătărie din când în când, să mai ser
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Vin în vizită monsieur <em>Timp-e-scurt</em>,  monsieur <em>Mai-e-vreme</em> și madam <em>Coasa -Cocoșată</em>. Desigur, gazda-i prezentă alături de dânșii. Aceasta mai face și  drumuri la bucătărie din când în când, să mai servească oaspeții cu câte ceva.</p>
 <p>Stau cu toții pe verandă, la o masă din scânduri. Se cinstesc și discută delectându-se cu câteva băuturi fine, poate și o gură de fursec dulceag. Servesc din port-țigaret niște lulele râncede, dar special păstrate pentru ocazii.</p>

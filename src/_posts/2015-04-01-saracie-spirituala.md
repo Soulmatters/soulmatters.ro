@@ -10,6 +10,7 @@ day: '01'
 author: 59b473454e63ea7e4713a3ce
 description: >-
     Prea mulți se plâng că nu au bani, prea mulți se plâng că sunt săraci. Dar e sărăcia o scuză pentru a fi un om rău? Sărăcia se măsoară în lucruri materiale, și nimănui nu îi pasă ce fel de om ești. Și
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Prea mulți se plâng că nu au bani, prea mulți se plâng că sunt săraci. Dar e sărăcia o scuză pentru a fi un om rău? Sărăcia se măsoară în lucruri materiale, și nimănui nu îi pasă ce fel de om ești. Și cei săraci își acceptă statutul, se plâng prea des , dar nu încearcă să schimbe ceva.</p>
 <p>Nu încearcă să se dezvolte, să devină mai buni, să cunoască mai multe. Sărăcia nu e doar cea materială, e și cea spirituală. Oameni ce cheltuie banii iresponsabili, ce ignoră cultura, ce cred că tot ce contează în viața aceasta sunt banii. Dar nu doar banii ne fac săraci sau bogați. Inteligența și bunătatea nu pot fi cumpărate.</p>

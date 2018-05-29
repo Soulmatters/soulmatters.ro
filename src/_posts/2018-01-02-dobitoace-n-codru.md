@@ -10,6 +10,7 @@ day: '02'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Fie-ți milă oricât de tare te poate durea la un moment dat.Nimeni nu vrea să-ți facă rău suflet drag, ci dorește doar să se asigure că e mai bun decât tine. Nimeni nu vrea să te împingă de pe stâncă 
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Fie-ți milă oricât de tare te poate durea la un moment dat.<br>
 Nimeni nu vrea să-ți facă rău suflet drag, ci dorește doar să se asigure că e mai bun decât tine. Nimeni nu vrea să te împingă de pe stâncă atunci când ești la greu, ci doar să-ți ia locul. Stânca era doar în zonă, trecea pe acolo. Acum, ia și ascultă ceva frumos înainte de culcare!</p>

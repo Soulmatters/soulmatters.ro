@@ -10,6 +10,7 @@ day: '09'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Ne dorim să avem pe cineva, îl avem. Vrem să ne dea atenție. O face și pe asta. Până la un punct.Deși poate acea persoană te-a dorit mai mult decât ai dorit-o tu la început, lucrurile se schimbă ulte
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Ne dorim să avem pe cineva, îl avem. Vrem să ne dea atenție. O face și pe asta. Până la un punct.</p>
 <p>Deși poate acea persoană te-a dorit mai mult decât ai dorit-o tu la început, lucrurile se schimbă ulterior.</p>

@@ -10,6 +10,7 @@ day: '02'
 author: 59b473454e63ea7e4713a3d0
 description: >-
     Aruncă tot ce nu-ți mai trebuie în coșul de gunoi! Am toate atributele posibile ce îmi permit să fiu ca el. Să fiu atunci când aleg!Sunt coșul de gunoi, în care tu îți arunci toate cele. Nu prea te i
+tip: articol
 ---
 <div class="kg-card-markdown"><p>Aruncă tot ce nu-ți mai trebuie în coșul de gunoi! Am toate atributele posibile ce îmi permit să fiu ca el. Să fiu atunci când aleg!</p>
 <p>Sunt coșul de gunoi, în care tu îți arunci toate cele. Nu prea te interesează de el, îl tratezi ca ce poate face și atât. Uneori acesta poate să aibă semne de crăpături. De la greutatea și frecvența cu care-ți arunci resturile în el, crapă tot mai mult.</p>
