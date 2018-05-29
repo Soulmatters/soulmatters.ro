@@ -1,16 +1,16 @@
 ---
 title: "Promisiuni. A vorbi despre a face"
-date: '2015-05-04 11:41:45'
-slug: 'promisiuni--a-vorbi-despre-a-face'
+date: "2015-05-04 11:41:45"
+slug: "promisiuni--a-vorbi-despre-a-face"
 image: /images/hand-447040_640.jpg
-path: '2015-05-04-promisiuni--a-vorbi-despre-a-face.md'
-year: '2015'
-month: '05'
-day: '04'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-05-04-promisiuni--a-vorbi-despre-a-face.md"
+year: "2015"
+month: "05"
+day: "04"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Sunt oameni care vorbesc. Vorbesc despre faptul că te pot ajuta la nevoie și se arată interesați de problemele tale. Promisiuni și atât.Când vine un moment delicat pentru tine, vine și tăcerea lor. N
-tip: articol
+    "Sunt oameni care vorbesc. Vorbesc despre faptul că te pot ajuta la nevoie și se arată interesați de problemele tale. Promisiuni și atât.Când vine un moment delicat pentru tine, vine și tăcerea lor. N"
 ---
 <div class="kg-card-markdown"><p>Sunt oameni care vorbesc. Vorbesc despre faptul că te pot ajuta la nevoie și se arată interesați de problemele tale. Promisiuni și atât.</p>
 <p>Când vine un moment delicat pentru tine, vine și tăcerea lor. Nimic mai mult. Probabil din lipsă de timp, chef, poate bani, poate nimeni nu știe de ce. </p>

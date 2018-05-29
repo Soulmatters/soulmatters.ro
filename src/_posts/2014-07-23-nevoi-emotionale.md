@@ -1,16 +1,16 @@
 ---
 title: "Nevoi emoționale"
-date: '2014-07-23 22:12:32'
-slug: 'nevoi-emotionale'
+date: "2014-07-23 22:12:32"
+slug: "nevoi-emotionale"
 image: /images/dreams-1593708_640.jpg
-path: '2014-07-23-nevoi-emotionale.md'
-year: '2014'
-month: '07'
-day: '23'
-author: 59b473454e63ea7e4713a3d0
+path: "2014-07-23-nevoi-emotionale.md"
+year: "2014"
+month: "07"
+day: "23"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    La baza tuturor nevoilor noastre emoționale stă nevoia de protecție.Oamenii se protejează împotriva sentimentului de incompetență, inutilitate, a lipsei de importanță, banalității, respingerii, frici
-tip: articol
+    "La baza tuturor nevoilor noastre emoționale stă nevoia de protecție.Oamenii se protejează împotriva sentimentului de incompetență, inutilitate, a lipsei de importanță, banalității, respingerii, frici"
 ---
 <div class="kg-card-markdown"><p>La baza tuturor nevoilor noastre emoționale stă nevoia de protecție.</p>
 <p>Oamenii se protejează împotriva sentimentului de incompetență, inutilitate, a lipsei de importanță, banalității, respingerii, fricii, singurătății, abandonului, disconfortului fizic, emoțional.</p>

@@ -1,16 +1,16 @@
 ---
 title: "Călătoria"
-date: '2016-06-24 12:52:27'
-slug: 'calatoria'
+date: "2016-06-24 12:52:27"
+slug: "calatoria"
 image: /images/blackbird-498130_960_720.jpg
-path: '2016-06-24-calatoria.md'
-year: '2016'
-month: '06'
-day: '24'
-author: 59b473454e63ea7e4713a3d0
+path: "2016-06-24-calatoria.md"
+year: "2016"
+month: "06"
+day: "24"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Sunt o ființă mititică. Îmi place să străbat cerul atât timp cât mă țin aripioarele. Îmi place să simt mângâierea poianei de flori, care îmi înalță zborul, cu fiecare petală de vânt suflată. Deasupra 
-tip: articol
+    "Sunt o ființă mititică. Îmi place să străbat cerul atât timp cât mă țin aripioarele. Îmi place să simt mângâierea poianei de flori, care îmi înalță zborul, cu fiecare petală de vânt suflată. Deasupra "
 ---
 <div class="kg-card-markdown"><p>Sunt o ființă mititică. Îmi place să străbat cerul atât timp cât mă țin aripioarele. Îmi place să simt mângâierea poianei de flori, care îmi înalță zborul, cu fiecare petală de vânt suflată. Deasupra florilor, dar sub norii schimbători, eu zbor într-una. Cu viteză și fără direcție precisă. Văd atâtea trasee în depărtare... unele care par a fi încețoșate și de care mi-e tare frică!</p>
 <p>N-am fost niciodată mai departe de poiana dragă, în care obișnuiesc să fac reprezentații prin zborul meu. Poiana unde florile și gâzulițele mele dragi îmi sunt spectatori. Poiana unde m-am născut și am învățat să zbor.  M-am decis totuși să  fac marele pas și să las un pic poiana dragă în urmă. Vreau să descopăr mai multe, să văd cum sunt și alte lumi. Astfel, iau decizia de a pleca ziua următoare.</p>

@@ -1,16 +1,16 @@
 ---
 title: "Doar eu am dreptate!"
-date: '2014-11-26 19:43:00'
-slug: 'doar-eu-am-dreptate-'
+date: "2014-11-26 19:43:00"
+slug: "doar-eu-am-dreptate-"
 image: /images/woman-530484_640.jpg
-path: '2014-11-26-doar-eu-am-dreptate-.md'
-year: '2014'
-month: '11'
-day: '26'
-author: 59b473454e63ea7e4713a3d0
+path: "2014-11-26-doar-eu-am-dreptate-.md"
+year: "2014"
+month: "11"
+day: "26"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Ați avut de-a face cu persoane ce trăiau mereu cu senzația că dețin adevărul absolut și care desigur, doreau să primească numai aprobări din partea celorlalți? Să detaliem un pic despre cum se manifes
-tip: articol
+    "Ați avut de-a face cu persoane ce trăiau mereu cu senzația că dețin adevărul absolut și care desigur, doreau să primească numai aprobări din partea celorlalți? Să detaliem un pic despre cum se manifes"
 ---
 <div class="kg-card-markdown"><p>Ați avut de-a face cu persoane ce trăiau mereu cu senzația că dețin adevărul absolut și care desigur, doreau să primească numai aprobări din partea celorlalți? Să detaliem un pic despre cum se manifestă aceste persoane în conversație cu alții:</p>
 <p>- Au sentimentul că sunt atotcunoscătoare iar opiniile altora le cataloghează a fi cu adevărat proaste, nefondate și oricâte contraargumente le-ai aduce, consideră că tot părerile lor sunt cele mai bune.</p>

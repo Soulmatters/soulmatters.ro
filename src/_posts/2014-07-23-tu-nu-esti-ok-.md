@@ -1,16 +1,16 @@
 ---
 title: "Tu nu ești ok!"
-date: '2014-07-23 21:41:58'
-slug: 'tu-nu-esti-ok-'
+date: "2014-07-23 21:41:58"
+slug: "tu-nu-esti-ok-"
 image: /images/post-it-1547592_640.jpg
-path: '2014-07-23-tu-nu-esti-ok-.md'
-year: '2014'
-month: '07'
-day: '23'
-author: 59b473454e63ea7e4713a3d0
+path: "2014-07-23-tu-nu-esti-ok-.md"
+year: "2014"
+month: "07"
+day: "23"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Cea mai mare greșeală pe care mulți dintre noi am comis-o, a fost să spunem altuia aflat în perioade mai grele, în situații problematice aceste cuvinte  „tu nu ești ok” „tu ai o problemă” „vezi că gre
-tip: articol
+    "Cea mai mare greșeală pe care mulți dintre noi am comis-o, a fost să spunem altuia aflat în perioade mai grele, în situații problematice aceste cuvinte  „tu nu ești ok” „tu ai o problemă” „vezi că gre"
 ---
 <div class="kg-card-markdown"><p>Cea mai mare greșeală pe care mulți dintre noi am comis-o, a fost să spunem altuia aflat în perioade mai grele, în situații problematice aceste cuvinte: „tu nu ești ok” „tu ai o problemă” „vezi că greșești” „nu procedezi corect”. Aceste cuvinte sunt rostite cu intenția de a-i semnala cuiva faptul că are o problemă, de a-i arăta calea corectă și de a-l sfătui cum să evite alte greșeli pe viitor, etc. Este o intenție bună, însă... Când observi faptul că celălalt se află într-o dificultate, într-o pasă mai proastă sau constați faptul că ceva trebuie să se schimbe la el, pentru că se află pe marginea prăpastiei, taci. Nu-l agasa cu întrebări sau să decizi tu ce-i mai bine de făcut pentru el. Ascultă, înțelege și nu vorbi în plus. </p>
 <p>Efectul „Tu nu ești ok” asupra unei persoane:</p>

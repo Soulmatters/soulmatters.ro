@@ -1,16 +1,16 @@
 ---
 title: "Bietul suflețel!"
-date: '2016-01-10 11:53:51'
-slug: 'bietul-sufletel-'
+date: "2016-01-10 11:53:51"
+slug: "bietul-sufletel-"
 image: /images/girl-811554_960_720.jpg
-path: '2016-01-10-bietul-sufletel-.md'
-year: '2016'
-month: '01'
-day: '10'
-author: 59b473454e63ea7e4713a3d0
+path: "2016-01-10-bietul-sufletel-.md"
+year: "2016"
+month: "01"
+day: "10"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Poate pentru că a trăit prea mult în iluzia ideii că ar fi de de folos cuiva... Bietul suflețel cu firea lui naivă! El a crezut că poate aduce bucurie pe chipurile celorlalți și iar s-a înșelat…Pe o
-tip: articol
+    "Poate pentru că a trăit prea mult în iluzia ideii că ar fi de de folos cuiva... Bietul suflețel cu firea lui naivă! El a crezut că poate aduce bucurie pe chipurile celorlalți și iar s-a înșelat…Pe o"
 ---
 <div class="kg-card-markdown"><p>Poate pentru că a trăit prea mult în iluzia ideii că ar fi de de folos cuiva... </p>
 <p>Bietul suflețel cu firea lui naivă! El a crezut că poate aduce bucurie pe chipurile celorlalți și iar s-a înșelat…</p>

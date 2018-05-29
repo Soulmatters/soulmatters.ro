@@ -1,16 +1,16 @@
 ---
 title: "Ideație suicidară"
-date: '2016-05-07 13:03:07'
-slug: 'ideatie-suicidara'
+date: "2016-05-07 13:03:07"
+slug: "ideatie-suicidara"
 image: /images/here-and-now-413091_960_720.jpg
-path: '2016-05-07-ideatie-suicidara.md'
-year: '2016'
-month: '05'
-day: '07'
-author: 59b473454e63ea7e4713a3d0
+path: "2016-05-07-ideatie-suicidara.md"
+year: "2016"
+month: "05"
+day: "07"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Ideație suicidară - moment de deschidere. Autor  oricine. Sfătuitor  oricare.„Au fost momente dure în viața mea. Au fost clipe în care îmi era rușine de mine pentru ce sunt. De la un om echilibrat aj
-tip: articol
+    "Ideație suicidară - moment de deschidere. Autor  oricine. Sfătuitor  oricare.„Au fost momente dure în viața mea. Au fost clipe în care îmi era rușine de mine pentru ce sunt. De la un om echilibrat aj"
 ---
 <div class="kg-card-markdown"><p>Ideație suicidară - moment de deschidere. Autor: oricine. Sfătuitor: oricare.</p>
 <p><br /><em>„Au fost momente dure în viața mea. Au fost clipe în care îmi era rușine de mine pentru ce sunt. De la un om echilibrat ajunsesem să-mi pierd gândurile, firea și speranța la o viață mai bună.</em><br /><br /><em>Nu am fost un om rău, după spusele apropiaților. Am devenit după ce mi s-a rupt firul conștiinței. Eram precum ferestrele sparte după un bombardament. Asta am simțit - un bombardament la</em><em> „</em><em>mansardă.” Ulterior, trebuia sa-mi culeg cu răbdare toate cioburile și să le lipesc la loc, cu grijă. Chiar și așa, lipitura nu ar fi permis razelor de soare să pătrundă cum trebuie prin fereastră. Oricum aceasta ar fi picat la orice pală de vânt.</em></p>

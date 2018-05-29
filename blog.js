@@ -20,6 +20,7 @@ function readDirectory(){
   fs.readdir(users, (err, files) => {   
     readFiles(files, 'users', users)
  });
+ 
  fs.readdir(pages, (err, files) => {   
   readFiles(files, 'pages', pages)
 });

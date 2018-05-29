@@ -1,16 +1,16 @@
 ---
 title: "Sărăcie spirituală"
-date: '2015-04-01 23:34:31'
-slug: 'saracie-spirituala'
+date: "2015-04-01 23:34:31"
+slug: "saracie-spirituala"
 image: /images/clown-458620_640.jpg
-path: '2015-04-01-saracie-spirituala.md'
-year: '2015'
-month: '04'
-day: '01'
-author: 59b473454e63ea7e4713a3ce
+path: "2015-04-01-saracie-spirituala.md"
+year: "2015"
+month: "04"
+day: "01"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Prea mulți se plâng că nu au bani, prea mulți se plâng că sunt săraci. Dar e sărăcia o scuză pentru a fi un om rău? Sărăcia se măsoară în lucruri materiale, și nimănui nu îi pasă ce fel de om ești. Și
-tip: articol
+    "Prea mulți se plâng că nu au bani, prea mulți se plâng că sunt săraci. Dar e sărăcia o scuză pentru a fi un om rău? Sărăcia se măsoară în lucruri materiale, și nimănui nu îi pasă ce fel de om ești. Și"
 ---
 <div class="kg-card-markdown"><p>Prea mulți se plâng că nu au bani, prea mulți se plâng că sunt săraci. Dar e sărăcia o scuză pentru a fi un om rău? Sărăcia se măsoară în lucruri materiale, și nimănui nu îi pasă ce fel de om ești. Și cei săraci își acceptă statutul, se plâng prea des , dar nu încearcă să schimbe ceva.</p>
 <p>Nu încearcă să se dezvolte, să devină mai buni, să cunoască mai multe. Sărăcia nu e doar cea materială, e și cea spirituală. Oameni ce cheltuie banii iresponsabili, ce ignoră cultura, ce cred că tot ce contează în viața aceasta sunt banii. Dar nu doar banii ne fac săraci sau bogați. Inteligența și bunătatea nu pot fi cumpărate.</p>

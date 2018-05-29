@@ -1,16 +1,16 @@
 ---
 title: "Mândrul leu. Nu mai dă doi bani pe tine!"
-date: '2016-03-13 10:44:10'
-slug: 'mandrul-leu--nu-mai-da-doi-bani-pe-tine-'
+date: "2016-03-13 10:44:10"
+slug: "mandrul-leu--nu-mai-da-doi-bani-pe-tine-"
 image: /images/lion-859470_1920.jpg
-path: '2016-03-13-mandrul-leu--nu-mai-da-doi-bani-pe-tine-.md'
-year: '2016'
-month: '03'
-day: '13'
-author: 59b473454e63ea7e4713a3d0
+path: "2016-03-13-mandrul-leu--nu-mai-da-doi-bani-pe-tine-.md"
+year: "2016"
+month: "03"
+day: "13"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Mândrul leu cu jungla sa stufoasă, n-a avut dintodeauna ce și-a dorit.Când toate creaturile și însăși propria suflare i se supuneau lui, el a simțit că devine foarte important.A început cu acte demo
-tip: articol
+    "Mândrul leu cu jungla sa stufoasă, n-a avut dintodeauna ce și-a dorit.Când toate creaturile și însăși propria suflare i se supuneau lui, el a simțit că devine foarte important.A început cu acte demo"
 ---
 <div class="kg-card-markdown"><p>Mândrul leu cu jungla sa stufoasă, n-a avut dintodeauna ce și-a dorit.</p>
 <p>Când toate creaturile și însăși propria suflare i se supuneau lui, el a simțit că devine foarte important.</p>

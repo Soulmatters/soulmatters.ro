@@ -1,16 +1,16 @@
 ---
 title: "Dacă... ar exista și „a dărui&quot;"
-date: '2015-06-25 20:12:58'
-slug: 'daca----ar-exista-si---a-darui-quot-'
+date: "2015-06-25 20:12:58"
+slug: "daca----ar-exista-si---a-darui-quot-"
 image: /images/baby-718146_640.jpg
-path: '2015-06-25-daca----ar-exista-si---a-darui-quot-.md'
-year: '2015'
-month: '06'
-day: '25'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-06-25-daca----ar-exista-si---a-darui-quot-.md"
+year: "2015"
+month: "06"
+day: "25"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Dar poate totuși există?Dacă și cu parcă...Dacă oamenii s-ar ajuta mai mult între ei, inclusiv în această nișă în care activez și eu, lucrurile ar sta altfel.Nu vă sfiiți să împărțiți ceea ce știți
-tip: articol
+    "Dar poate totuși există?Dacă și cu parcă...Dacă oamenii s-ar ajuta mai mult între ei, inclusiv în această nișă în care activez și eu, lucrurile ar sta altfel.Nu vă sfiiți să împărțiți ceea ce știți"
 ---
 <div class="kg-card-markdown"><p>Dar poate totuși există?</p>
 <p>Dacă și cu parcă...</p>

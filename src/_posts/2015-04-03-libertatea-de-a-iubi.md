@@ -1,16 +1,16 @@
 ---
 title: "Libertatea de a iubi"
-date: '2015-04-03 15:40:43'
-slug: 'libertatea-de-a-iubi'
+date: "2015-04-03 15:40:43"
+slug: "libertatea-de-a-iubi"
 image: /images/16403503646_55e4dceb51_z.jpg
-path: '2015-04-03-libertatea-de-a-iubi.md'
-year: '2015'
-month: '04'
-day: '03'
-author: 59b473454e63ea7e4713a3ce
+path: "2015-04-03-libertatea-de-a-iubi.md"
+year: "2015"
+month: "04"
+day: "03"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Într-o lume ideală poate ne-am fi iubit și acum. Dar într-o lume care nu e făcută pentru îndrăgostiți, iubirea noastră nu devine decât o povară. Ne îndrăgostim de persoanele nepotrivite și iubim în tă
-tip: articol
+    "Într-o lume ideală poate ne-am fi iubit și acum. Dar într-o lume care nu e făcută pentru îndrăgostiți, iubirea noastră nu devine decât o povară. Ne îndrăgostim de persoanele nepotrivite și iubim în tă"
 ---
 <div class="kg-card-markdown"><p>Într-o lume ideală poate ne-am fi iubit și acum. Dar într-o lume care nu e făcută pentru îndrăgostiți, iubirea noastră nu devine decât o povară. Ne îndrăgostim de persoanele nepotrivite și iubim în tăcere. Renunțăm la dragoste și devenim roboți într-o lume ce nu e a noastră.</p>
 <p>Renunțăm la libertatea noastră, la libertatea de a iubi, la libertatea de a fi cum ne dorim. Ne ascundem, ne mințim și credem cu o naivitate de copil, că dragostea va trece. Dar noapte de noapte visăm la un miracol, visăm că dragostea va învinge. Realitatea nu e un basm în care binele mereu învinge răul.</p>

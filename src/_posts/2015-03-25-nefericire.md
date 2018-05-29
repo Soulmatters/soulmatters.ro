@@ -1,16 +1,16 @@
 ---
 title: "Nefericire"
-date: '2015-03-25 11:30:31'
-slug: 'nefericire'
+date: "2015-03-25 11:30:31"
+slug: "nefericire"
 image: /images/shit-212437_640.jpg
-path: '2015-03-25-nefericire.md'
-year: '2015'
-month: '03'
-day: '25'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-03-25-nefericire.md"
+year: "2015"
+month: "03"
+day: "25"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Ai iubire, nu-i bine. Ai bani și iubire, nu-i bine. Atunci, poate ești sănătos, ai iubire, bani și tot ce-ți dorești dar... tot nu-i bine.Paradoxal, omul când are parte de bine, devine nefericit iar 
-tip: articol
+    "Ai iubire, nu-i bine. Ai bani și iubire, nu-i bine. Atunci, poate ești sănătos, ai iubire, bani și tot ce-ți dorești dar... tot nu-i bine.Paradoxal, omul când are parte de bine, devine nefericit iar "
 ---
 <div class="kg-card-markdown"><p>Ai iubire, nu-i bine. Ai bani și iubire, nu-i bine. Atunci, poate ești sănătos, ai iubire, bani și tot ce-ți dorești dar... tot nu-i bine.</p>
 <p>Paradoxal, omul când are parte de bine, devine nefericit iar la rău se mobilizează, prețuiește tot ce are și luptă pentru confortul său sufletesc.</p>

@@ -1,16 +1,16 @@
 ---
 title: "Realități încurcate. Psihoza"
-date: '2014-07-24 11:06:24'
-slug: 'realitati-incurcate--psihoza'
+date: "2014-07-24 11:06:24"
+slug: "realitati-incurcate--psihoza"
 image: /images/head-172351_640.jpg
-path: '2014-07-24-realitati-incurcate--psihoza.md'
-year: '2014'
-month: '07'
-day: '24'
-author: 59b473454e63ea7e4713a3d0
+path: "2014-07-24-realitati-incurcate--psihoza.md"
+year: "2014"
+month: "07"
+day: "24"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    O tulburare ce ține de sfera psihicului... Mă refer la ceva anume care „îți încurcă realitățile”.Am să vorbesc despre ce au simțit, perceput... cei ce s-au întors înapoi la normalitate, după un lung 
-tip: articol
+    "O tulburare ce ține de sfera psihicului... Mă refer la ceva anume care „îți încurcă realitățile”.Am să vorbesc despre ce au simțit, perceput... cei ce s-au întors înapoi la normalitate, după un lung "
 ---
 <div class="kg-card-markdown"><p>O tulburare ce ține de sfera psihicului... Mă refer la ceva anume care „îți încurcă realitățile”.</p>
 <p>Am să vorbesc despre ce au simțit, perceput... cei ce s-au întors înapoi la normalitate, după un lung chin. Este ciudat să nu știi ce realitate este cea reală. A ta sau a celorlalți. Este chinuitor pentru că tu nu poți diferenția clar.</p>

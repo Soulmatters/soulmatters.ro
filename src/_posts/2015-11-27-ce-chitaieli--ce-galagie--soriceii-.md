@@ -1,16 +1,16 @@
 ---
 title: "Ce chițăieli, ce gălăgie! Șoriceii!"
-date: '2015-11-27 22:32:40'
-slug: 'ce-chitaieli--ce-galagie--soriceii-'
+date: "2015-11-27 22:32:40"
+slug: "ce-chitaieli--ce-galagie--soriceii-"
 image: /images/mouse-801843_960_720.jpg
-path: '2015-11-27-ce-chitaieli--ce-galagie--soriceii-.md'
-year: '2015'
-month: '11'
-day: '27'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-11-27-ce-chitaieli--ce-galagie--soriceii-.md"
+year: "2015"
+month: "11"
+day: "27"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Ei rod lumea de acolo, o rod și pe cea de aici. Sunt niște șoricei. Mi-au plăcut mult șoriceii dar iau tot și nu mai lasă nimic în urma lor. Sunt mulți și lacomi. Mișună peste tot și nu-i poți stârpi.
-tip: articol
+    "Ei rod lumea de acolo, o rod și pe cea de aici. Sunt niște șoricei. Mi-au plăcut mult șoriceii dar iau tot și nu mai lasă nimic în urma lor. Sunt mulți și lacomi. Mișună peste tot și nu-i poți stârpi."
 ---
 <div class="kg-card-markdown"><p>Ei rod lumea de acolo, o rod și pe cea de aici. Sunt niște șoricei. Mi-au plăcut mult șoriceii dar iau tot și nu mai lasă nimic în urma lor. Sunt mulți și lacomi. Mișună peste tot și nu-i poți stârpi.</p>
 <p>Îți rod răbdarea, stomacul, porția de mâncare din față și hainele de pe tine. Chiar pierd și tovărășiile dintre ei, căci se mai rod și unii pe alții, când n-au ce mânca.</p>

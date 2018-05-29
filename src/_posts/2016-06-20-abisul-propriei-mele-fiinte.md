@@ -1,16 +1,16 @@
 ---
 title: "Abisul propriei mele ființe"
-date: '2016-06-20 10:32:13'
-slug: 'abisul-propriei-mele-fiinte'
+date: "2016-06-20 10:32:13"
+slug: "abisul-propriei-mele-fiinte"
 image: /images/child-995067_1920.jpg
-path: '2016-06-20-abisul-propriei-mele-fiinte.md'
-year: '2016'
-month: '06'
-day: '20'
-author: 59b473454e63ea7e4713a3ce
+path: "2016-06-20-abisul-propriei-mele-fiinte.md"
+year: "2016"
+month: "06"
+day: "20"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Gândurile îmi sunt strangulate. Vin, pleacă dar nu se materializează, doar se pierd într-un abis creat de mine. Sunt o ființă a regretelor și lacrimilor care și-a găsit sălaș în propria umbră, uitând 
-tip: articol
+    "Gândurile îmi sunt strangulate. Vin, pleacă dar nu se materializează, doar se pierd într-un abis creat de mine. Sunt o ființă a regretelor și lacrimilor care și-a găsit sălaș în propria umbră, uitând "
 ---
 <div class="kg-card-markdown"><div>Gândurile îmi sunt strangulate. Vin, pleacă dar nu se materializează, doar se pierd într-un abis creat de mine. Sunt o ființă a regretelor și lacrimilor care și-a găsit sălaș în propria umbră, uitând că undeva o stea îi luminează calea către visele ei.</div>
 <div>Mi-am creat propriul iad dar pot urca doar o treaptă și apoi alunec mai adânc. Am devenit cel mai mare dușman al meu.</div>

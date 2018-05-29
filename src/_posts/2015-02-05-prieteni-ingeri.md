@@ -1,16 +1,16 @@
 ---
 title: "Prieteni îngeri"
-date: '2015-02-05 20:01:40'
-slug: 'prieteni-ingeri'
+date: "2015-02-05 20:01:40"
+slug: "prieteni-ingeri"
 image: /images/angel-368473_640.jpg
-path: '2015-02-05-prieteni-ingeri.md'
-year: '2015'
-month: '02'
-day: '05'
-author: 59b473454e63ea7e4713a3ce
+path: "2015-02-05-prieteni-ingeri.md"
+year: "2015"
+month: "02"
+day: "05"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Îngerii există aici pe pământ, ei au chip de oameni. Oameni ce îți devin familie sau prieteni. Oameni ce strălucesc pentru tine, ce trăiesc pentru tine. Eu mi-am găsit îngerul cu chip de om. Și poate 
-tip: articol
+    "Îngerii există aici pe pământ, ei au chip de oameni. Oameni ce îți devin familie sau prieteni. Oameni ce strălucesc pentru tine, ce trăiesc pentru tine. Eu mi-am găsit îngerul cu chip de om. Și poate "
 ---
 <div class="kg-card-markdown"><p>Îngerii există aici pe pământ, ei au chip de oameni. Oameni ce îți devin familie sau prieteni. Oameni ce strălucesc pentru tine, ce trăiesc pentru tine. Eu mi-am găsit îngerul cu chip de om. Și poate nu îl merit. Poate e prea bun și prea blând cu mine. Și poate de prea puține ori îi mulțumesc dar știu că dacă nu ar fi el, viața mea nu ar mai fi atât de fericită. Și mă simt mereu protejată. </p>
 <p>El e doar un simplu om, cu probleme, cu tristeți și bucurii, dar pentru mine e îngerul meu păzitor. Cu el simt liniștea. Și el îmi îndeplinește multe dorințe, poate prea multe. Cu el pot vorbi despre orice, cu el pot și râde și plânge. Și nu am teamă să fiu sinceră, căci știu că mă va înțelege și nu mă va judeca, știu că mă va ajuta.Îmi știe secretele, îmi știe visele. Știe tot despre mine. Fericirea mea e si a lui, se bucură și el când sunt fericită, plânge și el când plâng și eu.</p>

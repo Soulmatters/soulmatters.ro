@@ -1,16 +1,16 @@
 ---
 title: "Oamenii sunt buni sau răi?"
-date: '2015-05-06 21:27:57'
-slug: 'oamenii-sunt-buni-sau-rai--'
+date: "2015-05-06 21:27:57"
+slug: "oamenii-sunt-buni-sau-rai--"
 image: /images/woman-578820_1280.jpg
-path: '2015-05-06-oamenii-sunt-buni-sau-rai--.md'
-year: '2015'
-month: '05'
-day: '06'
-author: 59b473454e63ea7e4713a3cd
+path: "2015-05-06-oamenii-sunt-buni-sau-rai--.md"
+year: "2015"
+month: "05"
+day: "06"
+author: "59b473454e63ea7e4713a3cd"
+tip: "articol"
 description: >-
-    Eu trec prin viață având uneori convingerea, sfărâmată de mici excepții, că oamenii sunt răi, individualiști. Mama pleacă de la premiza că toți sunt buni.Veți spune că adevărul nu se află în niciuna 
-tip: articol
+    "Eu trec prin viață având uneori convingerea, sfărâmată de mici excepții, că oamenii sunt răi, individualiști. Mama pleacă de la premiza că toți sunt buni.Veți spune că adevărul nu se află în niciuna "
 ---
 <div class="kg-card-markdown"><p>Eu trec prin viață având uneori convingerea, sfărâmată de mici excepții, că oamenii sunt răi, individualiști. Mama pleacă de la premiza că toți sunt buni.</p>
 <p>Veți spune că adevărul nu se află în niciuna din aceste extreme, că nu are cum să fie de o parte sau de alta. Veți gândi că e vorba de două păreri, de două suflete aflate la poli opuși: unul alb și altul negru. </p>

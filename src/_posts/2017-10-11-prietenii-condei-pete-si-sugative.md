@@ -1,16 +1,16 @@
 ---
 title: "Prietenii, condei, pete și sugative"
-date: '2017-10-11 09:48:05'
-slug: 'prietenii-condei-pete-si-sugative'
+date: "2017-10-11 09:48:05"
+slug: "prietenii-condei-pete-si-sugative"
 image: /images/filler-2940160_1920.jpg
-path: '2017-10-11-prietenii-condei-pete-si-sugative.md'
-year: '2017'
-month: '10'
-day: '11'
-author: 59b473454e63ea7e4713a3d0
+path: "2017-10-11-prietenii-condei-pete-si-sugative.md"
+year: "2017"
+month: "10"
+day: "11"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Ai texte scurse din condeie vechi, cerneluri alese și sugative multe. Multe și la tot pasul.Ideea e ca o întâmplare, iar petele sunt ca o regulă. Cui îi pasă despre ce scrii când tot ce îi pasă omulu
-tip: articol
+    "Ai texte scurse din condeie vechi, cerneluri alese și sugative multe. Multe și la tot pasul.Ideea e ca o întâmplare, iar petele sunt ca o regulă. Cui îi pasă despre ce scrii când tot ce îi pasă omulu"
 ---
 <div class="kg-card-markdown"><p>Ai texte scurse din condeie vechi, cerneluri alese și sugative multe. Multe și la tot pasul.</p>
 <p>Ideea e ca o întâmplare, iar petele sunt ca o regulă. Cui îi pasă despre ce scrii când tot ce îi pasă omului este despre ce ești vorbit?</p>

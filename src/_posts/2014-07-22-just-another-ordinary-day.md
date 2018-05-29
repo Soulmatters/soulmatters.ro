@@ -1,16 +1,16 @@
 ---
 title: "Just another ordinary day"
-date: '2014-07-22 20:17:27'
-slug: 'just-another-ordinary-day'
+date: "2014-07-22 20:17:27"
+slug: "just-another-ordinary-day"
 image: /images/bird-142149_640.jpg
-path: '2014-07-22-just-another-ordinary-day.md'
-year: '2014'
-month: '07'
-day: '22'
-author: 59b473454e63ea7e4713a3d0
+path: "2014-07-22-just-another-ordinary-day.md"
+year: "2014"
+month: "07"
+day: "22"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    O altă dată-n calendar, o altă oră trecută fără rost, unele și altele, just another ordinary day... acceptându-ți și trăindu-ți viața așa cum este, cu bune și cu rele. Acum, de fiecare depinde dacă v
-tip: articol
+    "O altă dată-n calendar, o altă oră trecută fără rost, unele și altele, just another ordinary day... acceptându-ți și trăindu-ți viața așa cum este, cu bune și cu rele. Acum, de fiecare depinde dacă v"
 ---
 <div class="kg-card-markdown"><p><em>O altă dată-n calendar, o altă oră trecută fără rost, unele și altele, just another ordinary day... acceptându-ți și trăindu-ți viața așa cum este, cu bune și cu rele. </em></p>
 <p><em>Acum, de fiecare depinde dacă vrea sau nu, să devină cu adevărat CINEVA. Să fie dispus să-și dedice o parte din timp, energie pentru găsirea unei soluții spre o schimbare, un/o ceva care să fie cumva, o viață care să arate altfel. Deja este un clișeu, nu? Pentru mulți da, însă acum mă adresez celor care vor să citească în continuare ceea ce scriu. </em> <em>N-ai cum să schimbi lumea dar te poți schimba tu așa cum ți-ai dori să fie și lumea din jurul tău. </em></p>

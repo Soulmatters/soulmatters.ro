@@ -1,16 +1,16 @@
 ---
 title: "Adu-ți aminte și de mine..."
-date: '2016-05-16 11:29:38'
-slug: 'adu-ti-aminte-si-de-mine---'
+date: "2016-05-16 11:29:38"
+slug: "adu-ti-aminte-si-de-mine---"
 image: /images/ranunculus-1244672.jpg
-path: '2016-05-16-adu-ti-aminte-si-de-mine---.md'
-year: '2016'
-month: '05'
-day: '16'
-author: 59b473454e63ea7e4713a3d0
+path: "2016-05-16-adu-ti-aminte-si-de-mine---.md"
+year: "2016"
+month: "05"
+day: "16"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Nu de ziua mea când tehnologia te notifică (pentru că memoria ta nu mai poate lucra independent demult), nu de câte ori ai nevoie, pentru că problemele te presează și nu de câte ori te plictisești, pe
-tip: articol
+    "Nu de ziua mea când tehnologia te notifică (pentru că memoria ta nu mai poate lucra independent demult), nu de câte ori ai nevoie, pentru că problemele te presează și nu de câte ori te plictisești, pe"
 ---
 <div class="kg-card-markdown"><p>Nu de ziua mea când tehnologia te notifică (pentru că memoria ta nu mai poate lucra independent demult), nu de câte ori ai nevoie, pentru că problemele te presează și nu de câte ori te plictisești, pentru că nu ai cu cine vorbi.</p>
 <p>Avem o eternitate în așteptare, ce poate apărea oricând. Fiecare an de viață se scurge.</p>

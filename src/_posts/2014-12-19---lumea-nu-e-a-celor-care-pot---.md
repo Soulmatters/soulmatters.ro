@@ -1,16 +1,16 @@
 ---
 title: "„Lumea nu e a celor care pot..."
-date: '2014-12-19 11:03:29'
-slug: '--lumea-nu-e-a-celor-care-pot---'
+date: "2014-12-19 11:03:29"
+slug: "--lumea-nu-e-a-celor-care-pot---"
 image: /images/unterberg-345560_640.jpg
-path: '2014-12-19---lumea-nu-e-a-celor-care-pot---.md'
-year: '2014'
-month: '12'
-day: '19'
-author: 59b473454e63ea7e4713a3cd
+path: "2014-12-19---lumea-nu-e-a-celor-care-pot---.md"
+year: "2014"
+month: "12"
+day: "19"
+author: "59b473454e63ea7e4713a3cd"
+tip: "articol"
 description: >-
-    „Lumea nu e a celor care pot ci a celor care vor.”(Goethe)Sunt mulți oameni talentați, inteligenți, frumoși, dar care nu obțin reușite acolo unde alții mai puțin înzestrați cunosc succesul. Persevere
-tip: articol
+    "„Lumea nu e a celor care pot ci a celor care vor.”(Goethe)Sunt mulți oameni talentați, inteligenți, frumoși, dar care nu obțin reușite acolo unde alții mai puțin înzestrați cunosc succesul. Persevere"
 ---
 <div class="kg-card-markdown"><h4>„Lumea nu e a celor care pot ci a celor care vor.”(Goethe)</h4>
 <p align="JUSTIFY"><span style="font-family: Times New Roman,serif;"><span style="font-size: large;">Sunt mulți oameni talentați, inteligenți, frumoși, dar care nu obțin reușite acolo unde alții mai puțin înzestrați cunosc succesul. Perseverența și spiritul de observație fac diferența. Ce mai există în desagă? Muncă de calitate.</span></span></p>

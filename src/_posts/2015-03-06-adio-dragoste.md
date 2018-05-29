@@ -1,16 +1,16 @@
 ---
 title: "Adio dragoste"
-date: '2015-03-06 15:09:07'
-slug: 'adio-dragoste'
+date: "2015-03-06 15:09:07"
+slug: "adio-dragoste"
 image: /images/Briographyburn.jpg
-path: '2015-03-06-adio-dragoste.md'
-year: '2015'
-month: '03'
-day: '06'
-author: 59b473454e63ea7e4713a3ce
+path: "2015-03-06-adio-dragoste.md"
+year: "2015"
+month: "03"
+day: "06"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Îți voi spune azi adio și vom deveni străini. De parcă timpul în care ne iubeam, nu mai contează. Acum totul se preface în uitare.Căci ne-am trădat, căci ne-am rănit. Ne-am făcut promisiuni pe care n
-tip: articol
+    "Îți voi spune azi adio și vom deveni străini. De parcă timpul în care ne iubeam, nu mai contează. Acum totul se preface în uitare.Căci ne-am trădat, căci ne-am rănit. Ne-am făcut promisiuni pe care n"
 ---
 <div class="kg-card-markdown"><p style="text-align: justify">Îți voi spune azi adio și vom deveni străini. De parcă timpul în care ne iubeam, nu mai contează. Acum totul se preface în uitare.</p>
 <p style="text-align: justify">Căci ne-am trădat, căci ne-am rănit. Ne-am făcut promisiuni pe care nu am putut să le îndeplinim.</p>

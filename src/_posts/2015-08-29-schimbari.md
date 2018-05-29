@@ -1,16 +1,16 @@
 ---
 title: "Schimbări"
-date: '2015-08-29 17:45:44'
-slug: 'schimbari'
+date: "2015-08-29 17:45:44"
+slug: "schimbari"
 image: /images/freedom-716143_640.jpg
-path: '2015-08-29-schimbari.md'
-year: '2015'
-month: '08'
-day: '29'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-08-29-schimbari.md"
+year: "2015"
+month: "08"
+day: "29"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Când nu ai ce-ți dorești și felul tău de a fi se schimbă. Când ai, la fel. La unii în bine la alții în rău. Multora când le e bine, sunt răi cu cei care au fost buni cu ei și când sunt la ananghie, de
-tip: articol
+    "Când nu ai ce-ți dorești și felul tău de a fi se schimbă. Când ai, la fel. La unii în bine la alții în rău. Multora când le e bine, sunt răi cu cei care au fost buni cu ei și când sunt la ananghie, de"
 ---
 <div class="kg-card-markdown"><p>Când nu ai ce-ți dorești și felul tău de a fi se schimbă. Când ai, la fel. La unii în bine la alții în rău. Multora când le e bine, sunt răi cu cei care au fost buni cu ei și când sunt la ananghie, devin mielușei.</p>
 <p>Lumea din interiorul nostru se schimbă începând de la prima respirație, de la prima noastră figură iubitoare pe care o percepem cu ochii noștri mici, de bebei ce am fost. Acum nu știm ce <s>am devenit</s> suntem.</p>

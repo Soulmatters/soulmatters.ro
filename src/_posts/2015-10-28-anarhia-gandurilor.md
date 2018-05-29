@@ -1,16 +1,16 @@
 ---
 title: "Anarhia gândurilor"
-date: '2015-10-28 16:50:00'
-slug: 'anarhia-gandurilor'
+date: "2015-10-28 16:50:00"
+slug: "anarhia-gandurilor"
 image: /images/IMAGINATION_by_archanN.jpg
-path: '2015-10-28-anarhia-gandurilor.md'
-year: '2015'
-month: '10'
-day: '28'
-author: 59b473454e63ea7e4713a3ce
+path: "2015-10-28-anarhia-gandurilor.md"
+year: "2015"
+month: "10"
+day: "28"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Gânduri și iar gânduri, neîntrerupte și întrerupte de frânturi din alte gânduri.Cuvinte, imagini, scenarii ce nu vor fi...Și ochii mei visători. De parcă aș trăi în altă lume, într-o lume creată de 
-tip: articol
+    "Gânduri și iar gânduri, neîntrerupte și întrerupte de frânturi din alte gânduri.Cuvinte, imagini, scenarii ce nu vor fi...Și ochii mei visători. De parcă aș trăi în altă lume, într-o lume creată de "
 ---
 <div class="kg-card-markdown"><p>Gânduri și iar gânduri, neîntrerupte și întrerupte de frânturi din alte gânduri.</p>
 <p>Cuvinte, imagini, scenarii ce nu vor fi...</p>

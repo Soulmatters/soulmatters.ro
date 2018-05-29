@@ -1,16 +1,16 @@
 ---
 title: "Destrămarea ființei"
-date: '2016-04-27 13:37:46'
-slug: 'destramarea-fiintei'
+date: "2016-04-27 13:37:46"
+slug: "destramarea-fiintei"
 image: /images/birdcage-454467.jpg
-path: '2016-04-27-destramarea-fiintei.md'
-year: '2016'
-month: '04'
-day: '27'
-author: 59b473454e63ea7e4713a3ce
+path: "2016-04-27-destramarea-fiintei.md"
+year: "2016"
+month: "04"
+day: "27"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Și totuși exist... într-o lume care nu e a mea, într-o lume străină mie.Sunt om, ființă vie, rațională și cu un suflet. Sunt eu, nu sunt o copie, dar nu mă accept pe mine căci am fost învățată că e g
-tip: articol
+    "Și totuși exist... într-o lume care nu e a mea, într-o lume străină mie.Sunt om, ființă vie, rațională și cu un suflet. Sunt eu, nu sunt o copie, dar nu mă accept pe mine căci am fost învățată că e g"
 ---
 <div class="kg-card-markdown"><div>Și totuși exist... într-o lume care nu e a mea, într-o lume străină mie.</div>
 <div>Sunt om, ființă vie, rațională și cu un suflet. Sunt eu, nu sunt o copie, dar nu mă accept pe mine căci am fost învățată că e greșit să te accepți pe tine însuți. Mi s-au dat lecții care cică, m-ar fi ajutat să înfrunt viața, dar m-am înfruntat pe mine.</div>

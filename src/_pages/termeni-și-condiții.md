@@ -1,11 +1,10 @@
 ---
-title: Termeni și condiții
-date: '2018-05-29 08:58pm'
-image: /images/steinar-engeland-225236-1.jpg
+title: "Termeni și condiții"
+image: "/images/steinar-engeland-225236-1.jpg"
 description: >-
-  AUTORII SOULMATTERS.ROSoulmatters.ro aparține următoarelor persoane Autor 
+  "AUTORII SOULMATTERS.ROSoulmatters.ro aparține următoarelor persoane Autor 
   Niță Andra - inițiator proiect pagină Facebook (din noiembrie 2012) și
-  scriitor pe Soulmatters.ro ( în trecut soulmattersfo
+  scriitor pe Soulmatters.ro"
 ---
 <div class="kg-card-markdown"><p>AUTORII <a href="http://SOULMATTERS.RO">SOULMATTERS.RO</a></p>
 

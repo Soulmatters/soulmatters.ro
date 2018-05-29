@@ -1,16 +1,16 @@
 ---
 title: "Luați vă rog, serviți!"
-date: '2015-12-20 16:45:57'
-slug: 'luati-va-rog--serviti-'
+date: "2015-12-20 16:45:57"
+slug: "luati-va-rog--serviti-"
 image: /images/christmas-541784_960_720.jpg
-path: '2015-12-20-luati-va-rog--serviti-.md'
-year: '2015'
-month: '12'
-day: '20'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-12-20-luati-va-rog--serviti-.md"
+year: "2015"
+month: "12"
+day: "20"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Sărbătorile vin, trec, altele vor urma și alți ani se vor scurge. Totul într-un ciclu infinit stabilit de către om, însă efemer pentru fiecare dintre noi.Pomi de iarnă, globuri frumos decorate, becul
-tip: articol
+    "Sărbătorile vin, trec, altele vor urma și alți ani se vor scurge. Totul într-un ciclu infinit stabilit de către om, însă efemer pentru fiecare dintre noi.Pomi de iarnă, globuri frumos decorate, becul"
 ---
 <div class="kg-card-markdown"><p>Sărbătorile vin, trec, altele vor urma și alți ani se vor scurge. Totul într-un ciclu infinit stabilit de către om, însă efemer pentru fiecare dintre noi.</p>
 <p>Pomi de iarnă, globuri frumos decorate, beculețe, beteală, toate care mai de care. Fiecare cu beteala, globurile și becurile sale.</p>

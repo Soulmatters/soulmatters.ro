@@ -1,16 +1,16 @@
 ---
 title: "De ce să spun „Mulţumesc”?"
-date: '2016-11-15 12:24:34'
-slug: '-de-ce-sa-spun---multumesc--'
+date: "2016-11-15 12:24:34"
+slug: "-de-ce-sa-spun---multumesc--"
 image: /images/thank-you-944086_640.jpg
-path: '2016-11-15--de-ce-sa-spun---multumesc--.md'
-year: '2016'
-month: '11'
-day: '15'
-author: 59b473454e63ea7e4713a3cc
+path: "2016-11-15--de-ce-sa-spun---multumesc--.md"
+year: "2016"
+month: "11"
+day: "15"
+author: "59b473454e63ea7e4713a3cc"
+tip: "articol"
 description: >-
-       Cap.2 Petrişor se trezi dis-de-dimineaţă, pentru că era nerăbdător să vorbească cu bunica.  Ştia că bunica nu vorbeşte cu el până nu-şi termină treburile prin casă   „Toate la timpul lor” era vorb
-tip: articol
+    "   Cap.2 Petrişor se trezi dis-de-dimineaţă, pentru că era nerăbdător să vorbească cu bunica.  Ştia că bunica nu vorbeşte cu el până nu-şi termină treburile prin casă   „Toate la timpul lor” era vorb"
 ---
 <div class="kg-card-markdown"><p dir="ltr">   Cap.2</p>
 <p dir="ltr"> Petrişor se trezi dis-de-dimineaţă, pentru că era nerăbdător să vorbească cu bunica.  Ştia că bunica nu vorbeşte cu el până nu-şi termină treburile prin casă : „Toate la timpul lor” era vorba ei obişnuită.</p>

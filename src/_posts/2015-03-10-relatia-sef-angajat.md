@@ -1,16 +1,16 @@
 ---
 title: "Relația șef-angajat"
-date: '2015-03-10 16:17:53'
-slug: 'relatia-sef-angajat'
+date: "2015-03-10 16:17:53"
+slug: "relatia-sef-angajat"
 image: /images/man-432709_640.jpg
-path: '2015-03-10-relatia-sef-angajat.md'
-year: '2015'
-month: '03'
-day: '10'
-author: 59b473454e63ea7e4713a3ce
+path: "2015-03-10-relatia-sef-angajat.md"
+year: "2015"
+month: "03"
+day: "10"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Relația dintre un șef și angajat e una de subordonare oarbă, de lingușeală și supunere. Și e o iluzie că sclavia a fost abolită.Șefii își bat joc de angajații lor, iar vina angajaților e că acceptă ș
-tip: articol
+    "Relația dintre un șef și angajat e una de subordonare oarbă, de lingușeală și supunere. Și e o iluzie că sclavia a fost abolită.Șefii își bat joc de angajații lor, iar vina angajaților e că acceptă ș"
 ---
 <div class="kg-card-markdown"><p><em>Relația dintre un șef și angajat e una de subordonare oarbă, de lingușeală și supunere. Și e o iluzie că sclavia a fost abolită.</em></p>
 <p><em>Șefii își bat joc de angajații lor, iar vina angajaților e că acceptă și că nu își apără drepturile.</em></p>

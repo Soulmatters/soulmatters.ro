@@ -1,16 +1,16 @@
 ---
 title: "Principiile mele stupide"
-date: '2015-03-24 22:27:23'
-slug: 'principiile-mele-stupide'
+date: "2015-03-24 22:27:23"
+slug: "principiile-mele-stupide"
 image: /images/girl-564464_640.jpg
-path: '2015-03-24-principiile-mele-stupide.md'
-year: '2015'
-month: '03'
-day: '24'
-author: 59b473454e63ea7e4713a3ce
+path: "2015-03-24-principiile-mele-stupide.md"
+year: "2015"
+month: "03"
+day: "24"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Dedic acest articol celui ce mi-a numit principiile mele ca fiind stupide.Vreau să îți spun și ție și altora că nu, nu îmi place să îmi trăiesc viața ca majoritatea tinerilor din ziua de azi. Nu îmi 
-tip: articol
+    "Dedic acest articol celui ce mi-a numit principiile mele ca fiind stupide.Vreau să îți spun și ție și altora că nu, nu îmi place să îmi trăiesc viața ca majoritatea tinerilor din ziua de azi. Nu îmi "
 ---
 <div class="kg-card-markdown"><p style="text-align: justify;">Dedic acest articol celui ce mi-a numit principiile mele ca fiind stupide.</p>
 <p style="text-align: justify;">Vreau să îți spun și ție și altora că nu, nu îmi place să îmi trăiesc viața ca majoritatea tinerilor din ziua de azi. Nu îmi plac cluburile și bețiile, nu îmi plac relațiile de o noapte și urăsc lipsa de moralitate.</p>

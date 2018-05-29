@@ -1,16 +1,16 @@
 ---
 title: "Rețele de socializare"
-date: '2015-02-12 14:46:55'
-slug: 'retele-de-socializare'
+date: "2015-02-12 14:46:55"
+slug: "retele-de-socializare"
 image: /images/tree-1704773_640.jpg
-path: '2015-02-12-retele-de-socializare.md'
-year: '2015'
-month: '02'
-day: '12'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-02-12-retele-de-socializare.md"
+year: "2015"
+month: "02"
+day: "12"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Întodeauna vor fi atâtea lucruri de povestit despre ceea ce avem mai important - pe noi înșine. Căutăm să fim ascultați de străini când apropiații noștri n-au timp de noi, ne irosim viețile în rețele 
-tip: articol
+    "Întodeauna vor fi atâtea lucruri de povestit despre ceea ce avem mai important - pe noi înșine. Căutăm să fim ascultați de străini când apropiații noștri n-au timp de noi, ne irosim viețile în rețele "
 ---
 <div class="kg-card-markdown"><p>Întodeauna vor fi atâtea lucruri de povestit despre ceea ce avem mai important - pe noi înșine. Căutăm să fim ascultați de străini când apropiații noștri n-au timp de noi, ne irosim viețile în rețele de socializare neutilizându-le pentru un scop util nouă și ne pierdem ușor propria lume interioară.</p>
 <p>Pe internet ești un simplu om, un utilizator care postează câte o fărâmă din viața sa însă nimeni nu știe ce-i adevărat în sufletul tău. Îți pierzi identitatea, viața și bucuria de a o trăi.</p>

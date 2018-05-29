@@ -1,16 +1,16 @@
 ---
 title: "De dragul altuia"
-date: '2014-07-22 20:34:10'
-slug: 'de-dragul-altuia'
+date: "2014-07-22 20:34:10"
+slug: "de-dragul-altuia"
 image: /images/silhouettes-616913_640.jpg
-path: '2014-07-22-de-dragul-altuia.md'
-year: '2014'
-month: '07'
-day: '22'
-author: 59b473454e63ea7e4713a3d0
+path: "2014-07-22-de-dragul-altuia.md"
+year: "2014"
+month: "07"
+day: "22"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Nu puțini dintre noi am suportat la un moment dat, de dragul altcuiva anumite chestiuni/situații aflate clar în dezacord cu ceea ce ne doream noi. Posibilele cauze?A face ceva de dragul altcuiva este
-tip: articol
+    "Nu puțini dintre noi am suportat la un moment dat, de dragul altcuiva anumite chestiuni/situații aflate clar în dezacord cu ceea ce ne doream noi. Posibilele cauze?A face ceva de dragul altcuiva este"
 ---
 <div class="kg-card-markdown"><p dir="ltr"><em>Nu puțini dintre noi am suportat la un moment dat, de dragul altcuiva anumite chestiuni/situații aflate clar în dezacord cu ceea ce ne doream noi. Posibilele cauze?</em></p>
 <p dir="ltr"><em>A face ceva de dragul altcuiva este pentru că probabil:</em></p>

@@ -1,16 +1,16 @@
 ---
 title: "Prieteniile oamenilor. Tipuri de prietenii."
-date: '2015-06-17 16:38:02'
-slug: 'prieteniile-oamenilor--tipuri-de-prietenii-'
+date: "2015-06-17 16:38:02"
+slug: "prieteniile-oamenilor--tipuri-de-prietenii-"
 image: /images/friends-281990_640.jpeg
-path: '2015-06-17-prieteniile-oamenilor--tipuri-de-prietenii-.md'
-year: '2015'
-month: '06'
-day: '17'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-06-17-prieteniile-oamenilor--tipuri-de-prietenii-.md"
+year: "2015"
+month: "06"
+day: "17"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Prieteni buni, prieteni de timp liber, prieteni de job, prieteni de ocazie. Mai pot adauga și un alt tip de relație numit  cunoștințe prietenoase, oameni de treabă etc.Prieteni buniSunt acei prieten
-tip: articol
+    "Prieteni buni, prieteni de timp liber, prieteni de job, prieteni de ocazie. Mai pot adauga și un alt tip de relație numit  cunoștințe prietenoase, oameni de treabă etc.Prieteni buniSunt acei prieten"
 ---
 <div class="kg-card-markdown"><p>Prieteni buni, prieteni de timp liber, prieteni de job, prieteni de ocazie. Mai pot adauga și un alt tip de relație numit: cunoștințe prietenoase, oameni de treabă etc.</p>
 <p>Prieteni buni</p>

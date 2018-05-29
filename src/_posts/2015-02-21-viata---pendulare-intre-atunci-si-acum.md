@@ -1,16 +1,16 @@
 ---
 title: "Viața – pendulare între atunci și acum"
-date: '2015-02-21 12:58:49'
-slug: 'viata---pendulare-intre-atunci-si-acum'
+date: "2015-02-21 12:58:49"
+slug: "viata---pendulare-intre-atunci-si-acum"
 image: /images/pocket-watch-598039_6401.jpg
-path: '2015-02-21-viata---pendulare-intre-atunci-si-acum.md'
-year: '2015'
-month: '02'
-day: '21'
-author: 59b473454e63ea7e4713a3cd
+path: "2015-02-21-viata---pendulare-intre-atunci-si-acum.md"
+year: "2015"
+month: "02"
+day: "21"
+author: "59b473454e63ea7e4713a3cd"
+tip: "articol"
 description: >-
-    Păstrăm o mulțime de lucruri. Relicve ale zilelor trecute. Le numim amintiri. Odată cu trecerea anilor, cutiile se adună. Păstrăm cercei ruginiți, brățări demodate, inele cu pietre lipsă, bilețele de 
-tip: articol
+    "Păstrăm o mulțime de lucruri. Relicve ale zilelor trecute. Le numim amintiri. Odată cu trecerea anilor, cutiile se adună. Păstrăm cercei ruginiți, brățări demodate, inele cu pietre lipsă, bilețele de "
 ---
 <div class="kg-card-markdown"><p style="text-align: justify;">Păstrăm o mulțime de lucruri. Relicve ale zilelor trecute. Le numim amintiri. Odată cu trecerea anilor, cutiile se adună. Păstrăm cercei ruginiți, brățări demodate, inele cu pietre lipsă, bilețele de dragoste, etc.</p>
 <p style="text-align: justify;">Ne apucăm uneori să le selectăm. Ne alegem cu două grămezi: una mică, unde așteaptă cele care pot rămâne și una uriașă, compusă din cele de care ne putem lipsi.</p>

@@ -1,16 +1,16 @@
 ---
 title: "Atac panică"
-date: '2014-07-24 11:21:09'
-slug: 'atac-panica'
+date: "2014-07-24 11:21:09"
+slug: "atac-panica"
 image: /images/8648232568_fb30391319_z.jpg
-path: '2014-07-24-atac-panica.md'
-year: '2014'
-month: '07'
-day: '24'
-author: 59b473454e63ea7e4713a3d0
+path: "2014-07-24-atac-panica.md"
+year: "2014"
+month: "07"
+day: "24"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Atacul de panică - este un „prieten” foarte apropiat. Îți este alături în orice moment al vieții tale. Mereu îți captează atenția prin felul lui de a fi. N-ai cum să-l ignori și nu mai ai nici curajul
-tip: articol
+    "Atacul de panică - este un „prieten” foarte apropiat. Îți este alături în orice moment al vieții tale. Mereu îți captează atenția prin felul lui de a fi. N-ai cum să-l ignori și nu mai ai nici curajul"
 ---
 <div class="kg-card-markdown"><p>Atacul de panică - este un „prieten” foarte apropiat. Îți este alături în orice moment al vieții tale. Mereu îți captează atenția prin felul lui de a fi. N-ai cum să-l ignori și nu mai ai nici curajul de a te mai bucura de ceva din jurul tău, de teamă să nu-l întâlnești.</p>
 <p>Până la urmă îți spui că totuși, trebuie să te consulte  un doctor care să-ți confirme dacă prezența acestui „prieten” se datorează unei afecțiuni organice(dezechilibru electrolitic, afecțiuni cardiace, pulmonare, cerebrale etc) sau este doar o chestiune ce ține doar de mintea ta.</p>

@@ -1,16 +1,16 @@
 ---
 title: "De ce oamenii buni, suferă?"
-date: '2016-01-09 14:01:17'
-slug: 'de-ce-oamenii-buni--sufera-'
+date: "2016-01-09 14:01:17"
+slug: "de-ce-oamenii-buni--sufera-"
 image: /images/dandelion-341464_640.jpg
-path: '2016-01-09-de-ce-oamenii-buni--sufera-.md'
-year: '2016'
-month: '01'
-day: '09'
-author: 59b473454e63ea7e4713a3d0
+path: "2016-01-09-de-ce-oamenii-buni--sufera-.md"
+year: "2016"
+month: "01"
+day: "09"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Într-un moment al vieții noastre poate ne-am întrebat  „Ce anume este rău în a fi bun și de ce oamenii buni, suferă?” În general, oamenii buni oferă mult  bani, timp și multe altele, în mod necondițio
-tip: articol
+    "Într-un moment al vieții noastre poate ne-am întrebat  „Ce anume este rău în a fi bun și de ce oamenii buni, suferă?” În general, oamenii buni oferă mult  bani, timp și multe altele, în mod necondițio"
 ---
 <div class="kg-card-markdown"><p><em>Într-un moment al vieții noastre poate ne-am întrebat: „Ce anume este rău în a fi bun și de ce oamenii buni, suferă?”</em> <em>În general, oamenii buni oferă mult: bani, timp și multe altele, în mod necondiționat. În consecință, ei devin vulnerabili în fața celor care pot profita de bunătatea lor.</em></p>
 <p><em>Desigur, sunt multe persoane bune, care nu au parte de așa suferință din partea altora, pentru că țin cont de ceea ce simt. Se pun </em><em>pe ele însele</em><em> în primul plan și caută să-și ușureze viața. </em></p>

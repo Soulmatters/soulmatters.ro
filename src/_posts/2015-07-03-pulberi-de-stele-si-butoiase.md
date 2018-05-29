@@ -1,16 +1,16 @@
 ---
 title: "Pulberi de stele și butoiașe"
-date: '2015-07-03 13:33:29'
-slug: 'pulberi-de-stele-si-butoiase'
+date: "2015-07-03 13:33:29"
+slug: "pulberi-de-stele-si-butoiase"
 image: /images/garden-480903_640_0.jpg
-path: '2015-07-03-pulberi-de-stele-si-butoiase.md'
-year: '2015'
-month: '07'
-day: '03'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-07-03-pulberi-de-stele-si-butoiase.md"
+year: "2015"
+month: "07"
+day: "03"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Când taci și faci și aduni... oricum, tot acolo ajungi.Ești în fața lor dar cu fața ta spre zid.Când ești în fața plutonului de execuție și aștepți să încasezi lovitura finală provenită de la cea ma
-tip: articol
+    "Când taci și faci și aduni... oricum, tot acolo ajungi.Ești în fața lor dar cu fața ta spre zid.Când ești în fața plutonului de execuție și aștepți să încasezi lovitura finală provenită de la cea ma"
 ---
 <div class="kg-card-markdown"><p>Când taci și faci și aduni... oricum, tot acolo ajungi.</p>
 <p>Ești în fața lor dar cu fața ta spre zid.</p>

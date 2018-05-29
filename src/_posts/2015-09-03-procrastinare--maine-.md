@@ -1,16 +1,16 @@
 ---
 title: "Procrastinare. Mâine!"
-date: '2015-09-03 11:38:36'
-slug: 'procrastinare--maine-'
+date: "2015-09-03 11:38:36"
+slug: "procrastinare--maine-"
 image: /images/kitten.jpg
-path: '2015-09-03-procrastinare--maine-.md'
-year: '2015'
-month: '09'
-day: '03'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-09-03-procrastinare--maine-.md"
+year: "2015"
+month: "09"
+day: "03"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Când ești într-o lume în care nici nu știi ce-ți dorești, poate ai anumite întrebări. „Să continui să mă zbat și să văd ce se întâmplă sau să las totul în plata Domnului și fie ce o fi?” E mai ușor s
-tip: articol
+    "Când ești într-o lume în care nici nu știi ce-ți dorești, poate ai anumite întrebări. „Să continui să mă zbat și să văd ce se întâmplă sau să las totul în plata Domnului și fie ce o fi?” E mai ușor s"
 ---
 <div class="kg-card-markdown"><p>Când ești într-o lume în care nici nu știi ce-ți dorești, poate ai anumite întrebări. „Să continui să mă zbat și să văd ce se întâmplă sau să las totul în plata Domnului și fie ce o fi?<span style="line-height: 20.7999992370605px;">”</span><span style="line-height: 1.6;"> </span></p>
 <p>E mai ușor să lași în plata Domnului. Mult mai ușor. Nu ai sens, responsabilități, planuri, elan de a face ceva. N-ai nimic.</p>

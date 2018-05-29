@@ -1,16 +1,16 @@
 ---
 title: "Paradis sau iad?"
-date: '2015-01-31 19:42:08'
-slug: 'paradis-sau-iad-'
+date: "2015-01-31 19:42:08"
+slug: "paradis-sau-iad-"
 image: /images/sky-115393_1280.jpg
-path: '2015-01-31-paradis-sau-iad-.md'
-year: '2015'
-month: '01'
-day: '31'
-author: 59b473454e63ea7e4713a3ce
+path: "2015-01-31-paradis-sau-iad-.md"
+year: "2015"
+month: "01"
+day: "31"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Paradis sau iad? Singur în paradis sau împreună în iad? Ce ați alege?Când așteptarea în sfârșit se preface în nopți petrecute împreună, când distanța nu mai e un obstacol, atunci trăiești un vis. Dar
-tip: articol
+    "Paradis sau iad? Singur în paradis sau împreună în iad? Ce ați alege?Când așteptarea în sfârșit se preface în nopți petrecute împreună, când distanța nu mai e un obstacol, atunci trăiești un vis. Dar"
 ---
 <div class="kg-card-markdown"><p style="text-align: justify;">Paradis sau iad? Singur în paradis sau împreună în iad? Ce ați alege?</p>
 <p style="text-align: justify;">Când așteptarea în sfârșit se preface în nopți petrecute împreună, când distanța nu mai e un obstacol, atunci trăiești un vis. Dar și coșmarurile sunt vise.</p>

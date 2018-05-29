@@ -1,16 +1,16 @@
 ---
 title: "Cum ne vorbeşte Dumnezeu"
-date: '2016-11-16 13:27:29'
-slug: 'cum-ne-vorbeste-dumnezeu'
+date: "2016-11-16 13:27:29"
+slug: "cum-ne-vorbeste-dumnezeu"
 image: /images/maria-1710226_640.jpg
-path: '2016-11-16-cum-ne-vorbeste-dumnezeu.md'
-year: '2016'
-month: '11'
-day: '16'
-author: 59b473454e63ea7e4713a3cc
+path: "2016-11-16-cum-ne-vorbeste-dumnezeu.md"
+year: "2016"
+month: "11"
+day: "16"
+author: "59b473454e63ea7e4713a3cc"
+tip: "articol"
 description: >-
-    Cap.4   Trecuseră mai multe zile de când bunica înţelesese că ceva îl frământa pe băiat.  Într-o zi, coşuleţul de lucru apăru în mâinile lui Petrişor. Bunica lăsă deoparte treaba în bucătărie şi se i
-tip: articol
+    "Cap.4   Trecuseră mai multe zile de când bunica înţelesese că ceva îl frământa pe băiat.  Într-o zi, coşuleţul de lucru apăru în mâinile lui Petrişor. Bunica lăsă deoparte treaba în bucătărie şi se i"
 ---
 <div class="kg-card-markdown"><p dir="ltr">Cap.4</p>
 <p dir="ltr">   Trecuseră mai multe zile de când bunica înţelesese că ceva îl frământa pe băiat.  Într-o zi, coşuleţul de lucru apăru în mâinile lui Petrişor. Bunica lăsă deoparte treaba în bucătărie şi se instală comodă în scaunul ei,  aşteptând liniştită ca băieţelul să înceapă să povestească.</p>

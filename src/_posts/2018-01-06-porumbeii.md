@@ -1,16 +1,16 @@
 ---
 title: "Porumbeii"
-date: '2018-01-06 19:50:06'
-slug: 'porumbeii'
+date: "2018-01-06 19:50:06"
+slug: "porumbeii"
 image: /images/bird-1589060_640.jpg
-path: '2018-01-06-porumbeii.md'
-year: '2018'
-month: '01'
-day: '06'
-author: 59b473454e63ea7e4713a3d0
+path: "2018-01-06-porumbeii.md"
+year: "2018"
+month: "01"
+day: "06"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Ca porumbel, deasupra norilor și a tuturor, de ce să cobori? Ceilalți te pot privi și de jos. Chiar dacă te vei vedea mai mic. Mult mai mic.De sus ești greu de prins ca să poți fi pus la fiert. Față 
-tip: articol
+    "Ca porumbel, deasupra norilor și a tuturor, de ce să cobori? Ceilalți te pot privi și de jos. Chiar dacă te vei vedea mai mic. Mult mai mic.De sus ești greu de prins ca să poți fi pus la fiert. Față "
 ---
 <div class="kg-card-markdown"><p>Ca porumbel, deasupra norilor și a tuturor, de ce să cobori? Ceilalți te pot privi și de jos. Chiar dacă te vei vedea mai mic. Mult mai mic.</p>
 <p>De sus ești greu de prins ca să poți fi pus la fiert. Față de restul, vei avea o altă panoramă și vei zări o țintă. Vei nimeri exact acea fereastră. Fereastra șanselor, oglinda vieții, ochiul viitorului și vei fi zeu deasupra capetelor de muritori.</p>

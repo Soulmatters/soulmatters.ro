@@ -1,16 +1,16 @@
 ---
 title: "După o iubire..."
-date: '2014-07-23 20:48:21'
-slug: 'dupa-o-iubire---'
+date: "2014-07-23 20:48:21"
+slug: "dupa-o-iubire---"
 image: /images/sunset-510056_640_0.jpg
-path: '2014-07-23-dupa-o-iubire---.md'
-year: '2014'
-month: '07'
-day: '23'
-author: 59b473454e63ea7e4713a3d0
+path: "2014-07-23-dupa-o-iubire---.md"
+year: "2014"
+month: "07"
+day: "23"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    În acest moment, în aceste timpuri, nimeni nu știe exact ce anume face ca o relație de cuplu să funcționeze. Să funcționeze „fără intreruperi”.Ca în multe aspecte ale vieții omului, în iubire și în s
-tip: articol
+    "În acest moment, în aceste timpuri, nimeni nu știe exact ce anume face ca o relație de cuplu să funcționeze. Să funcționeze „fără intreruperi”.Ca în multe aspecte ale vieții omului, în iubire și în s"
 ---
 <div class="kg-card-markdown"><p dir="ltr" style="line-height:1.6363636363636362;margin-top:0pt;margin-bottom:8pt;"><span id="docs-internal-guid-4b568c16-770a-12f9-7c4d-4d2dd49988f3"><span style="font-size: 18.6666666666667px; font-family: Arial; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">În acest moment, în aceste timpuri, nimeni nu știe exact ce anume face ca o relație de cuplu să funcționeze. Să funcționeze „fără intreruperi”.</span></span></p>
 <p dir="ltr" style="line-height:1.6363636363636362;margin-top:0pt;margin-bottom:8pt;"><span id="docs-internal-guid-4b568c16-770a-12f9-7c4d-4d2dd49988f3"><span style="font-size: 18.6666666666667px; font-family: Arial; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">Ca în multe aspecte ale vieții omului, în iubire și în special după o despărțire dureroasă de partener, apar în inima acestuia frica de necunoscut și incertitudinea.</span></span></p>

@@ -1,16 +1,16 @@
 ---
 title: "Suferința de a te bucura. Bucuria în carne și oase."
-date: '2015-06-08 14:53:31'
-slug: 'suferinta-de-a-te-bucura--bucuria-in-carne-si-oase-'
+date: "2015-06-08 14:53:31"
+slug: "suferinta-de-a-te-bucura--bucuria-in-carne-si-oase-"
 image: /images/flower-233838_640.jpg
-path: '2015-06-08-suferinta-de-a-te-bucura--bucuria-in-carne-si-oase-.md'
-year: '2015'
-month: '06'
-day: '08'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-06-08-suferinta-de-a-te-bucura--bucuria-in-carne-si-oase-.md"
+year: "2015"
+month: "06"
+day: "08"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Bucuriile sunt ceva atât de frumos. Sunt spontane, intense, de scurtă durată... Nimic nu durează. Fie că vorbim despre rău sau bine.De multe ori, în spatele bucuriei sunt atâtea lucruri pe care nu p
-tip: articol
+    "Bucuriile sunt ceva atât de frumos. Sunt spontane, intense, de scurtă durată... Nimic nu durează. Fie că vorbim despre rău sau bine.De multe ori, în spatele bucuriei sunt atâtea lucruri pe care nu p"
 ---
 <div class="kg-card-markdown"><p>Bucuriile sunt ceva atât de frumos. Sunt spontane, intense, de scurtă durată... </p>
 <p>Nimic nu durează. Fie că vorbim despre rău sau bine.</p>

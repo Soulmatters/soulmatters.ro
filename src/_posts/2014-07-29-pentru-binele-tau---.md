@@ -1,16 +1,16 @@
 ---
 title: "Pentru binele tău..."
-date: '2014-07-29 19:12:27'
-slug: 'pentru-binele-tau---'
+date: "2014-07-29 19:12:27"
+slug: "pentru-binele-tau---"
 image: /images/direction-255294_640.jpg
-path: '2014-07-29-pentru-binele-tau---.md'
-year: '2014'
-month: '07'
-day: '29'
-author: 59b473454e63ea7e4713a3d0
+path: "2014-07-29-pentru-binele-tau---.md"
+year: "2014"
+month: "07"
+day: "29"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Probabil vei avea parte de cele mai agresive, descurajante și lipsite de valoare ,,discursuri" ale multora dintre apropiații tăi, atunci când le vorbești despre anumite decizii ce le vei lua cu viața 
-tip: articol
+    "Probabil vei avea parte de cele mai agresive, descurajante și lipsite de valoare ,,discursuri" ale multora dintre apropiații tăi, atunci când le vorbești despre anumite decizii ce le vei lua cu viața "
 ---
 <div class="kg-card-markdown"><p><em>Probabil vei avea parte de cele mai agresive, descurajante și lipsite de valoare ,,discursuri" ale multora dintre apropiații tăi, atunci când le vorbești despre anumite decizii ce le vei lua cu viața ta.</em> <em>Vă este familiar presupun: ,,Îți vorbesc așa, pentru că-mi pasă de tine și vreau să înțelegi că greșești", ,,Ai să ajungi la vorba mea".  Nu neapărat. </em></p>
 <p><em>De cele mai multe ori este vorba de frica celuilalt de a pierde controlul asupra ta.</em> <em>Acest ,,pentru că-mi pasă de tine și-ți vreau binele" ajunge să facă mult rău și poate schimba mult relațiile dintre oameni. Orice om care la un moment dat face anumite alegeri pentru viața sa, cu siguranță are un motiv - să-i fie mai bine. </em> <em>Puțini sunt cei ce prind curajul să iasă din ,,zona de confort". </em></p>

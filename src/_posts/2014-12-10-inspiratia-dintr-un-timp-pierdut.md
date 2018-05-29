@@ -1,16 +1,16 @@
 ---
 title: "Inspirația dintr-un timp pierdut"
-date: '2014-12-10 15:15:01'
-slug: 'inspiratia-dintr-un-timp-pierdut'
+date: "2014-12-10 15:15:01"
+slug: "inspiratia-dintr-un-timp-pierdut"
 image: /images/pocket-watch-1637392_640.jpg
-path: '2014-12-10-inspiratia-dintr-un-timp-pierdut.md'
-year: '2014'
-month: '12'
-day: '10'
-author: 59b473454e63ea7e4713a3ce
+path: "2014-12-10-inspiratia-dintr-un-timp-pierdut.md"
+year: "2014"
+month: "12"
+day: "10"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Inspirația o poți găsi în orice, în fumul de țigară, în fulgii de nea de pe fereastră, în mirosul de cafea, dar și în acele ore pe care tu le crezi pierdute.De câte ori am stat cu căștile în urechi a
-tip: articol
+    "Inspirația o poți găsi în orice, în fumul de țigară, în fulgii de nea de pe fereastră, în mirosul de cafea, dar și în acele ore pe care tu le crezi pierdute.De câte ori am stat cu căștile în urechi a"
 ---
 <div class="kg-card-markdown"><p style="text-align: justify;">Inspirația o poți găsi în orice, în fumul de țigară, în fulgii de nea de pe fereastră, în mirosul de cafea, dar și în acele ore pe care tu le crezi pierdute.</p>
 <p style="text-align: justify;">De câte ori am stat cu căștile în urechi ascultând piesele mele preferate, de câte ori nu am stat fără a face nimic, eram doar eu într-un dialog cu gândurile mele.</p>

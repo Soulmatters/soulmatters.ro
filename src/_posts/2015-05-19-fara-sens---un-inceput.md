@@ -1,16 +1,16 @@
 ---
 title: "Fără sens - Un început"
-date: '2015-05-19 11:17:00'
-slug: 'fara-sens---un-inceput'
+date: "2015-05-19 11:17:00"
+slug: "fara-sens---un-inceput"
 image: /images/flowers-291902_640.jpg
-path: '2015-05-19-fara-sens---un-inceput.md'
-year: '2015'
-month: '05'
-day: '19'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-05-19-fara-sens---un-inceput.md"
+year: "2015"
+month: "05"
+day: "19"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Prin împlinirea dorințelor putem defini fericirea? Fericirea are un rol. Acela de a se descoperi în fiecare dintre cei care o cer. Până acum nu și-a descoperit rolul.Are sens să trăim? Nu. Are sens s
-tip: articol
+    "Prin împlinirea dorințelor putem defini fericirea? Fericirea are un rol. Acela de a se descoperi în fiecare dintre cei care o cer. Până acum nu și-a descoperit rolul.Are sens să trăim? Nu. Are sens s"
 ---
 <div class="kg-card-markdown"><p>Prin împlinirea dorințelor putem defini fericirea? Fericirea are un rol. Acela de a se descoperi în fiecare dintre cei care o cer. Până acum nu și-a descoperit rolul.</p>
 <p>Are sens să trăim? Nu. Are sens să ne înmulțim și să ducem mai departe o generație de oameni? Are sens să ne zbatem pentru a deveni, a obține?  Nu. N-are sens. Nimic n-are sens.</p>

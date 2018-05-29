@@ -109,7 +109,7 @@
                 "updated_at": "2017-05-03 08:40:28",
                 "updated_by": "59b473454e63ea7e4713a3cb"
             }, {
-                "id": "59b473454e63ea7e4713a3d0",
+                "id": "'59b473454e63ea7e4713a3d0'",
                 "name": "Andra Niţă",
                 "slug": "andra-nita",
                 "ghost_auth_access_token": null,
@@ -134,7 +134,7 @@
                 "created_at": "2017-03-30 09:30:41",
                 "created_by": "59b473454e63ea7e4713a3cb",
                 "updated_at": "2017-09-09 23:11:22",
-                "updated_by": "59b473454e63ea7e4713a3d0"
+                "updated_by": "'59b473454e63ea7e4713a3d0'"
             }, {
                 "id": "59b473454e63ea7e4713a3d1",
                 "name": "admin",

@@ -1,16 +1,16 @@
 ---
 title: "Calea cea mai scurtă spre a primi atenție. Cererea."
-date: '2014-07-26 21:49:32'
-slug: 'calea-cea-mai-scurta-spre-a-primi-atentie--cererea-'
+date: "2014-07-26 21:49:32"
+slug: "calea-cea-mai-scurta-spre-a-primi-atentie--cererea-"
 image: /images/cat-1279744_640.jpg
-path: '2014-07-26-calea-cea-mai-scurta-spre-a-primi-atentie--cererea-.md'
-year: '2014'
-month: '07'
-day: '26'
-author: 59b473454e63ea7e4713a3d0
+path: "2014-07-26-calea-cea-mai-scurta-spre-a-primi-atentie--cererea-.md"
+year: "2014"
+month: "07"
+day: "26"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    În acest articol am realizat o clasificare succintă a anumitor cereri exprimate indirect de unii oameni. Multe cereri devin perceptibibile prin diverse cuvinte, atitudini, comportamente și trădează pr
-tip: articol
+    "În acest articol am realizat o clasificare succintă a anumitor cereri exprimate indirect de unii oameni. Multe cereri devin perceptibibile prin diverse cuvinte, atitudini, comportamente și trădează pr"
 ---
 <div class="kg-card-markdown"><p><em>În acest articol am realizat o clasificare succintă a anumitor cereri exprimate indirect de unii oameni. Multe cereri devin perceptibibile prin diverse cuvinte, atitudini, comportamente și trădează prezența anumitor nevoi, pe care unele persoane le au la nivel emoțional.</em></p>
 <p><em><strong>Cererea de a primi acceptare, afecțiune, atenție, iertare, compasiune: </strong></em></p>

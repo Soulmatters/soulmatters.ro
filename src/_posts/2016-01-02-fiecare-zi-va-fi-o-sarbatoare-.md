@@ -1,16 +1,16 @@
 ---
 title: "Fiecare zi va fi o sărbătoare!"
-date: '2016-01-02 16:41:47'
-slug: 'fiecare-zi-va-fi-o-sarbatoare-'
+date: "2016-01-02 16:41:47"
+slug: "fiecare-zi-va-fi-o-sarbatoare-"
 image: /images/christmas-993287_960_720.jpg
-path: '2016-01-02-fiecare-zi-va-fi-o-sarbatoare-.md'
-year: '2016'
-month: '01'
-day: '02'
-author: 59b473454e63ea7e4713a3d0
+path: "2016-01-02-fiecare-zi-va-fi-o-sarbatoare-.md"
+year: "2016"
+month: "01"
+day: "02"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Orele se succed unele după altele. Se țin de mână și cântă-n cor aceleași melodii enervante. Parcă ne-ar lua și-n râs. Eram ca oala sub presiune.Așteptăm după o lungă așteptare. Nu știu cum se face, 
-tip: articol
+    "Orele se succed unele după altele. Se țin de mână și cântă-n cor aceleași melodii enervante. Parcă ne-ar lua și-n râs. Eram ca oala sub presiune.Așteptăm după o lungă așteptare. Nu știu cum se face, "
 ---
 <div class="kg-card-markdown"><p>Orele se succed unele după altele. Se țin de mână și cântă-n cor aceleași melodii enervante. Parcă ne-ar lua și-n râs. Eram ca oala sub presiune.</p>
 <p>Așteptăm după o lungă așteptare. Nu știu cum se face, dar am ajuns. A fost un zbor lin în noaptea întunecată. Tocmai bun pentru duhul istovit.</p>

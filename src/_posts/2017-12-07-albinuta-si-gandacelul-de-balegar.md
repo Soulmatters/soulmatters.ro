@@ -1,16 +1,16 @@
 ---
 title: "Albinuța și gândăcelul de bălegar"
-date: '2017-12-07 10:17:45'
-slug: 'albinuta-si-gandacelul-de-balegar'
+date: "2017-12-07 10:17:45"
+slug: "albinuta-si-gandacelul-de-balegar"
 image: /images/albialegar-2.png
-path: '2017-12-07-albinuta-si-gandacelul-de-balegar.md'
-year: '2017'
-month: '12'
-day: '07'
-author: 59b473454e63ea7e4713a3d0
+path: "2017-12-07-albinuta-si-gandacelul-de-balegar.md"
+year: "2017"
+month: "12"
+day: "07"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Ea este o albinuță și zilnic se duce sa extragă polen de prin floricele. Speră că într-o zi cineva o va vedea și pe ea și o va aprecia pentru tot ce face.Până una alta, aceasta tot încearcă să înțep
-tip: articol
+    "Ea este o albinuță și zilnic se duce sa extragă polen de prin floricele. Speră că într-o zi cineva o va vedea și pe ea și o va aprecia pentru tot ce face.Până una alta, aceasta tot încearcă să înțep"
 ---
 <div class="kg-card-markdown"><p><a href="http://www.sherv.net/"><img alt="Bumblebee" width=53 height=76 src="http://www.sherv.net/cm/emoticons/bugs/bumblebee-smiley-emoticon.gif"></a><br>
 Ea este o albinuță și zilnic se duce sa extragă polen de prin floricele. Speră că într-o zi cineva o va vedea și pe ea și o va aprecia pentru tot ce face.</p>

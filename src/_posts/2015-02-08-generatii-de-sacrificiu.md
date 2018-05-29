@@ -1,16 +1,16 @@
 ---
 title: "Generații de sacrificiu"
-date: '2015-02-08 21:49:01'
-slug: 'generatii-de-sacrificiu'
+date: "2015-02-08 21:49:01"
+slug: "generatii-de-sacrificiu"
 image: /images/eyes-246666_640.jpg
-path: '2015-02-08-generatii-de-sacrificiu.md'
-year: '2015'
-month: '02'
-day: '08'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-02-08-generatii-de-sacrificiu.md"
+year: "2015"
+month: "02"
+day: "08"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Fiecare în sinea lui a simțit la un moment dat faptul că se împleticește în cuvinte în fața altora căutând astfel să se descurce pe sine.Totul se întâmplă pentru că nu vrei să te arăți slab, nu vrei 
-tip: articol
+    "Fiecare în sinea lui a simțit la un moment dat faptul că se împleticește în cuvinte în fața altora căutând astfel să se descurce pe sine.Totul se întâmplă pentru că nu vrei să te arăți slab, nu vrei "
 ---
 <div class="kg-card-markdown"><p>Fiecare în sinea lui a simțit la un moment dat faptul că se împleticește în cuvinte în fața altora căutând astfel să se descurce pe sine.</p>
 <p>Totul se întâmplă pentru că nu vrei să te arăți slab, nu vrei să fii compătimit sau să lași prilejul unora să te manipuleze cum vor.</p>

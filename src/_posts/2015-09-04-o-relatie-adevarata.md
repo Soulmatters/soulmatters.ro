@@ -1,16 +1,16 @@
 ---
 title: "O relație adevărată"
-date: '2015-09-04 11:59:22'
-slug: 'o-relatie-adevarata'
+date: "2015-09-04 11:59:22"
+slug: "o-relatie-adevarata"
 image: /images/flowers-164860_640.jpg
-path: '2015-09-04-o-relatie-adevarata.md'
-year: '2015'
-month: '09'
-day: '04'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-09-04-o-relatie-adevarata.md"
+year: "2015"
+month: "09"
+day: "04"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    O relație adevărată Ai părăsit lumea în care erai obișnuit pentru una în care ești nevoit să te adaptezi.Sunt străini sau rude care profită cât pot de tine și se bucură la minim când alegi o schimba
-tip: articol
+    "O relație adevărată Ai părăsit lumea în care erai obișnuit pentru una în care ești nevoit să te adaptezi.Sunt străini sau rude care profită cât pot de tine și se bucură la minim când alegi o schimba"
 ---
 <div class="kg-card-markdown"><p>O relație adevărată:</p>
 <p>Ai părăsit lumea în care erai obișnuit pentru una în care ești nevoit să te adaptezi.</p>

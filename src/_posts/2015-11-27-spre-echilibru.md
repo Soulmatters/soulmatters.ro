@@ -1,16 +1,16 @@
 ---
 title: "Spre echilibru"
-date: '2015-11-27 14:59:30'
-slug: 'spre-echilibru'
+date: "2015-11-27 14:59:30"
+slug: "spre-echilibru"
 image: /images/ballerina-733925_960_720.jpg
-path: '2015-11-27-spre-echilibru.md'
-year: '2015'
-month: '11'
-day: '27'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-11-27-spre-echilibru.md"
+year: "2015"
+month: "11"
+day: "27"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Auzi vorbe și simți priviri care, după ce te-ai întors cu spatele de la ele, parcă îți crestează umbra. Bucată cu bucată. Aparent, ei sunt amabili, săritori.Observi fapte și le cauți un sens. Te adân
-tip: articol
+    "Auzi vorbe și simți priviri care, după ce te-ai întors cu spatele de la ele, parcă îți crestează umbra. Bucată cu bucată. Aparent, ei sunt amabili, săritori.Observi fapte și le cauți un sens. Te adân"
 ---
 <div class="kg-card-markdown"><p>Auzi vorbe și simți priviri care, după ce te-ai întors cu spatele de la ele, parcă îți crestează umbra. Bucată cu bucată. Aparent, ei sunt amabili, săritori.</p>
 <p>Observi fapte și le cauți un sens. Te adâncești numai în întrebări ale căror răspunsuri le poți găsi în orice loc și condiție dar mai puțin în cea umană.</p>

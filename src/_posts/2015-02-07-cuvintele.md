@@ -1,16 +1,16 @@
 ---
 title: "Cuvintele"
-date: '2015-02-07 21:17:04'
-slug: 'cuvintele'
+date: "2015-02-07 21:17:04"
+slug: "cuvintele"
 image: /images/8037205589_f45389a5df_z.jpg
-path: '2015-02-07-cuvintele.md'
-year: '2015'
-month: '02'
-day: '07'
-author: 59b473454e63ea7e4713a3ce
+path: "2015-02-07-cuvintele.md"
+year: "2015"
+month: "02"
+day: "07"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Cuvintele au fost la început. Cuvintele spuse de noi ne reprezintă. Acestea ne modelează comportamentul, starea și viața.Cuvintele ne aduc fericire dar și tristețe, revoluții dar și pace. În ele regă
-tip: articol
+    "Cuvintele au fost la început. Cuvintele spuse de noi ne reprezintă. Acestea ne modelează comportamentul, starea și viața.Cuvintele ne aduc fericire dar și tristețe, revoluții dar și pace. În ele regă"
 ---
 <div class="kg-card-markdown"><p>Cuvintele au fost la început. Cuvintele spuse de noi ne reprezintă. Acestea ne modelează comportamentul, starea și viața.</p>
 <p>Cuvintele ne aduc fericire dar și tristețe, revoluții dar și pace. În ele regăsim adevărul, în ele regăsim minciuna. Prin cuvinte ne comunicăm sentimentele, gândurile, prin cuvinte ne arătăm oamenilor.</p>

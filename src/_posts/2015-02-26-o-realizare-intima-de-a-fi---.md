@@ -1,16 +1,16 @@
 ---
 title: "O realizare intimă de a fi..."
-date: '2015-02-26 11:18:38'
-slug: 'o-realizare-intima-de-a-fi---'
+date: "2015-02-26 11:18:38"
+slug: "o-realizare-intima-de-a-fi---"
 image: /images/Frade.jpg
-path: '2015-02-26-o-realizare-intima-de-a-fi---.md'
-year: '2015'
-month: '02'
-day: '26'
-author: 59b473454e63ea7e4713a3ce
+path: "2015-02-26-o-realizare-intima-de-a-fi---.md"
+year: "2015"
+month: "02"
+day: "26"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Realizez că nu am realizat nimic şi mă pierd în gânduri, mă pierd în vise.Dar şi visul meu e o realizare, o realizare a minţii mele.Şi astfel realizez că  orice gând, orice cuvânt , orice faptă , ce
-tip: articol
+    "Realizez că nu am realizat nimic şi mă pierd în gânduri, mă pierd în vise.Dar şi visul meu e o realizare, o realizare a minţii mele.Şi astfel realizez că  orice gând, orice cuvânt , orice faptă , ce"
 ---
 <div class="kg-card-markdown"><p style="text-align: justify;">Realizez că nu am realizat nimic şi mă pierd în gânduri, mă pierd în vise.</p>
 <p style="text-align: justify;">Dar şi visul meu e o realizare, o realizare a minţii mele.</p>

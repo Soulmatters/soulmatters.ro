@@ -1,16 +1,16 @@
 ---
 title: "Mituri despre bărbați"
-date: '2015-04-03 15:07:06'
-slug: 'mituri-despre-barbati'
+date: "2015-04-03 15:07:06"
+slug: "mituri-despre-barbati"
 image: /images/1534232517_95cc26ac45_z_0.jpg
-path: '2015-04-03-mituri-despre-barbati.md'
-year: '2015'
-month: '04'
-day: '03'
-author: 59b473454e63ea7e4713a3ce
+path: "2015-04-03-mituri-despre-barbati.md"
+year: "2015"
+month: "04"
+day: "03"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Sunt genul de fată care se înțelege mai bine cu bărbații decât cu femeile. Având mulți prieteni băieți sau fiind câteodată unica fată într-un cerc de persoane, am înțeles că bărbații sunt la fel de co
-tip: articol
+    "Sunt genul de fată care se înțelege mai bine cu bărbații decât cu femeile. Având mulți prieteni băieți sau fiind câteodată unica fată într-un cerc de persoane, am înțeles că bărbații sunt la fel de co"
 ---
 <div class="kg-card-markdown"><p>Sunt genul de fată care se înțelege mai bine cu bărbații decât cu femeile. Având mulți prieteni băieți sau fiind câteodată unica fată într-un cerc de persoane, am înțeles că bărbații sunt la fel de complicați ca femeile.</p>
 <p>Avem concepția că femeile și bărbații sunt de pe planete diferite, dar din punctul meu de vedere și din propria experiență pot spune ferm convinsă că suntem de pe aceeași planetă.</p>

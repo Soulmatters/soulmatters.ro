@@ -1,16 +1,16 @@
 ---
 title: "Situațional"
-date: '2015-09-09 23:31:32'
-slug: 'situational'
+date: "2015-09-09 23:31:32"
+slug: "situational"
 image: /images/field-847647_640.jpg
-path: '2015-09-09-situational.md'
-year: '2015'
-month: '09'
-day: '09'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-09-09-situational.md"
+year: "2015"
+month: "09"
+day: "09"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Ne dorim să avem pe cineva, îl avem. Vrem să ne dea atenție. O face și pe asta. Până la un punct.Deși poate acea persoană te-a dorit mai mult decât ai dorit-o tu la început, lucrurile se schimbă ulte
-tip: articol
+    "Ne dorim să avem pe cineva, îl avem. Vrem să ne dea atenție. O face și pe asta. Până la un punct.Deși poate acea persoană te-a dorit mai mult decât ai dorit-o tu la început, lucrurile se schimbă ulte"
 ---
 <div class="kg-card-markdown"><p>Ne dorim să avem pe cineva, îl avem. Vrem să ne dea atenție. O face și pe asta. Până la un punct.</p>
 <p>Deși poate acea persoană te-a dorit mai mult decât ai dorit-o tu la început, lucrurile se schimbă ulterior.</p>

@@ -1,16 +1,16 @@
 ---
 title: "Regretul pierderii celor dragi... vinovăție"
-date: '2014-10-22 12:26:27'
-slug: 'regretul-pierderii-celor-dragi----vinovatie'
+date: "2014-10-22 12:26:27"
+slug: "regretul-pierderii-celor-dragi----vinovatie"
 image: /images/grass-435762_640.jpg
-path: '2014-10-22-regretul-pierderii-celor-dragi----vinovatie.md'
-year: '2014'
-month: '10'
-day: '22'
-author: 59b473454e63ea7e4713a3d0
+path: "2014-10-22-regretul-pierderii-celor-dragi----vinovatie.md"
+year: "2014"
+month: "10"
+day: "22"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Puține au fost momentele în care noi oamenii am apreciat cu adevărat tot ceea ce aveam - prezența celor dragi, anumite situații de viață favorabile nouă și multe altele.De ce omul apreciază atât de p
-tip: articol
+    "Puține au fost momentele în care noi oamenii am apreciat cu adevărat tot ceea ce aveam - prezența celor dragi, anumite situații de viață favorabile nouă și multe altele.De ce omul apreciază atât de p"
 ---
 <div class="kg-card-markdown"><p>Puține au fost momentele în care noi oamenii am apreciat cu adevărat tot ceea ce aveam - prezența celor dragi, anumite situații de viață favorabile nouă și multe altele.</p>
 <p>De ce omul apreciază atât de puțin sau deloc tot ce are în viața sa? De ce odată cu pierderea apare și prețuirea a ceea ce s-a pierdut?</p>

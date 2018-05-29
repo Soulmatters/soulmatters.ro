@@ -1,16 +1,16 @@
 ---
 title: "Medrea Mariana - Cuvânt înainte"
-date: '2016-11-14 16:34:13'
-slug: 'medrea-mariana---cuvant-inainte'
+date: "2016-11-14 16:34:13"
+slug: "medrea-mariana---cuvant-inainte"
 image: /images/narrative-794978_1920.jpg
-path: '2016-11-14-medrea-mariana---cuvant-inainte.md'
-year: '2016'
-month: '11'
-day: '14'
-author: 59b473454e63ea7e4713a3cc
+path: "2016-11-14-medrea-mariana---cuvant-inainte.md"
+year: "2016"
+month: "11"
+day: "14"
+author: "59b473454e63ea7e4713a3cc"
+tip: "articol"
 description: >-
-    Cuvânt înainteToţi ne iubim copiii şi nepoţii şi dorim să le oferim o lume mai  bună şi mai frumoasă.Dar, dacă ne uităm în jurul nostru, percepţia este că nu trăim încă în lumea pe care o visăm pent
-tip: articol
+    "Cuvânt înainteToţi ne iubim copiii şi nepoţii şi dorim să le oferim o lume mai  bună şi mai frumoasă.Dar, dacă ne uităm în jurul nostru, percepţia este că nu trăim încă în lumea pe care o visăm pent"
 ---
 <div class="kg-card-markdown"><p dir="ltr">Cuvânt înainte</p>
 <p dir="ltr">Toţi ne iubim copiii şi nepoţii şi dorim să le oferim o lume mai  bună şi mai frumoasă.</p>

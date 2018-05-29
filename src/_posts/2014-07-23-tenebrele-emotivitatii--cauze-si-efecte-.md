@@ -1,16 +1,16 @@
 ---
 title: "Tenebrele emotivității. Cauze și efecte"
-date: '2014-07-23 21:04:13'
-slug: 'tenebrele-emotivitatii--cauze-si-efecte-'
+date: "2014-07-23 21:04:13"
+slug: "tenebrele-emotivitatii--cauze-si-efecte-"
 image: /images/sad-72217_640.jpg
-path: '2014-07-23-tenebrele-emotivitatii--cauze-si-efecte-.md'
-year: '2014'
-month: '07'
-day: '23'
-author: 59b473454e63ea7e4713a3d0
+path: "2014-07-23-tenebrele-emotivitatii--cauze-si-efecte-.md"
+year: "2014"
+month: "07"
+day: "23"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Emotivitatea a avut și continuă să aibă un impact negativ asupra multor persoane. Aceasta se traduce prin lipsa încrederii în propria persoană, teama de evaluările negative ale celorlalți și teama de 
-tip: articol
+    "Emotivitatea a avut și continuă să aibă un impact negativ asupra multor persoane. Aceasta se traduce prin lipsa încrederii în propria persoană, teama de evaluările negative ale celorlalți și teama de "
 ---
 <div class="kg-card-markdown"><p><em>Emotivitatea a avut și continuă să aibă un impact negativ asupra multor persoane. Aceasta</em><em> se traduce prin lipsa încrederii în propria persoană, teama de evaluările negative ale celorlalți și teama de necunoscut. </em></p>
 <p><em>O altă problemă în ceea ce privește emotivitatea este existența unui paradox în modul de manifestare al acesteia. O să numim acest fenomen în felul următor: Paradoxul emotivității.</em></p>

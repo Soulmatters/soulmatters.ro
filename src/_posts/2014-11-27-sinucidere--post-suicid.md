@@ -1,16 +1,16 @@
 ---
 title: "Sinucidere, post-suicid"
-date: '2014-11-27 06:04:26'
-slug: 'sinucidere--post-suicid'
+date: "2014-11-27 06:04:26"
+slug: "sinucidere--post-suicid"
 image: /images/church-259715_640-300x400.jpg
-path: '2014-11-27-sinucidere--post-suicid.md'
-year: '2014'
-month: '11'
-day: '27'
-author: 59b473454e63ea7e4713a3d0
+path: "2014-11-27-sinucidere--post-suicid.md"
+year: "2014"
+month: "11"
+day: "27"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Sinucidere, tabloul post-suicid  Popa nu face slujbă, societatea condamnă, statul cere dări (taxe cimitir și altele), pompele funebre, ,,pompează"  prețul pentru serviciile lor, cheltuieli cu priveghi
-tip: articol
+    "Sinucidere, tabloul post-suicid  Popa nu face slujbă, societatea condamnă, statul cere dări (taxe cimitir și altele), pompele funebre, ,,pompează"  prețul pentru serviciile lor, cheltuieli cu priveghi"
 ---
 <div class="kg-card-markdown"><p>Sinucidere, tabloul post-suicid: Popa nu face slujbă, societatea condamnă, statul cere dări (taxe cimitir și altele), pompele funebre, ,,pompează"  prețul pentru serviciile lor, cheltuieli cu priveghi, pomeni, bani de judecată pentru moșteniri(dacă-i cazul) etc.</p>
 <p>Rudele, prietenii se îneacă în lacrimi apoi se acuză reciproc și într-un final, când cu toții se mai liniștesc, spun: „Dumnezeu să-l ierte!”</p>

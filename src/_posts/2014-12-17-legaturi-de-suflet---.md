@@ -1,16 +1,16 @@
 ---
 title: "Legături de suflet..."
-date: '2014-12-17 10:37:11'
-slug: 'legaturi-de-suflet---'
+date: "2014-12-17 10:37:11"
+slug: "legaturi-de-suflet---"
 image: /images/girls-380619_640.jpg
-path: '2014-12-17-legaturi-de-suflet---.md'
-year: '2014'
-month: '12'
-day: '17'
-author: 59b473454e63ea7e4713a3d0
+path: "2014-12-17-legaturi-de-suflet---.md"
+year: "2014"
+month: "12"
+day: "17"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Vremea trece odată cu oamenii. Relațiile dintre ei la fel. Prieteniile dispar și unele noi se formează.Viața ne schimbă pe toți. Oameni ce ți-au fost prieteni te lasă deoparte doar pentru că nu te in
-tip: articol
+    "Vremea trece odată cu oamenii. Relațiile dintre ei la fel. Prieteniile dispar și unele noi se formează.Viața ne schimbă pe toți. Oameni ce ți-au fost prieteni te lasă deoparte doar pentru că nu te in"
 ---
 <div class="kg-card-markdown"><p>Vremea trece odată cu oamenii. Relațiile dintre ei la fel. Prieteniile dispar și unele noi se formează.</p>
 <p>Viața ne schimbă pe toți. Oameni ce ți-au fost prieteni te lasă deoparte doar pentru că nu te interesezi de ei și consideră faptul că nu-ți pasă de persoana lor. Din păcate este o mare iluzie a relațiilor dintre oameni. Nu toți cei care se intersează de tine îți sunt și prieteni.</p>

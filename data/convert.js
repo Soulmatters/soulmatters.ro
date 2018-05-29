@@ -11,12 +11,12 @@ for(let item of users.users){
     const user = 
 `---
 name: "${item.name}"
-slug: '${item.slug}'
-email: '${item.email}'
-website: '${item.website}'
-id: '${item.id}'
-image: ${item.profile_image}
-cover: ${item.cover_image}
+slug: "${item.slug}"
+email: "${item.email}"
+website: "${item.website}"
+id: "${item.id}"
+image: "${item.profile_image}"
+cover: "${item.cover_image}"
 ---
 ${item.html}
     `
@@ -32,8 +32,8 @@ for(let item of users.tags){
     const tags = 
 `---
 name: "${item.name}"
-slug: '${item.slug}'
-id: '${item.id}'
+slug: "${item.slug}"
+id: "${item.id}"
 ---
 ${item.html}
     `
@@ -54,17 +54,17 @@ for(let item of data){
     const article = 
 `---
 title: "${item.title}"
-date: '${item.created_at}'
-slug: '${item.slug}'
+date: "${item.created_at}"
+slug: "${item.slug}"
 image: ${item.feature_image}
-path: '${date}-${item.slug}.md'
-year: '${year}'
-month: '${month}'
-day: '${day}'
-author: ${item.author_id}
+path: "${date}-${item.slug}.md"
+year: "${year}"
+month: "${month}"
+day: "${day}"
+author: "${item.author_id}"
+tip: "articol"
 description: >-
-    ${item.html.replace(/<(?:.|\n)*?>/gm, '').substr(0, 200).replace(/:/g, ' ').replace(/(\r\n\t|\n|\r\t)/gm,"")}
-tip: articol
+    "${item.html.replace(/<(?:.|\n)*?>/gm, '').substr(0, 200).replace(/:/g, ' ').replace(/(\r\n\t|\n|\r\t)/gm,"")}"
 ---
 ${item.html}
     `

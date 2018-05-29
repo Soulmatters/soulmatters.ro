@@ -1,16 +1,16 @@
 ---
 title: "Pentru binele altora dar totuși... cară-ți doar crucea ta!"
-date: '2015-06-12 12:05:16'
-slug: 'pentru-binele-altora-dar-totusi----cara-ti-doar-crucea-ta-'
+date: "2015-06-12 12:05:16"
+slug: "pentru-binele-altora-dar-totusi----cara-ti-doar-crucea-ta-"
 image: /images/cross-767047_640.jpg
-path: '2015-06-12-pentru-binele-altora-dar-totusi----cara-ti-doar-crucea-ta-.md'
-year: '2015'
-month: '06'
-day: '12'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-06-12-pentru-binele-altora-dar-totusi----cara-ti-doar-crucea-ta-.md"
+year: "2015"
+month: "06"
+day: "12"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Viața ți se schimbă de la zi la zi dar mai presus de toate de la secundă la secundă. Acum ești. După aceea, nu se știe.Pentru unii, viața nu s-a schimbat deloc multă vreme.Anii s-au scurs în același
-tip: articol
+    "Viața ți se schimbă de la zi la zi dar mai presus de toate de la secundă la secundă. Acum ești. După aceea, nu se știe.Pentru unii, viața nu s-a schimbat deloc multă vreme.Anii s-au scurs în același"
 ---
 <div class="kg-card-markdown"><p>Viața ți se schimbă de la zi la zi dar mai presus de toate de la secundă la secundă. Acum ești. După aceea, nu se știe.</p>
 <p>Pentru unii, viața nu s-a schimbat deloc multă vreme.</p>

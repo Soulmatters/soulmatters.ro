@@ -1,16 +1,16 @@
 ---
 title: "Dragostea nu se măsoară în km"
-date: '2014-12-19 15:04:13'
-slug: 'dragostea-nu-se-masoara-in-km'
+date: "2014-12-19 15:04:13"
+slug: "dragostea-nu-se-masoara-in-km"
 image: /images/love-560783_640.jpg
-path: '2014-12-19-dragostea-nu-se-masoara-in-km.md'
-year: '2014'
-month: '12'
-day: '19'
-author: 59b473454e63ea7e4713a3ce
+path: "2014-12-19-dragostea-nu-se-masoara-in-km.md"
+year: "2014"
+month: "12"
+day: "19"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Dragostea nu are rațiune, nu se măsoară în km și chiar dacă îți promiți ție să nu mai ai o relație la distanță, ajungi să găsești pe cineva de care îți place la o mie de km de tine. Știi acel moment, 
-tip: articol
+    "Dragostea nu are rațiune, nu se măsoară în km și chiar dacă îți promiți ție să nu mai ai o relație la distanță, ajungi să găsești pe cineva de care îți place la o mie de km de tine. Știi acel moment, "
 ---
 <div class="kg-card-markdown"><p>Dragostea nu are rațiune, nu se măsoară în km și chiar dacă îți promiți ție să nu mai ai o relație la distanță, ajungi să găsești pe cineva de care îți place la o mie de km de tine. Știi acel moment, când vezi pe cineva , printre sute de oameni. O fată cu păr de foc, îmbrăcată în negru.</p>
 <p>Eu nu știam dacă l-am văzut în acea zi în care el mă admira pentru prima oară. Eram prea mulți, iar eu aveam un iubit pe atunci. Atunci nici nu am vorbit, nu ne-am zis absolut nimic. Eu țin minte altfel acea zi. El o ține minte că m-a văzut pe mine. Peste 2 ani am început să vorbim pe facebook. Primul lui mesaj a fost că și-a făcut un tatuaj. Așa s-a început, cu un simplu mesaj pe facebook. Facebook-ul a devenit cupidonul generației noastre. Chiar dacă ne despărțeau o mie de km, ne simțeam apropiați unul de altul, sufletele noastre se uneau, și pentru dragoste nu contează distanța.</p>

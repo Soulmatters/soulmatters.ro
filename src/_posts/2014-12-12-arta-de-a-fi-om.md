@@ -1,16 +1,16 @@
 ---
 title: "Arta de a fi OM"
-date: '2014-12-12 21:17:20'
-slug: 'arta-de-a-fi-om'
+date: "2014-12-12 21:17:20"
+slug: "arta-de-a-fi-om"
 image: /images/child-655729_640.jpg
-path: '2014-12-12-arta-de-a-fi-om.md'
-year: '2014'
-month: '12'
-day: '12'
-author: 59b473454e63ea7e4713a3ce
+path: "2014-12-12-arta-de-a-fi-om.md"
+year: "2014"
+month: "12"
+day: "12"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Arta, o regăsim în poezii, tablouri, biserici, castele, filme. Dar toate acestea sunt create de oameni.Iar oamenii au uitat de cea mai importantă artă  arta de a fi OM.De ar avea existența noastră u
-tip: articol
+    "Arta, o regăsim în poezii, tablouri, biserici, castele, filme. Dar toate acestea sunt create de oameni.Iar oamenii au uitat de cea mai importantă artă  arta de a fi OM.De ar avea existența noastră u"
 ---
 <div class="kg-card-markdown"><p style="text-align: justify;">Arta, o regăsim în poezii, tablouri, biserici, castele, filme. Dar toate acestea sunt create de oameni.</p>
 <p style="text-align: justify;">Iar oamenii au uitat de cea mai importantă artă: arta de a fi OM.</p>

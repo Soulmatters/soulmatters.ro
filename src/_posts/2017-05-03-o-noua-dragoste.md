@@ -1,16 +1,16 @@
 ---
 title: "O nouă dragoste - o nouă lume"
-date: '2017-05-03 08:25:56'
-slug: 'o-noua-dragoste'
+date: "2017-05-03 08:25:56"
+slug: "o-noua-dragoste"
 image: /images/inger.jpg
-path: '2017-05-03-o-noua-dragoste.md'
-year: '2017'
-month: '05'
-day: '03'
-author: 59b473454e63ea7e4713a3ce
+path: "2017-05-03-o-noua-dragoste.md"
+year: "2017"
+month: "05"
+day: "03"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    De la primul sărut, te-am  invitat să creăm propria lume, doar a noastră. Să prefacem dragostea noastră într-un spațiu de refugiu și de calm, o nouă ”acasă.”Ne ținem de mână și ne creăm o nouă lume u
-tip: articol
+    "De la primul sărut, te-am  invitat să creăm propria lume, doar a noastră. Să prefacem dragostea noastră într-un spațiu de refugiu și de calm, o nouă ”acasă.”Ne ținem de mână și ne creăm o nouă lume u"
 ---
 <div class="kg-card-markdown"><p>De la primul sărut, te-am  invitat să creăm propria lume, doar a noastră. Să prefacem dragostea noastră într-un spațiu de refugiu și de calm, o nouă ”acasă.”</p>
 <p>Ne ținem de mână și ne creăm o nouă lume unde suntem noi doi, eu și tu. Eu pun luna pe cer și tu soarele. Apoi zi de zi punem câte o stea pe cer și când vine furtuna  noi căutăm raza de lumină.</p>

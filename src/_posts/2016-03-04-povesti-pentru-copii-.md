@@ -1,16 +1,16 @@
 ---
 title: "Povești pentru copii"
-date: '2016-03-04 17:17:26'
-slug: 'povesti-pentru-copii-'
+date: "2016-03-04 17:17:26"
+slug: "povesti-pentru-copii-"
 image: /images/story-2.jpg
-path: '2016-03-04-povesti-pentru-copii-.md'
-year: '2016'
-month: '03'
-day: '04'
-author: 59b473454e63ea7e4713a3cd
+path: "2016-03-04-povesti-pentru-copii-.md"
+year: "2016"
+month: "03"
+day: "04"
+author: "59b473454e63ea7e4713a3cd"
+tip: "articol"
 description: >-
-    Povești audio pentru cei mici!Lupul singuratic„Lupul singuratic&quot; este o poveste fascinantă pentru toti copilașii cuminți, numai bună înainte de un somn liniștit.Noapte bună, prichindeilor! Pă
-tip: articol
+    "Povești audio pentru cei mici!Lupul singuratic„Lupul singuratic&quot; este o poveste fascinantă pentru toti copilașii cuminți, numai bună înainte de un somn liniștit.Noapte bună, prichindeilor! Pă"
 ---
 <div class="kg-card-markdown"><p>Povești audio pentru cei mici!</p>
 <p><strong><a href="https://www.youtube.com/watch?v=F8CA0Zy6V_E">Lupul singuratic</a></strong><br>

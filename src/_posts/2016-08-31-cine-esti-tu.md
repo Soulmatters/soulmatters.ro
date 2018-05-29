@@ -1,16 +1,16 @@
 ---
 title: "Cine ești tu"
-date: '2016-08-31 13:12:23'
-slug: 'cine-esti-tu'
+date: "2016-08-31 13:12:23"
+slug: "cine-esti-tu"
 image: /images/woman-1517067_640_0.jpg
-path: '2016-08-31-cine-esti-tu.md'
-year: '2016'
-month: '08'
-day: '31'
-author: 59b473454e63ea7e4713a3d0
+path: "2016-08-31-cine-esti-tu.md"
+year: "2016"
+month: "08"
+day: "31"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Cine ești tu? Ai un nume? Locuiești undeva? Scrie undeva mai multe despre tine?Pune-ți amintirile în cutii, adună insectele uscate de prin cotloane. Rupe firul de mort de la plantele primite. Rupe po
-tip: articol
+    "Cine ești tu? Ai un nume? Locuiești undeva? Scrie undeva mai multe despre tine?Pune-ți amintirile în cutii, adună insectele uscate de prin cotloane. Rupe firul de mort de la plantele primite. Rupe po"
 ---
 <div class="kg-card-markdown"><p>Cine ești tu? Ai un nume? Locuiești undeva? Scrie undeva mai multe despre tine?<br />
 Pune-ți amintirile în cutii, adună insectele uscate de prin cotloane. Rupe firul de mort de la plantele primite. Rupe poze și scrisori. Sparge tablouri și cești cu fir de aur aduse de prin lume de alții. Nu a fost lumea ta. Șterge, sparge, rupe tot! N-ai nevoie de nimic.</p>

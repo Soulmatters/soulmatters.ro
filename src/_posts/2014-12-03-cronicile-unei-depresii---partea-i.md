@@ -1,16 +1,16 @@
 ---
 title: "Cronicile unei depresii - partea I"
-date: '2014-12-03 13:26:52'
-slug: 'cronicile-unei-depresii---partea-i'
+date: "2014-12-03 13:26:52"
+slug: "cronicile-unei-depresii---partea-i"
 image: /images/depr.jpg
-path: '2014-12-03-cronicile-unei-depresii---partea-i.md'
-year: '2014'
-month: '12'
-day: '03'
-author: 59b473454e63ea7e4713a3ce
+path: "2014-12-03-cronicile-unei-depresii---partea-i.md"
+year: "2014"
+month: "12"
+day: "03"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Ce înseamnă depresia, ce înseamnă sa fii depresiv? E oare lene sau lipsa de motivație?Te lupți cu tine însuți, să faci ceva într-o zi, să nu fie ziua risipită, dar ajungi să faci nimicuri, să pierzi 
-tip: articol
+    "Ce înseamnă depresia, ce înseamnă sa fii depresiv? E oare lene sau lipsa de motivație?Te lupți cu tine însuți, să faci ceva într-o zi, să nu fie ziua risipită, dar ajungi să faci nimicuri, să pierzi "
 ---
 <div class="kg-card-markdown"><p style="text-align: justify;">Ce înseamnă depresia, ce înseamnă sa fii depresiv? E oare lene sau lipsa de motivație?</p>
 <p style="text-align: justify;">Te lupți cu tine însuți, să faci ceva într-o zi, să nu fie ziua risipită, dar ajungi să faci nimicuri, să pierzi timpul pe internet sau uitându-ne într-un colț. Dar încearcă să te inspiri din acele nimicuri, din trăirile ce le ai zi de zi.</p>

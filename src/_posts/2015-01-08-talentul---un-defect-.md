@@ -1,16 +1,16 @@
 ---
 title: "Talentul - un defect?"
-date: '2015-01-08 05:55:24'
-slug: 'talentul---un-defect-'
+date: "2015-01-08 05:55:24"
+slug: "talentul---un-defect-"
 image: /images/talent.png
-path: '2015-01-08-talentul---un-defect-.md'
-year: '2015'
-month: '01'
-day: '08'
-author: 59b473454e63ea7e4713a3ce
+path: "2015-01-08-talentul---un-defect-.md"
+year: "2015"
+month: "01"
+day: "08"
+author: "59b473454e63ea7e4713a3ce"
+tip: "articol"
 description: >-
-    Talentul poate fi un defect? Căci așa simt eu, că talentul e cel mai mare defect al meu. Fiindcă dacă nu aș fi talentată aș găsi un loc de muncă și nu aș visa atât de mult. Aș trăi altfel, în lumea re
-tip: articol
+    "Talentul poate fi un defect? Căci așa simt eu, că talentul e cel mai mare defect al meu. Fiindcă dacă nu aș fi talentată aș găsi un loc de muncă și nu aș visa atât de mult. Aș trăi altfel, în lumea re"
 ---
 <div class="kg-card-markdown"><p>Talentul poate fi un defect? Căci așa simt eu, că talentul e cel mai mare defect al meu. Fiindcă dacă nu aș fi talentată aș găsi un loc de muncă și nu aș visa atât de mult. Aș trăi altfel, în lumea reală, nu în lumea creată de gândurile mele. Aș coborî cu picioarele pe pământ și poate aș fi fost și eu ca restul, să mă gândesc la cum să fac bani, sau la alte chestii cotidiene. Dar eu nu vreau să fiu ca restul. Niciodată nu am vrut.</p>
 <p>Mereu am crezut că sunt specială, că gândesc altfel decât restul.Eu urăsc regulile după care funcționează lumea în care trăiesc și eu. Eu urăsc materialismul și lupta dintre oameni. Dar se pare că pentru unii viața e despre bani. Eu vreau să cred că e mai mult decât atât. Îmi plac scenariile ce le am în cap, când îi ascult pe alții spunându-și grijile.</p>

@@ -1,16 +1,16 @@
 ---
 title: "Necondiționat"
-date: '2015-10-26 12:30:33'
-slug: 'neconditionat'
+date: "2015-10-26 12:30:33"
+slug: "neconditionat"
 image: /images/golden-791072_640.jpg
-path: '2015-10-26-neconditionat.md'
-year: '2015'
-month: '10'
-day: '26'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-10-26-neconditionat.md"
+year: "2015"
+month: "10"
+day: "26"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Mai toată lumea vorbește de D-zeu, iubire, trimite mesaje motivaționale cu sau mai puțină relevanță. Și nu gratis. Nu cu intenția de a le fi auzit mesajul ci de a fi observată imaginea lor.Oameni bun
-tip: articol
+    "Mai toată lumea vorbește de D-zeu, iubire, trimite mesaje motivaționale cu sau mai puțină relevanță. Și nu gratis. Nu cu intenția de a le fi auzit mesajul ci de a fi observată imaginea lor.Oameni bun"
 ---
 <div class="kg-card-markdown"><p>Mai toată lumea vorbește de D-zeu, iubire, trimite mesaje motivaționale cu sau mai puțină relevanță. Și nu gratis. Nu cu intenția de a le fi auzit mesajul ci de a fi observată imaginea lor.</p>
 <p>Oameni buni voi credeți în ce spuneți? Unii spun lucruri frumoase și adevărate dar restul? E acel rest căruia crezi că nu-i mai ajungi nici la călcâie. La el mă refer.</p>

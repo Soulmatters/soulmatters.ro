@@ -1,16 +1,16 @@
 ---
 title: "Mai bun decât tine. Comparație."
-date: '2015-10-08 13:28:30'
-slug: 'mai-bun-decat-tine--comparatie-'
+date: "2015-10-08 13:28:30"
+slug: "mai-bun-decat-tine--comparatie-"
 image: /images/girls-839809_640.jpg
-path: '2015-10-08-mai-bun-decat-tine--comparatie-.md'
-year: '2015'
-month: '10'
-day: '08'
-author: 59b473454e63ea7e4713a3d0
+path: "2015-10-08-mai-bun-decat-tine--comparatie-.md"
+year: "2015"
+month: "10"
+day: "08"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-     Indiferent de domeniul în care au vrut să progreseze - arte, muzică, scrieri, meșteșugărit sau măturat scări, oamenii s-au comparat unii cu alții. Așa cred că-și pot ști nivelul la care sunt în domen
-tip: articol
+    " Indiferent de domeniul în care au vrut să progreseze - arte, muzică, scrieri, meșteșugărit sau măturat scări, oamenii s-au comparat unii cu alții. Așa cred că-și pot ști nivelul la care sunt în domen"
 ---
 <div class="kg-card-markdown"><p> Indiferent de domeniul în care au vrut să progreseze - arte, muzică, scrieri, meșteșugărit sau măturat scări, oamenii s-au comparat unii cu alții. Așa cred că-și pot ști nivelul la care sunt în domeniul lor.</p>
 <p>„Sunt mai bun ca X, am fost mai slab ca Y dar l-am depășit pe Z<span style="line-height: 20.8px;">”</span>. Firesc nouă, oamenilor.</p>

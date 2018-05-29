@@ -1,16 +1,16 @@
 ---
 title: "Un gând pentru tine"
-date: '2014-07-24 10:47:54'
-slug: 'un-gand-pentru-tine'
+date: "2014-07-24 10:47:54"
+slug: "un-gand-pentru-tine"
 image: /images/boat-164989_640.jpg
-path: '2014-07-24-un-gand-pentru-tine.md'
-year: '2014'
-month: '07'
-day: '24'
-author: 59b473454e63ea7e4713a3d0
+path: "2014-07-24-un-gand-pentru-tine.md"
+year: "2014"
+month: "07"
+day: "24"
+author: "'59b473454e63ea7e4713a3d0'"
+tip: "articol"
 description: >-
-    Sunt etape de viață care din păcate, se derulează foarte rapid (când eram mici voiam să fim mari și acum vrem să oprim în loc anii).Trecem de la copilărie la adolescență apoi la maturitate cu tot cee
-tip: articol
+    "Sunt etape de viață care din păcate, se derulează foarte rapid (când eram mici voiam să fim mari și acum vrem să oprim în loc anii).Trecem de la copilărie la adolescență apoi la maturitate cu tot cee"
 ---
 <div class="kg-card-markdown"><p><em>Sunt etape de viață care din păcate, se derulează foarte rapid (când eram mici voiam să fim mari și acum vrem să oprim în loc anii).</em></p>
 <p><em>Trecem de la copilărie la adolescență apoi la maturitate cu tot ceea ce implică aceasta și de multe ori, poate ne speriem. Timpul nu iartă pe nimeni.</em></p>

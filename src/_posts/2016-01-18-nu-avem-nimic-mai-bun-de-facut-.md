@@ -1,16 +1,16 @@
 ---
 title: "Nu avem nimic mai bun de făcut!"
-date: '2016-01-18 00:28:53'
-slug: 'nu-avem-nimic-mai-bun-de-facut-'
+date: "2016-01-18 00:28:53"
+slug: "nu-avem-nimic-mai-bun-de-facut-"
 image: /images/photo-1433588616917-dcbcc63429f4_0.jpg
-path: '2016-01-18-nu-avem-nimic-mai-bun-de-facut-.md'
-year: '2016'
-month: '01'
-day: '18'
-author: 59b475d04e63ea7e4713a4c2
+path: "2016-01-18-nu-avem-nimic-mai-bun-de-facut-.md"
+year: "2016"
+month: "01"
+day: "18"
+author: "59b475d04e63ea7e4713a4c2"
+tip: "articol"
 description: >-
-    Nu avem nimic mai bun de făcut!Nu, nu sunt alte probleme la ora actuală! O fi ca în 18 aprilie 1930, când BBC-ul a anunțat că nu sunt știri pentru acea zi. Nu, nu avem alte probleme, nu se simte încă
-tip: articol
+    "Nu avem nimic mai bun de făcut!Nu, nu sunt alte probleme la ora actuală! O fi ca în 18 aprilie 1930, când BBC-ul a anunțat că nu sunt știri pentru acea zi. Nu, nu avem alte probleme, nu se simte încă"
 ---
 <div class="kg-card-markdown"><p>Nu avem nimic mai bun de făcut!</p>
 <p>Nu, nu sunt alte probleme la ora actuală! O fi ca în 18 aprilie 1930, când BBC-ul a anunțat că nu sunt știri pentru acea zi. Nu, nu avem alte probleme, nu se simte încălzirea globală, doar e zăpadă afară. Nu sunt probleme pentru că anumiți (adică toți) politicienii pur și simplu, își bat joc de noi, dar avem probleme cu Norvegia care au „furat” cică copiii unora. Cum nu avem mai nimic mai bun de făcut, de protestat, ne permitem să aducem injurii la adresa unor oameni care nici măcar nu-i cunoaștem?</p>
