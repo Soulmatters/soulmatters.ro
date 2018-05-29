@@ -1,5 +1,5 @@
 ---
-title: "Povestea codrului"
+title: Povestea codrului
 date: '2018-01-02 16:35:12'
 image: /images/toys-2962776_640.jpg
 description: >-
