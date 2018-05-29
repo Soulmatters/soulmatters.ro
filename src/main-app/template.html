@@ -1,0 +1,92 @@
+   
+   <style>
+      a.iron-selected{
+        color:#009688;
+
+      }
+      a:hover{
+        color:#00796B; 
+      }
+      a{
+        font-size: 17px;
+        font-weight: bold;
+        text-transform: uppercase;
+        color:#212121;
+        text-decoration: none;
+        margin:0 20px;
+      }
+      .top-bar{
+        height: 60px;
+        @apply --shadow-elevation-2dp;
+        display: flex;
+        
+      }
+      .spacer{
+        flex:1;
+      }
+      .top-bar .menu{
+        display: flex;
+        flex-flow: wrap row;
+        height: 100%;
+        align-items: center;
+
+      }
+      @keyframes slide {
+        from {
+          left: -70%;
+        }
+
+        to {
+          left: 0;
+        }
+      }
+footer{
+  width: 100%;
+  height: 200px;
+}
+ /* Adding this class starts the animation, removing it cuts it short */
+ .animated {
+  animation-duration: 1s;
+  animation-name: slide;
+ }
+ .page {
+        position: relative;
+
+        min-height: 100vh;
+
+        display: flex;
+      }
+     
+    </style>
+    
+    <app-location route="{{route}}"></app-location>
+    <app-route 
+      route="{{route}}" 
+      pattern="/:page" 
+      data="{{routeData}}" 
+      tail="{{tail}}">
+    </app-route>
+    <app-route 
+    route="{{route}}" 
+    pattern="/blog/:year/:month/:day/:slug" 
+    data="{{blogData}}">
+  </app-route>
+<div class="top-bar">
+  <div class="spacer"></div>
+<iron-selector selected="[[page]]" class="menu" attr-for-selected="nume">
+  <a href="/" nume="home">Home</a>
+  <a href="/about" nume="about">About</a>
+</iron-selector>
+</div>
+
+    <iron-pages selected="[[page]]"  id="pages"
+      attr-for-selected="name" 
+      selected-attribute="visible" 
+      role="main">
+      <main-home  class="page" name="home"></main-home>
+      <section  class="page" name="about">hello about</section>
+      <main-blog  class="page" name="blog" slug="[[blogData.slug]]" year="[[blogData.year]]" month="[[blogData.month]]" day="[[blogData.day]]"></main-blog>
+
+    </iron-pages>
+
+    <footer></footer>
