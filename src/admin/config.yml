@@ -11,13 +11,41 @@ collections: #A list of collections the CMS should be able to edit
     description: >
       The description is a great place for tone setting, high level information, and editing
       guidelines that are specific to a collection.
-    folder: "src/_posts/blog"
+    folder: "src/_posts"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
       - {label: "Cover Image", name: "image", widget: "image", required: false, tagname: ""}
-      - {label: "SEO Description", name: "seodescription", widget: "text"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
+collections: #A list of collections the CMS should be able to edit
+  - name: "user" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "User" # Used in the UI
+    label_singular: "User data" # Used in the UI, ie: "New Post"
+    description: >
+      The description is a great place for tone setting, high level information, and editing
+      guidelines that are specific to a collection.
+    folder: "src/_users"
+    slug: "{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Name", name: "name", widget: "string", tagname: "h1"}
+      - {label: "Website", name: "website", widget: "string", tagname: "p"}
+      - {label: "Email", name: "email", widget: "string", tagname: "p"}
+      - {label: "Cover Image", name: "image", widget: "image", required: false, tagname: ""}
+
+collections: #A list of collections the CMS should be able to edit
+  - name: "tags" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Tags" # Used in the UI
+    label_singular: "tag" # Used in the UI, ie: "New Post"
+    description: >
+      The description is a great place for tone setting, high level information, and editing
+      guidelines that are specific to a collection.
+    folder: "src/_tags"
+    slug: "{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Name", name: "name", widget: "string", tagname: "h1"}
+      - {label: "id", name: "id", widget: "string", tagname: "p"}
