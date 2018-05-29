@@ -3,7 +3,22 @@ const moment = require('moment')
 const data = require('./import/data.json');
 const users = require('./import/users.json');
 
-console.log(users.users)
+for(let item of users.users){
+    if(item.profile_image === null) continue
+    const user = 
+`---
+name: "${item.name}"
+slug: '${item.slug}'
+id: '${item.id}'
+image: ${item.profile_image}
+---
+${item.html}
+    `
+fs.writeFileSync(`../src/_users/${item.slug}.md`, user, (err,res) => {
+    if(err) console.log(err)
+    console.log(res)
+})
+}
 // for(let item of data){
 //     if(item.status !== 'published') continue
 //     const date = moment(item.created_at).format('YYYY[-]MM[-]DD')
