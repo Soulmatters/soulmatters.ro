@@ -21,12 +21,7 @@ collections: #A list of collections the CMS should be able to edit
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Author", name: "author", widget: "relation", collection: "user", searchFields: ["name", "id"], valueField: "id", displayFields: ["name"]}
       - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Tip pagină"
-        name: "tip"
-        widget: "select"
-        options:
-          - { label: "Articol", value: "articol" }
-          - { label: "Pagină", value: "pagina" }
+      
   - name: "user" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "User" # Used in the UI
     label_singular: "User data" # Used in the UI, ie: "New Post"
@@ -55,3 +50,19 @@ collections: #A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Name", name: "name", widget: "string", tagname: "h1"}
       - {label: "id", name: "id", widget: "string", tagname: "p"}
+  - name: "pagina" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Pagină" # Used in the UI
+    label_singular: "Pagină" # Used in the UI, ie: "New Post"
+    description: >
+      The description is a great place for tone setting, high level information, and editing
+      guidelines that are specific to a collection.
+    folder: "src/_pages"
+    slug: "{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
+      - {label: "Cover Image", name: "image", widget: "image", required: false, tagname: ""}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
+     
