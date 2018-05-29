@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node blog.js && yarn clean:dist && webpack && yarn copystatic:dist",
+    "build": "node blog.js && npm run clean && webpack && npm run copystatic:dist",
     "dev": "webpack-dev-server --hot --inline",
+    "clean": "rm -rf ./dist",
     "copystatic": "cp -R node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js src/vendor",
     "copystatic:dist": "cp -R src/vendor dist/vendor && cp src/index.html dist && cp src/_redirects dist && cp -R src/data dist && cp -R src/images dist && cp -R src/admin dist",
-    "clean:dist": "rm -rf dist",
     "convert": "m2j ./src/_posts ./src/_posts/data.json --content --pretty --width 200 "
   },
   "keywords": [],
