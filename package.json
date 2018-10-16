@@ -14,7 +14,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "flat": true,
   "dependencies": {
     "@littleq/state-manager": "0.0.2",
     "@polymer/app-layout": "^3.0.0-pre.18",
@@ -32,7 +31,6 @@
     "http-server": "0.10.0",
     "moment": "^2.22.1",
     "polymer-redux": "1.0.5",
-    "polymer-twitter-timeline": "1.0.1",
     "postcss-loader": "2.1.5",
     "stylus": "0.54.5",
     "stylus-loader": "3.0.2",
